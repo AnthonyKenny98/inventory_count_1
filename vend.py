@@ -13,7 +13,8 @@ class Vend:
 	def __init__(self):
 		self.headers = {'Authorization' : 'Bearer 2tQzNrcZpJ7vDDXgznMJzk_L7SPCAdXJzyP6FYHA'}
 		self.domain_prefix = "harvardshop"
-		self.consignments = []
+		self.scheduled_consignments = []
+		self.progress_consignments = []
 	
 	def get_product(self, product_id):
 
@@ -26,79 +27,75 @@ class Vend:
 
 		return product
 
-	def get_inventory_counts(self, status = "STOCKTAKE_IN_PROGRESS"):
+	def get_inventory_counts(self):
 		
+		self.scheduled_consignments = []
+		self.progress_consignments = []
+
 		url = "https://{}.vendhq.com/api/2.0/consignments".format(self.domain_prefix)
 		
 		payload = {
 			"type" 		: "STOCKTAKE",
-			"status"	: status
+			"status"	: "STOCKTAKE_SCHEDULED"
 		}
+		self.scheduled_consignments = requests.get(url, headers = self.headers, params = payload).json()["data"]
 
-		consignments = requests.get(url, headers = self.headers, params = payload).json()["data"]
+		payload["status"] = "STOCKTAKE_IN_PROGRESS"
+		self.progress_consignments = requests.get(url, headers = self.headers, params = payload).json()["data"]
 
-		self.consignments = []
-		for consignment in consignments:
-			self.consignments.append(consignment)
-
-	def create_inventory_count(self, outlet):
+	def create_inventory_count(self, outlet, name):
 
 		# url to create inventory count
 		url = "https://{}.vendhq.com/api/2.0/consignments".format(self.domain_prefix)
 
 		payload = {	
 			"outlet_id" 	: outlet,
-			"name"			: "Test [SCHEDULED]",
+			"name"			: name,
 			"status"		: "STOCKTAKE_SCHEDULED",
 			"type"			: "STOCKTAKE",
 			"show_inactive" : 1
 		}
 
 		r = requests.post(url, headers = self.headers, data = payload)
-		consignment = r.json()["data"]
-
-		self.consignments.append(consignment)
+		self.get_inventory_counts()
 		return r
 
 	# Must be used in same instance as create_inventory_counts
 	def start_inventory_counts(self):
 
-		self.get_inventory_counts(status="STOCKTAKE_SCHEDULED")	
-		for consignment in self.consignments:
+		self.get_inventory_counts()	
+		for consignment in self.scheduled_consignments:
 			
 			# url to create inventory count
 			url = "https://{}.vendhq.com/api/2.0/consignments/{}".format(self.domain_prefix, consignment["id"])
 
 			payload = {
 				"outlet_id" : consignment["outlet_id"],
-				"name" 		: "Test [IN PROGRESS]",
+				"name" 		: consignment["name"],
 				"status"	: "STOCKTAKE_IN_PROGRESS",
 				"type"		: "STOCKTAKE"
 			}
 
-			consignment = requests.put(url, headers = self.headers, data = payload).json()["data"]
+			requests.put(url, headers = self.headers, data = payload)
+			self.get_inventory_counts()
 
 	def delete_consignments(self):
 
 		self.get_inventory_counts()
 
-		for consignment in self.consignments:
+		for consignment in self.scheduled_consignments:
 			url = "https://{}.vendhq.com/api/2.0/consignments/{}".format(self.domain_prefix, consignment)
 			requests.delete(url, headers = self.headers)
+		self.get_inventory_counts()
 
-	def update_inventory_count_product(self, product):
+	def update_inventory_count_product(self, count_id, product_id, inventory):
 
-		if len(self.consignments) == 0:
-			self.get_inventory_counts()
-
-		consignment = self.consignments[0]
-
-		url = "https://{}.vendhq.com/api/2.0/consignments/{}/products".format(self.domain_prefix, consignment["id"])
+		url = "https://{}.vendhq.com/api/2.0/consignments/{}/products".format(self.domain_prefix, count_id)
 
 		payload = {
-			"product_id" 	: product["id"],
-			"received"		: product["inventory"]
+			"product_id" 	: product_id,
+			"received"		: inventory
 		}
 
-		return requests.post(url, headers = self.headers, data = payload).text
+		return requests.post(url, headers = self.headers, data = payload)
 		

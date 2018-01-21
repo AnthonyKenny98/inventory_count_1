@@ -35,11 +35,11 @@ def load_db(filepath):
 			"var3 val"	: row[9],
 			"supplier"	: row[10],
 			"active" 	: row[11],
-			"basement"	: row[12],
-			"garage"	: row[13],
-			"jfk"		: row[14],
-			"mt auburn" : row[15],
-			"quality"	: row[16]	
+			"Basement"	: row[12],
+			"Garage"	: row[13],
+			"JFK"		: row[14],
+			"Mt Auburn" : row[15],
+			"Quality Graphics"	: row[16]	
 		}
 
 		product_db.append(product)

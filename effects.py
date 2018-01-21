@@ -1,6 +1,7 @@
 import time
 import sys
 import os
+from requirements import *
 
 def shell_intro():
 	clear()
@@ -21,6 +22,16 @@ def connection_intro():
 	time.sleep(0.5)
 	print "............"
 	time.sleep(0.5)
+	print "\n\nFirewall encountered...."
+	time.sleep(2)
+	bar = ProgressBar(maxval=100, term_width=50, widgets=[Percentage(), Bar()])
+	bar.start()
+	for i in range(100):
+		time.sleep(0.05)
+		bar.update(i)
+	bar.finish()
+	print "All credentials passed"
+
 	print "............"
 	time.sleep(0.5)
 	print "............"
