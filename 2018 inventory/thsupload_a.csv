@@ -1,0 +1,1409 @@
+id,handle,sku,name,variant_option_one_name,variant_option_one_value,variant_option_two_name,variant_option_two_value,variant_option_three_name,variant_option_three_value,supplier_name,active,inventory_Basement,inventory_Garage,inventory_JFK,inventory_Mt_Auburn,inventory_Quality_Graphics
+00796637-a238-11e2-b2b4-bc764e10976c,racerbacktank,10025,Harvard Racerback Tank,Size,S,,,,,MyU,1,0,0,0,0,0
+1321540b-a238-11e2-b2b4-bc764e10976c,racerbacktank,10026,Harvard Racerback Tank,Size,M,,,,,MyU,1,1,0,0,0,0
+1db56acf-a238-11e2-b2b4-bc764e10976c,racerbacktank,10027,Harvard Racerback Tank,Size,L,,,,,MyU,1,61,0,0,0,0
+22ecd2a7-a238-11e2-b2b4-bc764e10976c,racerbacktank,10028,Harvard Racerback Tank,Size,XL,,,,,MyU,1,35,0,0,0,0
+0129609e-7581-11e3-a29a-bc305bf5da20,SmartWatersmall,10258,Smart Water 20 OZ.,,,,,,Coke,1,0,0,0,0,0,
+022894d1-fd3d-11e7-e6e7-925c08ba6a56,harvardcrestmug,11213,Harvard Crest Mug,Color,White,,,,,Quality,1,66,6,6,7,72
+022894d1-fd3d-11e7-e6e7-925c09299b5d,harvardcrestmug,11214,Harvard Crest Mug,Color,Crimson,,,,,Quality,1,65,0,2,6,111
+022894d1-fd3d-11e7-e6e7-995a2d7bdf52,CrestSpeckledMug,10824,Crest Speckled Mug,Color,Crimson,,,,,Quality,1,34,3,2,7,76
+022894d1-fd3d-11e7-e6e7-9a80e3db4a11,FreeIn-StorePickupHarvardStudentsONLY,FreeIn-StorePickupHarvardStudentsONLY,Free In-Store Pickup (Harvard Students ONLY),,,,Freight,1,0,0,0,0,0,,,
+022894d1-fd3d-11e7-e6e7-9c7383d0e242,IvoryTerryCrew,11216,Ivory Terry Crew,Color,Ivory,Size,XS,,,Apparel Empire,1,34,3,2,2,0
+022894d1-fd3d-11e7-e6e7-9c738415c37a,IvoryTerryCrew,11217,Ivory Terry Crew,Color,Ivory,Size,S,,,Apparel Empire,1,35,1,1,2,0
+022894d1-fd3d-11e7-e6e7-9c7384572925,IvoryTerryCrew,11218,Ivory Terry Crew,Color,Ivory,Size,M,,,Apparel Empire,1,30,3,2,2,0
+022894d1-fd3d-11e7-e6e7-9c73849f1ec8,IvoryTerryCrew,11219,Ivory Terry Crew,Color,Ivory,Size,L,,,Apparel Empire,1,26,2,2,2,0
+022894d1-fd3d-11e7-e6e7-9c7384e5a3aa,IvoryTerryCrew,11220,Ivory Terry Crew,Color,Ivory,Size,XL,,,Apparel Empire,1,18,2,2,2,0
+022894d1-fd3d-11e7-e6e7-9c73d3262b58,TheHarrisonJacket,11221,"The ""Harrison"" Jacket",Color,Crimson,Size,XS,,,Apparel Empire,1,41,2,0,2,0
+022894d1-fd3d-11e7-e6e7-9c73d37039dc,TheHarrisonJacket,11222,"The ""Harrison"" Jacket",Color,Crimson,Size,S,,,Apparel Empire,1,56,1,0,2,0
+022894d1-fd3d-11e7-e6e7-9c73d3c20fc4,TheHarrisonJacket,11223,"The ""Harrison"" Jacket",Color,Crimson,Size,M,,,Apparel Empire,1,42,3,0,3,0
+022894d1-fd3d-11e7-e6e7-9c73d404b4a4,TheHarrisonJacket,11224,"The ""Harrison"" Jacket",Color,Crimson,Size,L,,,Apparel Empire,1,28,2,0,3,0
+022894d1-fd3d-11e7-e6e7-9c73d4462946,TheHarrisonJacket,11225,"The ""Harrison"" Jacket",Color,Crimson,Size,XL,,,Apparel Empire,1,23,2,0,2,0
+022894d1-fd3d-11e7-e6e7-a3ae3e2e8a01,FreeIn-StorePickupH-SweaterPurchasesbyHarvardStudentsONLY,FreeIn-StorePickupH-SweaterPurchasesbyHarvardStudentsONLY,Free In-Store Pickup (H-Sweater Purchases by Harvard Students ONLY),,Freight,1,0,0,0,0,0,,,,,
+022894d1-fd3d-11e7-e6e7-a7aa04b74294,HarvardBistroMug,11237,Harvard Bistro Mug,Color,Ivory,,,,,Quality,1,49,0,0,0,0
+022894d1-fd3d-11e7-e6e7-a7aaf22e48ed,HarvardCrestPintGlass,2035,Harvard Crest Pint Glass,,,,,,,1,55,4,8,4,72,
+022894d1-fd3d-11e7-e6e7-a7ac8cc78d8d,HarvardLadiesFlannelPants,11239,Harvard Ladies Flannel Pants,Color,Crimson,Size,S,,,Concepts Sport,1,9,2,2,5,0
+022894d1-fd3d-11e7-e6e7-a7ac8d0f7fcf,HarvardLadiesFlannelPants,11240,Harvard Ladies Flannel Pants,Color,Crimson,Size,M,,,Concepts Sport,1,29,2,3,4,0
+022894d1-fd3d-11e7-e6e7-a7ac8d6a5684,HarvardLadiesFlannelPants,11241,Harvard Ladies Flannel Pants,Color,Crimson,Size,L,,,Concepts Sport,1,17,2,2,4,0
+022894d1-fd3d-11e7-e6e7-a7ac8dc9bd1f,HarvardLadiesFlannelPants,11242,Harvard Ladies Flannel Pants,Color,Crimson,Size,XL,,,Concepts Sport,1,9,1,2,3,0
+022894d1-fd3d-11e7-e6e7-b50508fab771,HarvardSnowflakeScarf,11243,Harvard Snowflake Scarf,Color,Crimson,,,,,Ouray,1,0,0,0,0,0
+022894d1-fd3d-11e7-e6e7-b5075da94c71,HarvardHShieldPin,882,Harvard H Shield Pin,Color,Crimson,,,,,Pin Badge Maker Company,1,811,16,17,0,0
+022894d1-fd3d-11e7-e6e7-b50999b177f7,HarvardBusinessSchoolPin,872,Harvard Business School Pin,Color,Crimson,,,,,Pin Badge Maker Company,1,1016,14,24,0,0
+022894d1-fd3d-11e7-e6e7-b50b66ddfe38,HarvardCrimsonHPin,1065,Harvard Crimson H Pin,Color,Crimson,,,,,Pin Badge Maker Company,1,872,23,0,17,0
+022894d1-fd3d-11e7-e6e7-b50c39c8d7c6,HarvardKennedySchoolPin,871,Harvard Kennedy School Pin,Color,Crimson,,,,,Pin Badge Maker Company,1,1103,0,0,0,0
+022894d1-fd3d-11e7-e6e7-b50cfc518090,HarvardPin,894,Harvard Pin,Color,Crimson,,,,,Pin Badge Maker Company,1,928,46,36,28,0
+022894d1-fd3d-11e7-e6e7-b50f804ee8da,Harvard1636Pin,895,Harvard 1636 Pin,Color,Gold,,,,,Pin Badge Maker Company,1,825,17,0,8,0
+022894d1-fd3d-11e7-e6e7-b5cec62b2d45,HSAPatagonia,11244,HSA Patagonia,Gender,mens,,,,,,1,0,0,0,0,0
+022894d1-fd3d-11e7-e6e7-b5cec676c79e,HSAPatagonia,11245,HSA Patagonia,Gender,womens,,,,,,1,0,0,0,0,0
+022894d1-fd3d-11e7-e6e7-b5ceef542715,HSAHat,11246,HSA Hat,,,,,,,,1,0,0,0,0,0
+022894d1-fd3d-11e7-e6e7-b5cf091b517d,LetsGoHat,11247,Let's Go Hat,,,,,,,,1,0,0,0,0,0
+022894d1-fd3d-11e7-e6e7-b5cf1584406a,HSACamelbak,11248,HSA Camelbak,,,,,,,1,0,0,0,0,0,
+022894d1-fd3d-11e7-e6e7-b5cf22e5b743,LetsGoCamelbak,11249,Let's Go Camelbak,,,,,,,1,0,0,0,0,0,
+022894d1-fd3d-11e7-e6e7-b82a2f1cb3ee,TheSarahWaffleTee,11250,"The ""Sarah"" Waffle Tee",Color,Crimson,Size,S,,,The League,1,0,0,0,0,0
+022894d1-fd3d-11e7-e6e7-b82d4a9967f0,TheSarahWaffleTee,11251,"The ""Sarah"" Waffle Tee",Color,Crimson,Size,M,,,The League,1,0,0,0,0,0
+022894d1-fd3d-11e7-e6e7-b82d4f58f7e2,TheSarahWaffleTee,11252,"The ""Sarah"" Waffle Tee",Color,Crimson,Size,L,,,The League,1,1,1,0,1,0
+022894d1-fd3d-11e7-e6e7-b82d5d3895b7,TheSarahWaffleTee,11253,"The ""Sarah"" Waffle Tee",Color,Crimson,Size,XL,,,The League,1,0,2,0,2,0
+022894d1-fd3d-11e7-e6e7-bd9e9380049d,HarvardMensFlannelPants,11255,Harvard Mens Flannel Pants,Size,S,,,,,Concepts Sport,1,12,2,2,2,0
+022894d1-fd3d-11e7-e6e7-bd9e99f0d73f,HarvardMensFlannelPants,11256,Harvard Mens Flannel Pants,Size,M,,,,,Concepts Sport,1,6,3,2,3,0
+022894d1-fd3d-11e7-e6e7-bd9e9f3c3add,HarvardMensFlannelPants,11257,Harvard Mens Flannel Pants,Size,L,,,,,Concepts Sport,1,0,2,1,1,0
+022894d1-fd3d-11e7-e6e7-bd9ea3b562b0,HarvardMensFlannelPants,11258,Harvard Mens Flannel Pants,Size,XL,,,,,Concepts Sport,1,0,0,0,3,0
+022894d1-fd3d-11e7-e6e7-be6b35f4fd12,HarvardSnowflakeBeanie,11259,Harvard Snowflake Beanie,Color,Crimson,,,,,Ouray,1,0,1,2,4,0
+022894d1-fd3d-11e7-e6e7-c56c198e7421,SEASToteBag,11260,SEAS Tote Bag,,,,,,Vineyard Vines,1,0,0,0,0,0,
+022894d1-fd3d-11e7-e6e7-ca06ee420cd2,RugbyStripedBeanie,11261,Rugby Striped Beanie,Color,Crimson,,,,,Apparel Empire,1,396,4,2,3,0
+022f2cd5-6f02-11e2-b1f5-4040782fde00,3,3,USPS Express Mail,Title,Default,,,,,Freight,1,0,0,0,0,0
+0274a24e-fd3d-11e6-f3f1-1a2e5e0990c4,HarvardZipperAppliqueHoodedSweatshirt,10642,Harvard Applique Full Zip,,,,,,,,39,2,2,2,0,
+0470ee26-6c33-11e2-b1f5-4040782fde00,HarvardYardPostcard,1142,Black & White Postcard,,,,,,ICONCEPT,1,1512,0,77,25,0,
+05f1e95f-ddae-11e2-a415-bc764e10976c,Harvard3DWeeksBridgeMagnet,10095,Harvard 3D Weeks Bridge Magnet,,,,,Mahoney Publishing,1,1075,26,5,5,0,,
+060f02b1-c83d-11e6-e913-e24e768b1326,rush-shipping-charge,RushShippingCDefaultTitle,Rush Shipping Charge,,,,,,The Harvard Shop,1,0,0,0,0,0,
+060f02b1-c83d-11e6-e913-f22d47e2beec,VacuumTumbler10oz,10851,Vacuum Tumbler 10 oz.,Color,Crimson,,,,,LXG,1,1,1,4,0,0
+060f02b1-c83d-11e6-e913-f22d48343ed4,VacuumTumbler10oz,10852,Vacuum Tumbler 10 oz.,Color,Black,,,,,LXG,1,2,7,5,9,0
+060f02b1-c83d-11e6-e913-f22de12e9766,LeatherCrestKeychain,10853,Leather Crest Keychain,Color,Crimson,,,,,LXG,1,128,18,8,11,0
+060f02b1-c83d-11e6-e913-f22dfca7205c,LeatherStrapKeychain,10854,Leather Strap Keychain,Color,Crimson,,,,,LXG,1,1109,10,15,9,0
+060f02b1-c83d-11e6-e913-f22e330872aa,LeatherLuggageTag,10855,Leather Luggage Tag,Color,Crimson,,,,,LXG,1,82,0,2,3,0
+060f02b1-c83d-11e6-e913-f22ea8575f05,3-in-1LEDStylusPen,10856,3-in-1 LED Stylus Pen,Color,Crimson,,,,,LXG,1,127,0,0,0,0
+060f02b1-c83d-11e6-e913-f22ea8b5de9a,3-in-1LEDStylusPen,10857,3-in-1 LED Stylus Pen,Color,Black,,,,,LXG,1,25,7,9,3,0
+060f02b1-c83d-11e6-e913-f22f7ca5b78c,CrestSpinnerKeychain,10860,Crest Spinner Keychain,Color,Crimson,,,,,LXG,1,101,15,15,12,0
+060f02b1-c83d-11e6-e913-f3b9341fcf5b,MITRoundKeychain,60142,MIT Round Keychain,,,,,,FREEDOM,1,50,0,0,0,0,
+060f02b1-c83d-11e6-e913-f3b934474ec1,MITMagnet,60132,MIT Magnet,,,,,,,FREEDOM,1,25,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b93460a10c,MITBinaryLogoHat,60129,MIT Binary Logo Hat,,,,,,FREEDOM,1,13,0,0,0,0,
+060f02b1-c83d-11e6-e913-f3b9347a222a,MITOnesie,60133,MIT Onesie,Size,6 months,,,,,FREEDOM,1,12,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b93496e25b,MITOnesie,60134,MIT Onesie,Size,12 months,,,,,FREEDOM,1,35,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b934c5877e,MITOnesie,60135,MIT Onesie,Size,18 months,,,,,FREEDOM,1,19,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b934e0d859,MITOnesie,60136,MIT Onesie,Size,24 months,,,,,FREEDOM,1,17,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b934fbf790,WomensMITBinaryLogoT-Shirt,60148,Ladies MIT Binary Logo T-Shirt,Size,S,Color,Charcoal,,,FREEDOM,1,2,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b935149923,WomensMITBinaryLogoT-Shirt,60149,Ladies MIT Binary Logo T-Shirt,Size,M,Color,Charcoal,,,FREEDOM,1,7,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b9352ff4c5,WomensMITBinaryLogoT-Shirt,60150,Ladies MIT Binary Logo T-Shirt,Size,L,Color,Charcoal,,,FREEDOM,1,10,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b9354a13c2,WomensMITBinaryLogoT-Shirt,60151,Ladies MIT Binary Logo T-Shirt,Size,XL,Color,Charcoal,,,FREEDOM,1,10,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b935657e4f,YouthBinaryLogoT-Shirt,60138,Youth Binary Logo T-Shirt,Size,YXS,,,,,FREEDOM,1,34,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b9358050ec,YouthBinaryLogoT-Shirt,60139,Youth Binary Logo T-Shirt,Size,YS,,,,,FREEDOM,1,34,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b9359cb857,YouthBinaryLogoT-Shirt,60140,Youth Binary Logo T-Shirt,Size,YM,,,,,FREEDOM,1,34,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b935b61943,YouthBinaryLogoT-Shirt,60141,Youth Binary Logo T-Shirt,Size,YL,,,,,FREEDOM,1,34,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b935e9f774,MITContemporaryCinchBag,60130,MIT Contemporary Cinch Bag,,,,,Quality Graphics,1,176,0,0,0,0,,
+060f02b1-c83d-11e6-e913-f3b93620c800,MITCrestCinchBag,60131,MIT Crest Cinch Bag,,,,,,Quality Graphics,1,239,0,0,0,0,
+060f02b1-c83d-11e6-e913-f3b93639f493,MITRedPen,60137,MIT Pen,Color,Crimson,,,,,Quality,1,52,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b93652a30b,MITWhitePen,60147,MIT Pen,Color,White,,,,,Quality,1,130,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b9366b5358,MITArcT-Shirt,60125,MIT Arc T-Shirt,Size,S,Color,Oxford,,,Quality,1,5,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b93689df0b,MITArcT-Shirt,60126,MIT Arc T-Shirt,Size,M,Color,Oxford,,,Quality,1,1,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b936a4a9ac,MITArcT-Shirt,60127,MIT Arc T-Shirt,Size,L,Color,Oxford,,,Quality,1,0,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b936c0da95,MITArcT-Shirt,60128,MIT Arc T-Shirt,Size,XL,Color,Oxford,,,Quality,1,4,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b936dcb33b,MITEngineersVintageT-Shirt-Maroon,60016,MIT Engineers Vintage T-Shirt - Crimson,Size,S,Color,Crimson,,,MyU,1,13,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b936f87ad8,MITEngineersVintageT-Shirt-Maroon,60017,MIT Engineers Vintage T-Shirt - Crimson,Size,M,Color,Crimson,,,MyU,1,20,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b93715a1e6,MITEngineersVintageT-Shirt-Maroon,60018,MIT Engineers Vintage T-Shirt - Crimson,Size,L,Color,Crimson,,,MyU,1,0,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b9375087a4,MITEngineersVintageT-Shirt-Maroon,60019,MIT Engineers Vintage T-Shirt - Crimson,Size,XL,Color,Crimson,,,MyU,1,3,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b9376ca165,MITEngineersVintageT-Shirt-Charcoal,60020,MIT Engineers Vintage T-Shirt - Charcoal,Size,S,Color,Charcoal,,,MyU,1,6,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b937864170,MITEngineersVintageT-Shirt-Charcoal,60021,MIT Engineers Vintage T-Shirt - Charcoal,Size,M,Color,Charcoal,,,MyU,1,11,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b937a0c4bd,MITEngineersVintageT-Shirt-Charcoal,60022,MIT Engineers Vintage T-Shirt - Charcoal,Size,L,Color,Charcoal,,,MyU,1,0,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b937bd0a6e,MITEngineersVintageT-Shirt-Charcoal,60023,MIT Engineers Vintage T-Shirt - Charcoal,Size,XL,Color,Charcoal,,,MyU,1,0,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b937dae951,MITEngineersVintageT-Shirt-Gray,60024,MIT Engineers Vintage T-Shirt - Oxford,Size,S,Color,Oxford,,,MyU,1,16,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b937f726b5,MITEngineersVintageT-Shirt-Gray,60025,MIT Engineers Vintage T-Shirt - Oxford,Size,M,Color,Oxford,,,MyU,1,14,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b9381378c4,MITEngineersVintageT-Shirt-Gray,60026,MIT Engineers Vintage T-Shirt - Oxford,Size,L,Color,Oxford,,,MyU,1,3,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b9382fbfd6,MITEngineersVintageT-Shirt-Gray,60027,MIT Engineers Vintage T-Shirt - Oxford,Size,XL,Color,Oxford,,,MyU,1,4,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b9384afdd6,MITEngineerArcT-Shirt,60028,MIT Engineer Arc T-Shirt,Size,S,Color,Oxford,,,MyU,1,9,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b938652c03,MITEngineerArcT-Shirt,60029,MIT Engineer Arc T-Shirt,Size,M,Color,Oxford,,,MyU,1,10,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b938812c70,MITEngineerArcT-Shirt,60030,MIT Engineer Arc T-Shirt,Size,L,Color,Oxford,,,MyU,1,3,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b9389d9318,MITEngineerArcT-Shirt,60031,MIT Engineer Arc T-Shirt,Size,XL,Color,Oxford,,,MyU,1,0,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b938c5e2d3,MITColor-filledKeychain,60032,MIT Contemporary Logo Keychain,,,,,LXG,1,21,0,0,0,0,,
+060f02b1-c83d-11e6-e913-f3b938e593b7,MITSpeckledCrestBistroMug,60033,MIT Speckled Crest Bistro Mug,Color,Crimson,,,,,LXG,1,2,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b93901f9db,MITSpeckledCrestBistroMug,60034,MIT Speckled Crest Bistro Mug,Color,Blue,,,,,LXG,1,7,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b9391e2a5f,MITSilverTumbler,60035,MIT Silver Tumbler Thermos,,,,,LXG,1,17,0,0,0,0,,
+060f02b1-c83d-11e6-e913-f3b93950c122,MITEtchedCrestShotGlass,60037,MIT Etched Crest Shot Glass,,,,,LXG,1,12,0,0,0,0,,
+060f02b1-c83d-11e6-e913-f3b9396971cb,MITLeatherKeychain,60038,MIT Leather Keychain,,,,,,LXG,1,0,0,0,0,0,
+060f02b1-c83d-11e6-e913-f3b939ba98df,MITQuarterZipEmbroideredSweater,60041,MIT Quarter Zip Embroidered Sweater,Size,S,Color,Charcoal,,,Ouray,1,5,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b93d73a3f0,MITQuarterZipEmbroideredSweater,60045,MIT Quarter Zip Embroidered Sweater,Size,XXL,Color,Charcoal,,,Ouray,1,0,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b93da3f577,MITQuarterZipEmbroideredSweater,60042,MIT Quarter Zip Embroidered Sweater,Size,M,Color,Charcoal,,,Ouray,1,0,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b93dc2ffd6,MITQuarterZipEmbroideredSweater,60043,MIT Quarter Zip Embroidered Sweater,Size,L,Color,Charcoal,,,Ouray,1,0,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b93de0e896,MITQuarterZipEmbroideredSweater,60044,MIT Quarter Zip Embroidered Sweater,Size,XL,Color,Charcoal,,,Ouray,1,5,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b93dfbd497,MITLargePennant,60046,MIT Large Pennant,,,,,,Collegiate Pacific,1,50,0,0,0,0,
+060f02b1-c83d-11e6-e913-f3b9432415b3,BostonHoodedSweatshirt,60000,Boston Hooded Sweatshirt,Color,Heather,Size,Small,,,Alan Freedman Enterprises,1,0,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b943e0e8c8,BostonHoodedSweatshirt,60001,Boston Hooded Sweatshirt,Color,Heather,Size,Medium,,,Alan Freedman Enterprises,1,0,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b94498da78,BostonHoodedSweatshirt,60002,Boston Hooded Sweatshirt,Color,Heather,Size,Large,,,Alan Freedman Enterprises,1,0,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b944d0ce99,BostonHoodedSweatshirt,60003,Boston Hooded Sweatshirt,Color,Heather,Size,X-Large,,,Alan Freedman Enterprises,1,17,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b944eb99ba,BostonHoodedSweatshirt,60004,Boston Hooded Sweatshirt,Color,Navy,Size,Small,,,Alan Freedman Enterprises,1,0,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b9457ae10c,BostonHoodedSweatshirt,60005,Boston Hooded Sweatshirt,Color,Navy,Size,Medium,,,Alan Freedman Enterprises,1,0,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b9459708e1,BostonHoodedSweatshirt,60006,Boston Hooded Sweatshirt,Color,Navy,Size,Large,,,Alan Freedman Enterprises,1,0,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b945c3edd7,BostonHoodedSweatshirt,60007,Boston Hooded Sweatshirt,Color,Navy,Size,X-Large,,,Alan Freedman Enterprises,1,0,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b94654081b,BostonCollegeT-Shirt,60055,Boston College T-Shirt,Size,Small,,,,,Alan Freedman Enterprises,1,4,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b9470b3227,BostonCollegeT-Shirt,60056,Boston College T-Shirt,Size,Medium,,,,,Alan Freedman Enterprises,1,5,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b947809281,BostonCollegeT-Shirt,60057,Boston College T-Shirt,Size,Large,,,,,Alan Freedman Enterprises,1,3,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b947ad9390,BostonCollegeT-Shirt,60058,Boston College T-Shirt,Size,X-Large,,,,,Alan Freedman Enterprises,1,7,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b9482e64ba,MITT-Shirt,60059,MIT T-Shirt,Color,Oxford,Size,S,,,FREEDOM,1,11,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b94847d620,MITT-Shirt,60060,MIT T-Shirt,Color,Oxford,Size,M,,,FREEDOM,1,6,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b948812f84,MITT-Shirt,60061,MIT T-Shirt,Color,Oxford,Size,L,,,FREEDOM,1,3,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b948a8c098,MITT-Shirt,60062,MIT T-Shirt,Color,Oxford,Size,XL,,,FREEDOM,1,4,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b94903dec9,MITT-Shirt,60063,MIT T-Shirt,Color,Crimson,Size,S,,,FREEDOM,1,3,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b9495f5328,MITT-Shirt,60064,MIT T-Shirt,Color,Crimson,Size,M,,,FREEDOM,1,5,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b949c903b8,MITT-Shirt,60065,MIT T-Shirt,Color,Crimson,Size,L,,,FREEDOM,1,4,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b949f96774,MITT-Shirt,60066,MIT T-Shirt,Color,Crimson,Size,XL,,,FREEDOM,1,1,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b94ba7e6ec,MITHoodedSweatshirt,60071,MIT Hooded Sweatshirt,Color,Oxford,Size,S,,,FREEDOM,1,0,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b94bf16e41,MITHoodedSweatshirt,60072,MIT Hooded Sweatshirt,Color,Oxford,Size,M,,,FREEDOM,1,4,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b94c21c135,MITHoodedSweatshirt,60073,MIT Hooded Sweatshirt,Color,Oxford,Size,L,,,FREEDOM,1,0,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b94c9ed4de,MITHoodedSweatshirt,60074,MIT Hooded Sweatshirt,Color,Oxford,Size,XL,,,FREEDOM,1,1,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b94d335c85,MITHoodedSweatshirt,60075,MIT Hooded Sweatshirt,Color,Crimson,Size,S,,,FREEDOM,1,0,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b94d588560,MITHoodedSweatshirt,60076,MIT Hooded Sweatshirt,Color,Crimson,Size,M,,,FREEDOM,1,1,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b94ddab9df,MITHoodedSweatshirt,60077,MIT Hooded Sweatshirt,Color,Crimson,Size,L,,,FREEDOM,1,1,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b94e42d132,MITHoodedSweatshirt,60078,MIT Hooded Sweatshirt,Color,Crimson,Size,XL,,,FREEDOM,1,9,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b94e910834,MITCrewSweatshirt,60079,MIT Crew Sweatshirt,Size,S,Color,Oxford,,,FREEDOM,1,36,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b954c27dcd,MITCrewSweatshirt,60080,MIT Crew Sweatshirt,Size,M,Color,Oxford,,,FREEDOM,1,34,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b955129759,MITCrewSweatshirt,60081,MIT Crew Sweatshirt,Size,L,Color,Oxford,,,FREEDOM,1,20,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b955a7501f,MITCrewSweatshirt,60082,MIT Crew Sweatshirt,Size,XL,Color,Oxford,,,FREEDOM,1,23,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b9562e0341,MITMug,60083,MIT Mug,,,,,,,FREEDOM,1,36,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b956871ddf,BostonApparelCompanyT-Shirt,60084,Boston Apparel Company T-Shirt,Size,S,Color,Navy,,,Quality Graphics,1,30,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b9570a1c6a,BostonApparelCompanyT-Shirt,60085,Boston Apparel Company T-Shirt,Size,M,Color,Navy,,,Quality Graphics,1,5,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b957367e25,BostonApparelCompanyT-Shirt,60086,Boston Apparel Company T-Shirt,Size,L,Color,Navy,,,Quality Graphics,1,24,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b957d0c8f4,BostonApparelCompanyT-Shirt,60087,Boston Apparel Company T-Shirt,Size,XL,Color,Navy,,,Quality Graphics,1,19,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b9580a7a99,YouthBostonArcT-Shirt,60088,Youth Boston Arc T-Shirt,Size,XS,Color,Oxford,,,FREEDOM,1,10,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b958576d97,YouthBostonArcT-Shirt,60089,Youth Boston Arc T-Shirt,Size,S,Color,Oxford,,,FREEDOM,1,9,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b958813e98,YouthBostonArcT-Shirt,60090,Youth Boston Arc T-Shirt,Size,M,Color,Oxford,,,FREEDOM,1,3,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b9589b01cd,YouthBostonArcT-Shirt,60091,Youth Boston Arc T-Shirt,Size,L,Color,Oxford,,,FREEDOM,1,5,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b958d42fcd,YouthBostonArcT-Shirt,60092,Youth Boston Arc T-Shirt,Size,XS,Color,Navy,,,FREEDOM,1,12,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b959124d30,YouthBostonArcT-Shirt,60093,Youth Boston Arc T-Shirt,Size,S,Color,Navy,,,FREEDOM,1,12,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b95934dda0,YouthBostonArcT-Shirt,60094,Youth Boston Arc T-Shirt,Size,M,Color,Navy,,,FREEDOM,1,10,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b9598e2446,YouthBostonArcT-Shirt,60095,Youth Boston Arc T-Shirt,Size,L,Color,Navy,,,FREEDOM,1,5,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b959b40650,YouthBostonArcHoodedSweatshirt,60096,Youth Boston Arc Hooded Sweatshirt,Size,S,Color,Oxford,,,FREEDOM,1,8,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b95a05c900,YouthBostonArcHoodedSweatshirt,60097,Youth Boston Arc Hooded Sweatshirt,Size,M,Color,Oxford,,,FREEDOM,1,5,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b95a5f94ec,YouthBostonArcHoodedSweatshirt,60098,Youth Boston Arc Hooded Sweatshirt,Size,L,Color,Oxford,,,FREEDOM,1,2,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b95a87e81d,YouthBostonArcHoodedSweatshirt,60099,Youth Boston Arc Hooded Sweatshirt,Size,S,Color,Navy,,,FREEDOM,1,9,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b95ad09414,YouthBostonArcHoodedSweatshirt,60100,Youth Boston Arc Hooded Sweatshirt,Size,M,Color,Navy,,,FREEDOM,1,12,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b95af30232,YouthBostonArcHoodedSweatshirt,60101,Youth Boston Arc Hooded Sweatshirt,Size,L,Color,Navy,,,FREEDOM,1,7,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b95b27e7c1,MITHat,60102,MIT Hat,Color,Crimson,,,,,FREEDOM,1,6,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b95b418692,MITFutureFreshmanT-Shirt,60103,MIT Future Freshman T-Shirt,Size,XS,Color,Oxford,,,FREEDOM,1,15,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b95b5dd4a9,MITFutureFreshmanT-Shirt,60104,MIT Future Freshman T-Shirt,Size,S,Color,Oxford,,,FREEDOM,1,22,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b95b9a6f19,MITFutureFreshmanT-Shirt,60105,MIT Future Freshman T-Shirt,Size,M,Color,Oxford,,,FREEDOM,1,17,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b95bf9a143,MITFutureFreshmanT-Shirt,60106,MIT Future Freshman T-Shirt,Size,L,Color,Oxford,,,FREEDOM,1,0,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b95c33146e,MITContemporaryT-Shirt,60008,MIT Contemporary T-Shirt,Colour,Charcoal,Size,S,,,FREEDOM,1,28,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b95c4cc296,MITContemporaryT-Shirt,60009,MIT Contemporary T-Shirt,Colour,Charcoal,Size,M,,,FREEDOM,1,4,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b95c66c393,MITContemporaryT-Shirt,60010,MIT Contemporary T-Shirt,Colour,Charcoal,Size,L,,,FREEDOM,1,13,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b95cb44cc3,MITContemporaryT-Shirt,60011,MIT Contemporary T-Shirt,Colour,Dark Heather,Size,XL,,,FREEDOM,1,7,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b95d31e9eb,MITContemporaryT-Shirt,60012,MIT Contemporary T-Shirt,Colour,Oxford,Size,S,,,FREEDOM,1,20,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b95d6c7326,MITContemporaryT-Shirt,60013,MIT Contemporary T-Shirt,Colour,Oxford,Size,M,,,FREEDOM,1,23,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b95d8f0451,MITContemporaryT-Shirt,60014,MIT Contemporary T-Shirt,Colour,Oxford,Size,L,,,FREEDOM,1,6,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b95ddf573e,MITContemporaryT-Shirt,60015,MIT Contemporary T-Shirt,Colour,Oxford,Size,XL,,,FREEDOM,1,18,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b95e3c0370,MITCrestT-Shirt,60107,MIT Crest T-Shirt,Size,S,Color,Crimson,,,FREEDOM,1,27,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b95e641273,MITCrestT-Shirt,60108,MIT Crest T-Shirt,Size,M,Color,Crimson,,,FREEDOM,1,15,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b95eb11182,MITCrestT-Shirt,60109,MIT Crest T-Shirt,Size,L,Color,Crimson,,,FREEDOM,1,12,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b95ee48525,MITCrestT-Shirt,60110,MIT Crest T-Shirt,Size,XL,Color,Crimson,,,FREEDOM,1,19,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b95f1a5bdf,MITContemporaryHoodedSweatshirt,60111,MIT Contemporary Hooded Sweatshirt,Size,S,Color,Charcoal,,,FREEDOM,1,36,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b95f4ffdf4,MITContemporaryHoodedSweatshirt,60112,MIT Contemporary Hooded Sweatshirt,Size,M,Color,Charcoal,,,FREEDOM,1,38,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b95fa4a876,MITContemporaryHoodedSweatshirt,60113,MIT Contemporary Hooded Sweatshirt,Size,L,Color,Charcoal,,,FREEDOM,1,26,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b95fe12668,MITContemporaryHoodedSweatshirt,60114,MIT Contemporary Hooded Sweatshirt,Size,XL,Color,Charcoal,,,FREEDOM,1,33,0,0,0,0
+060f02b1-c83d-11e6-e913-f3b9602662d9,MITLanyard,60115,MIT Lanyard,Color,Crimson,,,,,Quality,1,85,0,0,0,0
+060f02b1-c83d-11e6-e913-f52d82011827,DecoderGlasses,10884,CS50 Secret Decoder Glasses,,,,,CS50,1,519,0,0,0,0,,
+060f02b1-c83d-11e6-e913-f86bce3a8b3d,KidsCrimsonCrestHat,10885,Kid's Harvard Crest Hat,Color,Crimson,,,,,Bay State Apparel,1,21,0,0,5,0
+060f02b1-c83d-11e6-e913-f86c15ee8d70,KidsHarvardUniversityHat,10886,Kid's Harvard University Hat,,,,,Bay State Apparel,1,6,0,9,6,0,,
+060f02b1-c83d-11e6-e913-f86c75f7714d,16H36HarvardHat,10887,16H36 Harvard Hat,Color,Crimson,,,,,Bay State Apparel,1,70,0,0,5,0
+060f02b1-c83d-11e6-e913-f86cc1847872,16H36HarvardHat,10888,16H36 Harvard Hat,Color,White,,,,,Bay State Apparel,1,59,13,5,3,0
+060f02b1-c83d-11e6-e913-facc61f504cc,HarvardFabricBelt,10891,Harvard Fabric Belt,Size,M,,,,,Smart Turnout,1,9,0,0,0,0
+060f02b1-c83d-11e6-e913-facc624b0f86,HarvardFabricBelt,10892,Harvard Fabric Belt,Size,L,,,,,Smart Turnout,1,0,0,0,0,0
+060f02b1-c83d-11e6-e913-facc8d1bb972,HarvardCanvasBelt,10893,Harvard Canvas Belt,Size,32,Color,Crimson,,,Smart Turnout,1,0,0,0,0,0
+060f02b1-c83d-11e7-e913-30d5aadff96e,HarvardCanvasBelt,11001,Harvard Canvas Belt,Size,34,Color,Crimson,,,Smart Turnout,1,0,0,0,0,0
+060f02b1-c83d-11e7-e913-30d5b72e615f,HarvardCanvasBelt,11002,Harvard Canvas Belt,Size,36,Color,Crimson,,,Smart Turnout,1,21,0,0,0,0
+060f02b1-c83d-11e7-e913-30d5ba544331,HarvardCanvasBelt,11003,Harvard Canvas Belt,Size,38,Color,Crimson,,,Smart Turnout,1,0,0,0,0,0
+060f02b1-c83d-11e6-e913-fd25b435ece6,VintageTailgateSweater,10897,Vintage Tailgate Sweater,Size,XS,,,,,Hillflint,1,22,0,0,0,0
+060f02b1-c83d-11e6-e913-fd25b47eccd4,VintageTailgateSweater,10898,Vintage Tailgate Sweater,Size,S,,,,,Hillflint,1,31,0,0,0,0
+060f02b1-c83d-11e6-e913-fd25b4ce04ff,VintageTailgateSweater,10899,Vintage Tailgate Sweater,Size,M,,,,,Hillflint,1,32,0,0,0,0
+060f02b1-c83d-11e6-e913-fd25b5143371,VintageTailgateSweater,10900,Vintage Tailgate Sweater,Size,L,,,,,Hillflint,1,15,0,0,0,0
+060f02b1-c83d-11e6-e913-fd25b5673faa,VintageTailgateSweater,10901,Vintage Tailgate Sweater,Size,XL,,,,,Hillflint,1,11,0,0,0,0
+060f02b1-c83d-11e6-e913-fd25d2519d92,HarvardStadiumSweater,10902,Harvard Stadium Sweater,Size,XS,,,,,Hillflint,1,23,0,0,0,0
+060f02b1-c83d-11e6-e913-fd25d29361b5,HarvardStadiumSweater,10903,Harvard Stadium Sweater,Size,S,,,,,Hillflint,1,25,0,0,0,0
+060f02b1-c83d-11e6-e913-fd25d2db6cce,HarvardStadiumSweater,10904,Harvard Stadium Sweater,Size,M,,,,,Hillflint,1,26,0,0,0,0
+060f02b1-c83d-11e6-e913-fd25d3237e48,HarvardStadiumSweater,10905,Harvard Stadium Sweater,Size,L,,,,,Hillflint,1,16,0,0,0,0
+060f02b1-c83d-11e6-e913-fd25d36a1827,HarvardStadiumSweater,10906,Harvard Stadium Sweater,Size,XL,,,,,Hillflint,1,9,0,0,0,0
+060f02b1-c83d-11e6-e913-fd25ef827acf,HarvardVarsitySweater,10907,Harvard Varsity Sweater,Size,XS,,,,,Hillflint,1,16,0,0,0,0
+060f02b1-c83d-11e6-e913-fd25efcf6962,HarvardVarsitySweater,10908,Harvard Varsity Sweater,Size,S,,,,,Hillflint,1,29,0,0,0,0
+060f02b1-c83d-11e6-e913-fd25f0355012,HarvardVarsitySweater,10909,Harvard Varsity Sweater,Size,M,,,,,Hillflint,1,29,0,0,0,0
+060f02b1-c83d-11e6-e913-fd25f090e318,HarvardVarsitySweater,10910,Harvard Varsity Sweater,Size,L,,,,,Hillflint,1,20,0,0,0,0
+060f02b1-c83d-11e6-e913-fd25f101e344,HarvardVarsitySweater,10911,Harvard Varsity Sweater,Size,XL,,,,,Hillflint,1,9,0,0,0,0
+060f02b1-c83d-11e6-e913-fd261f9f0388,LadiesRetroStripeSweater,10912,Ladies Retro Stripe Sweater,Size,XS,,,,,Hillflint,1,0,0,0,0,0
+060f02b1-c83d-11e6-e913-fd261fec33cd,LadiesRetroStripeSweater,10913,Ladies Retro Stripe Sweater,Size,S,,,,,Hillflint,1,1,0,0,0,0
+060f02b1-c83d-11e6-e913-fd262037d6f0,LadiesRetroStripeSweater,10914,Ladies Retro Stripe Sweater,Size,M,,,,,Hillflint,1,1,0,0,0,0
+060f02b1-c83d-11e6-e913-fd262094659c,LadiesRetroStripeSweater,10915,Ladies Retro Stripe Sweater,Size,L,,,,,Hillflint,1,5,0,0,0,0
+060f02b1-c83d-11e6-e913-fd262109fcf7,LadiesRetroStripeSweater,10916,Ladies Retro Stripe Sweater,Size,XL,,,,,Hillflint,1,1,0,0,0,0
+060f02b1-c83d-11e6-fcd2-1de921590a0f,HarvardKennedySchoolTie,10647,Harvard Kennedy School Tie,Color,Crimson,,,,,Global Neckwear,1,1,0,0,0,0
+060f02b1-c83d-11e6-fcd2-1de921c265b6,HarvardKennedySchoolTie,10648,Harvard Kennedy School Tie,Color,Navy,,,,,Global Neckwear,1,0,0,0,0,0
+060f02b1-c83d-11e6-fcd2-1de95a354b9b,HarvardGraduateSchoolofEducationTie,10649,Harvard Graduate School of Education Tie,Color,Crimson,,,,,Global Neckwear,1,0,0,0,0,0
+060f02b1-c83d-11e6-fcd2-1de95a8dad5e,HarvardGraduateSchoolofEducationTie,10650,Harvard Graduate School of Education Tie,Color,Navy,,,,,Global Neckwear,1,0,0,0,0,0
+060f02b1-c83d-11e6-fcd2-21b50e1db247,HarvardCrestCinchBag,10651,Harvard Crest Cinch Bag,Color,Crimson,,,,,Bay State Apparel,1,0,0,0,0,0
+060f02b1-c83d-11e6-fcd2-2e433d8aacc4,HarvardCrestCinchBag,10654,Harvard Crest Cinch Bag,Color,Black,,,,,Bay State Apparel,1,0,0,0,0,0
+060f02b1-c83d-11e6-fcd2-21b547ca58c4,SweatshirtToteBag,10652,Sweatshirt Tote Bag,Color,Crimson,,,,,Bay State Apparel,1,21,3,4,1,0
+060f02b1-c83d-11e6-fcd2-2e44dda8367b,CrestWristlet,10655,Clutch Wristlet,Color,Crimson,,,,,Bay State Apparel,1,1,0,0,0,0
+060f02b1-c83d-11e6-fcd2-2e44de1f2509,CrestWristlet,10656,Clutch Wristlet,Color,Black,,,,,Bay State Apparel,1,30,6,3,5,0
+060f02b1-c83d-11e6-fcd2-2f1e6955710e,WhiteCrestHat,10657,Harvard Shield Hat,Color,White,,,,,Bay State Apparel,1,44,0,0,4,0
+060f02b1-c83d-11e6-e913-f86ceebecdae,WhiteCrestHat,10889,Harvard Shield Hat,Color,Crimson,,,,,Bay State Apparel,1,65,0,0,0,0
+060f02b1-c83d-11e6-fcd2-2f1eacd2ab36,HarvardArcHat,10658,Harvard Arc Hat,Color,Black,,,,,Bay State Apparel,1,98,0,0,5,0
+060f02b1-c83d-11e6-fcd2-534d92dafa2d,HarvardArcHat,10735,Harvard Arc Hat,Color,Oxford,,,,,Bay State Apparel,1,49,2,0,9,0
+060f02b1-c83d-11e6-fcd2-2f7216411dab,Pleasepickthisoptionforlamporders,Pleasepickthisoptionforlamporders,Please pick this option for lamp orders,,,,,Freight,1,0,0,0,0,0,,
+060f02b1-c83d-11e6-fcd2-316774617da8,EndureBottle,10659,Endure Bottle,Color,Black,,,,,RFSJ,1,0,0,0,0,0
+060f02b1-c83d-11e6-fcd2-3167d1998f67,EtchedHarvardMug,10660,Etched Harvard Mug,Color,Crimson,,,,,RFSJ,1,1,0,0,0,0
+060f02b1-c83d-11e6-fcd2-332b87efddf4,SummerSchoolT-Shirt2016,10662,Summer School T-Shirt 2016,Size,small,,,,,THS Custom Orders,1,8,0,0,0,0
+060f02b1-c83d-11e6-fcd2-332c3897491c,SummerSchoolT-Shirt2016,10663,Summer School T-Shirt 2016,Size,medium,,,,,THS Custom Orders,1,10,0,0,0,0
+060f02b1-c83d-11e6-fcd2-332c3fe5063c,SummerSchoolT-Shirt2016,10664,Summer School T-Shirt 2016,Size,large,,,,,THS Custom Orders,1,17,0,0,0,0
+060f02b1-c83d-11e6-fcd2-332c4ba6c28f,SummerSchoolT-Shirt2016,10665,Summer School T-Shirt 2016,Size,extra large,,,,,THS Custom Orders,1,8,0,0,0,0
+060f02b1-c83d-11e6-fcd2-33ccb76ee05b,sodawater,10666,Soda/Dasani,,,,,,,1,0,0,0,0,0,
+060f02b1-c83d-11e6-fcd2-3952ea20e6da,HarvardCrestJoggers,10672,Harvard Crest Joggers,Size,XS,Color,Oxford,,,MV Sport,1,79,2,0,8,0
+060f02b1-c83d-11e6-fcd2-3952ea74c82a,HarvardCrestJoggers,10673,Harvard Crest Joggers,Size,S,Color,Oxford,,,MV Sport,1,68,1,3,2,0
+060f02b1-c83d-11e6-fcd2-3952eacc790f,HarvardCrestJoggers,10674,Harvard Crest Joggers,Size,M,Color,Oxford,,,MV Sport,1,65,0,3,1,0
+060f02b1-c83d-11e6-fcd2-3952eb260cac,HarvardCrestJoggers,10675,Harvard Crest Joggers,Size,L,Color,Oxford,,,MV Sport,1,57,1,2,4,0
+060f02b1-c83d-11e6-fcd2-3952eb81210b,HarvardCrestJoggers,10676,Harvard Crest Joggers,Size,XL,Color,Oxford,,,MV Sport,1,60,3,2,3,0
+060f02b1-c83d-11e6-fcd2-3c70861948cf,StylusPen,10678,Stylus Pen,,,,,,,Arts & Cards,1,0,0,0,0,0
+060f02b1-c83d-11e6-fcd2-3c70bace16ca,MetalLuggageTag,10679,Metal Luggage Tag,,,,,,Arts & Cards,1,13,0,0,0,0,
+060f02b1-c83d-11e6-fcd2-3c713838211e,MetalCrestMug,10680,Crest Travel Mug,Color,Silver,,,,,Arts & Cards,1,7,3,5,4,0
+060f02b1-c83d-11e6-fcd2-3c7168a68977,CrestToteBag,10681,Crest Tote Bag,,,,,,Arts & Cards,1,97,5,0,0,0,
+060f02b1-c83d-11e6-fcd2-3d34f0929361,SmallBundle,10682,Silver Bottle Small Bundle,,,,,,,1,0,0,0,0,0,
+060f02b1-c83d-11e6-fcd2-3d37d0baf228,MediumBundle,10683,Silver Steel Medium Bundle,,,,,,1,0,0,0,0,0,,
+060f02b1-c83d-11e6-fcd2-3d37f4a4a090,LargeBundle,10684,Silver Steel Large Bundle,,,,,,,1,0,0,0,0,0,
+060f02b1-c83d-11e6-fcd2-3d381a9ebc0a,X-LargeBundle,10685,Silver Steel X- Large Bundle,,,,,,1,0,0,0,0,0,,
+060f02b1-c83d-11e6-fcd2-3e334a31e5ed,StandardChairShipping4-6Weeks,StandardChairShipping4-6Weeks,Standard Chair Shipping (4-6 Weeks),,,,,Freight,1,0,0,0,0,0,,
+060f02b1-c83d-11e6-fcd2-43943c979224,HarvardGraduateSchoolofEducationWomensV-neck,10691,Harvard Graduate School of Education Ladies V-neck,Color,Blue,Size,S,,,Quality,1,4,0,51,0,0
+060f02b1-c83d-11e6-fcd2-43943cefc2a0,HarvardGraduateSchoolofEducationWomensV-neck,10692,Harvard Graduate School of Education Ladies V-neck,Color,Blue,Size,M,,,Quality,1,1,0,4,0,0
+060f02b1-c83d-11e6-fcd2-43943d412957,HarvardGraduateSchoolofEducationWomensV-neck,10693,Harvard Graduate School of Education Ladies V-neck,Color,Blue,Size,L,,,Quality,1,2,0,3,0,0
+060f02b1-c83d-11e6-fcd2-43943d9e7653,HarvardGraduateSchoolofEducationWomensV-neck,10694,Harvard Graduate School of Education Ladies V-neck,Color,Blue,Size,XL,,,Quality,1,3,0,16,0,0
+060f02b1-c83d-11e6-fcd2-43943df0f849,HarvardGraduateSchoolofEducationWomensV-neck,10695,Harvard Graduate School of Education Ladies V-neck,Color,Red,Size,S,,,Quality,1,5,0,31,0,0
+060f02b1-c83d-11e6-fcd2-43943e4aeac9,HarvardGraduateSchoolofEducationWomensV-neck,10696,Harvard Graduate School of Education Ladies V-neck,Color,Red,Size,M,,,Quality,1,8,0,31,0,0
+060f02b1-c83d-11e6-fcd2-43943eba4b54,HarvardGraduateSchoolofEducationWomensV-neck,10697,Harvard Graduate School of Education Ladies V-neck,Color,Red,Size,L,,,Quality,1,3,0,42,0,0
+060f02b1-c83d-11e6-fcd2-43943f105763,HarvardGraduateSchoolofEducationWomensV-neck,10698,Harvard Graduate School of Education Ladies V-neck,Color,Red,Size,XL,,,Quality,1,8,0,43,0,0
+060f02b1-c83d-11e6-fcd2-49fc1ee05e18,HarvardGraduateSchoolofEducationWomensV-neck,10715,Harvard Graduate School of Education Ladies V-neck,Color,Blue,Size,XXL,,,Quality,1,3,0,16,0,0
+060f02b1-c83d-11e6-fcd2-49fc2cb9eebc,HarvardGraduateSchoolofEducationWomensV-neck,10716,Harvard Graduate School of Education Ladies V-neck,Color,Red,Size,XXL,,,Quality,1,0,0,0,0,0
+060f02b1-c83d-11e6-fcd2-4394df76bbe3,HarvardGraduateSchoolofEducationLongSleeveT-Shirt,10699,Harvard Graduate School of Education Long Sleeve T-Shirt,Color,Crimson,Size,S,,,Quality,1,0,0,22,0,0
+060f02b1-c83d-11e6-fcd2-4394dfc579f3,HarvardGraduateSchoolofEducationLongSleeveT-Shirt,10700,Harvard Graduate School of Education Long Sleeve T-Shirt,Color,Crimson,Size,M,,,Quality,1,1,0,21,0,0
+060f02b1-c83d-11e6-fcd2-4394e02583e0,HarvardGraduateSchoolofEducationLongSleeveT-Shirt,10701,Harvard Graduate School of Education Long Sleeve T-Shirt,Color,Crimson,Size,L,,,Quality,1,2,0,19,0,0
+060f02b1-c83d-11e6-fcd2-4394e081d39f,HarvardGraduateSchoolofEducationLongSleeveT-Shirt,10702,Harvard Graduate School of Education Long Sleeve T-Shirt,Color,Crimson,Size,XL,,,Quality,1,1,0,14,0,0
+060f02b1-c83d-11e6-fcd2-4394e0e368be,HarvardGraduateSchoolofEducationLongSleeveT-Shirt,10703,Harvard Graduate School of Education Long Sleeve T-Shirt,Color,Crimson,Size,XXL,,,Quality,1,6,0,19,0,0
+060f02b1-c83d-11e6-fcd2-45107aa644db,CrestBeanie,10706,Harvard Crest Beanie,Color,Crimson,,,,,Bay State Apparel,1,2,0,0,0,0
+060f02b1-c83d-11e6-fcd2-451101c1ad53,WhiteHarvardBeanie,10707,"White ""Harvard"" Beanie",Color,White,,,,,Bay State Apparel,1,30,6,4,4,0
+060f02b1-c83d-11e6-fcd2-45118aa6a955,BlackHarvardBeanie,10708,"Black ""Harvard"" Beanie",Color,Black,,,,,Bay State Apparel,1,49,0,0,0,0
+060f02b1-c83d-11e6-fcd2-45122c473889,HGloves,10709,H Gloves,Color,Crimson,,,,,Bay State Apparel,1,20,0,0,4,0
+060f02b1-c83d-11e6-fcd2-45135d4d0afc,HGloves,10710,H Gloves,Color,Black,,,,,Bay State Apparel,1,25,3,0,0,0
+060f02b1-c83d-11e6-fcd2-4d06cea6d9ab,HarvardKennedySchoolExecutiveEducationJacket,10721,Harvard Kennedy School Executive Education Jacket,Size,S,Gender,Men's,,,THS Custom Orders,1,0,0,0,0,0
+060f02b1-c83d-11e6-fcd2-4d06cef24728,HarvardKennedySchoolExecutiveEducationJacket,10722,Harvard Kennedy School Executive Education Jacket,Size,M,Gender,Men's,,,THS Custom Orders,1,0,0,0,0,0
+060f02b1-c83d-11e6-fcd2-4d06cf4253f1,HarvardKennedySchoolExecutiveEducationJacket,10723,Harvard Kennedy School Executive Education Jacket,Size,L,Gender,Men's,,,THS Custom Orders,1,0,0,0,0,0
+060f02b1-c83d-11e6-fcd2-4d06cf93ebff,HarvardKennedySchoolExecutiveEducationJacket,10724,Harvard Kennedy School Executive Education Jacket,Size,XL,Gender,Men's,,,THS Custom Orders,1,0,0,0,0,0
+060f02b1-c83d-11e6-fcd2-4d06cff24e8f,HarvardKennedySchoolExecutiveEducationJacket,10725,Harvard Kennedy School Executive Education Jacket,Size,XXL,Gender,Men's,,,THS Custom Orders,1,1,0,0,0,0
+060f02b1-c83d-11e6-fcd2-4d06d051fd0e,HarvardKennedySchoolExecutiveEducationJacket,10726,Harvard Kennedy School Executive Education Jacket,Size,XS,Gender,Women's,,,THS Custom Orders,1,0,0,0,0,0
+060f02b1-c83d-11e6-fcd2-4d06d0b11976,HarvardKennedySchoolExecutiveEducationJacket,10727,Harvard Kennedy School Executive Education Jacket,Size,S,Gender,Women's,,,THS Custom Orders,1,0,0,0,0,0
+060f02b1-c83d-11e6-fcd2-4d06d112aab0,HarvardKennedySchoolExecutiveEducationJacket,10728,Harvard Kennedy School Executive Education Jacket,Size,M,Gender,Women's,,,THS Custom Orders,1,0,0,0,0,0
+060f02b1-c83d-11e6-fcd2-4d06d18229d5,HarvardKennedySchoolExecutiveEducationJacket,10729,Harvard Kennedy School Executive Education Jacket,Size,L,Gender,Women's,,,THS Custom Orders,1,0,0,0,0,0
+060f02b1-c83d-11e6-fcd2-4d06d1de38e8,HarvardKennedySchoolExecutiveEducationJacket,10730,Harvard Kennedy School Executive Education Jacket,Size,XL,Gender,Women's,,,THS Custom Orders,1,0,0,0,0,0
+060f02b1-c83d-11e6-fcd2-4f62996b5619,WomensCrestV-neck,10731,Ladies Crest V-neck,Size,S,Color,Blue,,,Comprint,1,0,0,0,0,0
+060f02b1-c83d-11e6-fcd2-4f6299d3a003,WomensCrestV-neck,10732,Ladies Crest V-neck,Size,M,Color,Blue,,,Comprint,1,0,0,0,0,0
+060f02b1-c83d-11e6-fcd2-4f629a5d3a40,WomensCrestV-neck,10733,Ladies Crest V-neck,Size,L,Color,Blue,,,Comprint,1,0,0,0,0,0
+060f02b1-c83d-11e6-fcd2-4f629abe991a,WomensCrestV-neck,10734,Ladies Crest V-neck,Size,XL,Color,Blue,,,Comprint,1,1,2,0,0,0
+060f02b1-c83d-11e6-fcd2-50576c2fde5f,StandardChairShipping4-6WeeksDONOTPICKUSPSiforderingachairwewillhavetorefundtheorderandaskyoutoplaceitagain,StandardChairShipping4-6WeeksDONOTPICKUSPSiforderingachairwewillhavetorefundtheorderandaskyoutoplaceitagain,Standard Chair Shipping (4-6 Weeks) *DO NOT PICK USPS if ordering a chair; we will have to refund the order and ask you to place it again,Freight,1,0,0,0,0,0,,,,,,
+060f02b1-c83d-11e6-fcd2-534dd53a101d,GoldCrestHat,10736,Harvard Crest Hat,Color,Crimson,,,,,Bay State Apparel,1,17,9,0,7,0
+060f02b1-c83d-11e6-fcd2-63e4125e7c1f,GoldCrestHat,10742,Harvard Crest Hat,Color,Ivory,,,,,Bay State Apparel,1,81,0,6,0,0
+060f02b1-c83d-11e6-fcd2-63e417589868,GoldCrestHat,10743,Harvard Crest Hat,Color,Black,,,,,Bay State Apparel,1,36,0,9,9,0
+060f02b1-c83d-11e6-fcd2-5ff11d5bd321,HarvardGraduateSchoolofEducationTriblendT-shirt,10738,Harvard Graduate School of Education Triblend T-shirt,Color,Crimson,Size,S,,,Quality,1,0,0,9,0,0
+060f02b1-c83d-11e6-fcd2-5ff11db79ec8,HarvardGraduateSchoolofEducationTriblendT-shirt,10739,Harvard Graduate School of Education Triblend T-shirt,Color,Crimson,Size,M,,,Quality,1,3,0,0,0,0
+060f02b1-c83d-11e6-fcd2-5ff11e15ea8e,HarvardGraduateSchoolofEducationTriblendT-shirt,10740,Harvard Graduate School of Education Triblend T-shirt,Color,Crimson,Size,L,,,Quality,1,2,0,25,0,0
+060f02b1-c83d-11e6-fcd2-5ff11e758e48,HarvardGraduateSchoolofEducationTriblendT-shirt,10741,Harvard Graduate School of Education Triblend T-shirt,Color,Crimson,Size,XL,,,Quality,1,3,0,27,0,0
+060f02b1-c83d-11e6-fcd2-791f0a0cedaa,MaroonWhiteStripedCrestBeanie,10754,Striped Crest Beanie,Color,Crimson,,,,,Bay State Apparel,1,77,3,5,7,0
+060f02b1-c83d-11e6-fcd2-792a0e807808,Women,10755,Ladies French Terry Crew,Color,Pink,Size,S,,,MV Sport,1,70,3,3,2,0
+060f02b1-c83d-11e6-fcd2-792a0edcf5df,Women,10756,Ladies French Terry Crew,Color,Pink,Size,M,,,MV Sport,1,167,2,3,2,0
+060f02b1-c83d-11e6-fcd2-792a10392995,Women,10757,Ladies French Terry Crew,Color,Pink,Size,L,,,MV Sport,1,110,2,3,2,0
+060f02b1-c83d-11e6-fcd2-792a10b0c6c4,Women,10758,Ladies French Terry Crew,Color,Pink,Size,XL,,,MV Sport,1,82,2,3,3,0
+060f02b1-c83d-11e6-fcd2-792a10fe18c9,Women,10759,Ladies French Terry Crew,Color,Blue,Size,S,,,MV Sport,1,65,2,2,2,0
+060f02b1-c83d-11e6-fcd2-792a11576c64,Women,10760,Ladies French Terry Crew,Color,Blue,Size,M,,,MV Sport,1,101,2,2,2,0
+060f02b1-c83d-11e6-fcd2-792a11a93f21,Women,10761,Ladies French Terry Crew,Color,Blue,Size,L,,,MV Sport,1,86,2,2,2,0
+060f02b1-c83d-11e6-fcd2-792a1209ca3d,Women,10762,Ladies French Terry Crew,Color,Blue,Size,XL,,,MV Sport,1,59,2,2,2,0
+060f02b1-c83d-11e6-fcd2-7961f42c86d7,FreeShippingforordersover100,FreeShippingforordersover100,Free Shipping (for orders over $100),,,,,Freight,1,0,0,0,0,0,,
+060f02b1-c83d-11e6-fcd2-7c7abfcff3f4,MassachusettsLocalShipping4-6days,MassachusettsLocalShipping4-6days,Massachusetts Local Shipping (4-6 days),,,,Freight,1,0,0,0,0,0,,,
+060f02b1-c83d-11e6-fcd2-7dc480c95518,Free6-9dayShippingforordersover100,Free6-9dayShippingforordersover100,Free 6-9 day Shipping (for orders over $100),,,,Freight,1,0,0,0,0,0,,,
+060f02b1-c83d-11e6-fcd2-7ea718953f73,AdditionalBagCharge,10763,Additional Bag Charge ($1),,,,,,1,0,0,0,0,0,,
+060f02b1-c83d-11e6-fcd2-802ce613dd77,CS50PuzzleDayT-shirt,10765,CS50 Puzzle Day T-shirt,Size,S,Color,Crimson,Style,Men's,CS50,1,4,0,0,0,0
+022894d1-fd3d-11e7-e6e7-a2cfbdb83208,CS50PuzzleDayT-shirt,11228,CS50 Puzzle Day T-shirt,Size,S,Color,Green,Style,Men's,CS50,1,6,0,0,0,0
+022894d1-fd3d-11e7-e6e7-a2cfc1d2ff4b,CS50PuzzleDayT-shirt,11229,CS50 Puzzle Day T-shirt,Size,M,Color,Green,Style,Men's,CS50,1,6,0,0,0,0
+022894d1-fd3d-11e7-e6e7-a2cfc5f7bb24,CS50PuzzleDayT-shirt,11230,CS50 Puzzle Day T-shirt,Size,L,Color,Green,Style,Men's,CS50,1,5,0,0,0,0
+022894d1-fd3d-11e7-e6e7-a2cfc9dbaf42,CS50PuzzleDayT-shirt,11231,CS50 Puzzle Day T-shirt,Size,XL,Color,Green,Style,Men's,CS50,1,6,0,0,0,0
+022894d1-fd3d-11e7-e6e7-a2cfd2716cab,CS50PuzzleDayT-shirt,11232,CS50 Puzzle Day T-shirt,Size,S,Color,Green,Style,Women's,CS50,1,6,0,0,0,0
+022894d1-fd3d-11e7-e6e7-a2cfd958974a,CS50PuzzleDayT-shirt,11233,CS50 Puzzle Day T-shirt,Size,M,Color,Green,Style,Women's,CS50,1,6,0,0,0,0
+022894d1-fd3d-11e7-e6e7-a2cfe2f05d8b,CS50PuzzleDayT-shirt,11234,CS50 Puzzle Day T-shirt,Size,L,Color,Green,Style,Women's,CS50,1,6,0,0,0,0
+022894d1-fd3d-11e7-e6e7-a2cfe956b95e,CS50PuzzleDayT-shirt,11235,CS50 Puzzle Day T-shirt,Size,XL,Color,Green,Style,Women's,CS50,1,6,0,0,0,0
+060f02b1-c83d-11e6-fcd2-802ce675e5a8,CS50PuzzleDayT-shirt,10766,CS50 Puzzle Day T-shirt,Size,M,Color,Crimson,Style,Men's,CS50,1,10,0,0,0,0
+060f02b1-c83d-11e6-fcd2-802ce6e53ef4,CS50PuzzleDayT-shirt,10767,CS50 Puzzle Day T-shirt,Size,L,Color,Crimson,Style,Men's,CS50,1,2,0,0,0,0
+060f02b1-c83d-11e6-fcd2-802ce759db3c,CS50PuzzleDayT-shirt,10768,CS50 Puzzle Day T-shirt,Size,XL,Color,Crimson,Style,Men's,CS50,1,0,0,0,0,0
+060f02b1-c83d-11e6-fcd2-802ce7c406ab,CS50PuzzleDayT-shirt,10769,CS50 Puzzle Day T-shirt,Size,S,Color,Navy,Style,Men's,CS50,1,4,0,0,0,0
+060f02b1-c83d-11e6-fcd2-802ce82f4752,CS50PuzzleDayT-shirt,10770,CS50 Puzzle Day T-shirt,Size,M,Color,Navy,Style,Men's,CS50,1,3,0,0,0,0
+060f02b1-c83d-11e6-fcd2-802ce888b491,CS50PuzzleDayT-shirt,10771,CS50 Puzzle Day T-shirt,Size,L,Color,Navy,Style,Men's,CS50,1,2,0,0,0,0
+060f02b1-c83d-11e6-fcd2-802ce8ef999f,CS50PuzzleDayT-shirt,10772,CS50 Puzzle Day T-shirt,Size,XL,Color,Navy,Style,Men's,CS50,1,0,0,0,0,0
+060f02b1-c83d-11e6-fcd2-84234092a92c,CS50PuzzleDayT-shirt,10789,CS50 Puzzle Day T-shirt,Size,S,Color,Crimson,Style,Women's,CS50,1,0,0,0,0,0
+060f02b1-c83d-11e6-fcd2-842347ee5f0a,CS50PuzzleDayT-shirt,10790,CS50 Puzzle Day T-shirt,Size,M,Color,Crimson,Style,Women's,CS50,1,9,0,0,0,0
+060f02b1-c83d-11e6-fcd2-842351c15897,CS50PuzzleDayT-shirt,10791,CS50 Puzzle Day T-shirt,Size,L,Color,Crimson,Style,Women's,CS50,1,20,0,0,0,0
+060f02b1-c83d-11e6-fcd2-842356b9d3d8,CS50PuzzleDayT-shirt,10792,CS50 Puzzle Day T-shirt,Size,XL,Color,Crimson,Style,Women's,CS50,1,12,0,0,0,0
+060f02b1-c83d-11e6-fcd2-84235e28ef0c,CS50PuzzleDayT-shirt,10793,CS50 Puzzle Day T-shirt,Size,S,Color,Navy,Style,Women's,CS50,1,5,0,0,0,0
+060f02b1-c83d-11e6-fcd2-8423674ae0a2,CS50PuzzleDayT-shirt,10794,CS50 Puzzle Day T-shirt,Size,M,Color,Navy,Style,Women's,CS50,1,6,0,0,0,0
+060f02b1-c83d-11e6-fcd2-84236c54762e,CS50PuzzleDayT-shirt,10795,CS50 Puzzle Day T-shirt,Size,L,Color,Navy,Style,Women's,CS50,1,6,0,0,0,0
+060f02b1-c83d-11e6-fcd2-842371905a68,CS50PuzzleDayT-shirt,10796,CS50 Puzzle Day T-shirt,Size,XL,Color,Navy,Style,Women's,CS50,1,12,0,0,0,0
+060f02b1-c83d-11e6-fcd2-802d3720a58a,ITookCS50T-Shirt,10773,I Took CS50 T-Shirt,Size,S,Color,Crimson,Style,Men's,CS50,1,3,0,0,0,0
+060f02b1-c83d-11e6-e913-f45a1f38f060,ITookCS50T-Shirt,10862,I Took CS50 T-Shirt,Size,S,Color,Crimson,Style,Women's,CS50,1,3,0,0,0,0
+060f02b1-c83d-11e6-e913-f45a40d5b507,ITookCS50T-Shirt,10863,I Took CS50 T-Shirt,Size,M,Color,Crimson,Style,Men's,CS50,1,0,0,0,0,0
+060f02b1-c83d-11e6-e913-f45a63728189,ITookCS50T-Shirt,10865,I Took CS50 T-Shirt,Size,L,Color,Crimson,Style,Men's,CS50,1,0,0,0,0,0
+060f02b1-c83d-11e6-e913-f45ab60f70ba,ITookCS50T-Shirt,10866,I Took CS50 T-Shirt,Size,XL,Color,Crimson,Style,Men's,CS50,1,4,0,0,0,0
+060f02b1-c83d-11e6-e913-f45ac8d31c7b,ITookCS50T-Shirt,10867,I Took CS50 T-Shirt,Size,S,Color,Navy,Style,Men's,CS50,1,3,0,0,0,0
+060f02b1-c83d-11e6-e913-f45ad444a8ae,ITookCS50T-Shirt,10868,I Took CS50 T-Shirt,Size,M,Color,Navy,Style,Men's,CS50,1,1,0,0,0,0
+060f02b1-c83d-11e6-e913-f45ae248908d,ITookCS50T-Shirt,10869,I Took CS50 T-Shirt,Size,L,Color,Navy,Style,Men's,CS50,1,1,0,0,0,0
+060f02b1-c83d-11e6-e913-f45aed961014,ITookCS50T-Shirt,10870,I Took CS50 T-Shirt,Size,XL,Color,Navy,Style,Men's,CS50,1,4,0,0,0,0
+060f02b1-c83d-11e6-fcd2-802d37953592,ITookCS50T-Shirt,10774,I Took CS50 T-Shirt,Size,M,Color,Crimson,Style,Women's,CS50,1,7,0,0,0,0
+060f02b1-c83d-11e6-fcd2-802d37fadd8d,ITookCS50T-Shirt,10775,I Took CS50 T-Shirt,Size,L,Color,Crimson,Style,Women's,CS50,1,4,0,0,0,0
+060f02b1-c83d-11e6-fcd2-802d385fa7fa,ITookCS50T-Shirt,10776,I Took CS50 T-Shirt,Size,XL,Color,Crimson,Style,Women's,CS50,1,5,0,0,0,0
+060f02b1-c83d-11e6-fcd2-802d38c7b281,ITookCS50T-Shirt,10777,I Took CS50 T-Shirt,Size,S,Color,Navy,Style,Women's,CS50,1,5,0,0,0,0
+060f02b1-c83d-11e6-fcd2-802d39254a11,ITookCS50T-Shirt,10778,I Took CS50 T-Shirt,Size,M,Color,Navy,Style,Women's,CS50,1,4,0,0,0,0
+060f02b1-c83d-11e6-fcd2-802d3997aac9,ITookCS50T-Shirt,10779,I Took CS50 T-Shirt,Size,L,Color,Navy,Style,Women's,CS50,1,5,0,0,0,0
+060f02b1-c83d-11e6-fcd2-802d39e7feb1,ITookCS50T-Shirt,10780,I Took CS50 T-Shirt,Size,XL,Color,Navy,Style,Women's,CS50,1,6,0,0,0,0
+060f02b1-c83d-11e6-fcd2-802d5982e3e8,CS50ProudT-Shirt,10781,CS50 Proud T-Shirt,Size,S,Color,Crimson,Style,Men's,CS50,1,5,0,0,0,0
+060f02b1-c83d-11e6-e913-f45b6a007a6a,CS50ProudT-Shirt,10871,CS50 Proud T-Shirt,Size,S,Color,Crimson,Style,Women's,CS50,1,4,0,0,0,0
+060f02b1-c83d-11e6-e913-f45b721bf39f,CS50ProudT-Shirt,10872,CS50 Proud T-Shirt,Size,M,Color,Crimson,Style,Women's,CS50,1,2,0,0,0,0
+060f02b1-c83d-11e6-e913-f45b797d8989,CS50ProudT-Shirt,10873,CS50 Proud T-Shirt,Size,L,Color,Crimson,Style,Women's,CS50,1,6,0,0,0,0
+060f02b1-c83d-11e6-e913-f45b811ac703,CS50ProudT-Shirt,10874,CS50 Proud T-Shirt,Size,XL,Color,Crimson,Style,Women's,CS50,1,5,0,0,0,0
+060f02b1-c83d-11e6-e913-f45b88ddb89d,CS50ProudT-Shirt,10875,CS50 Proud T-Shirt,Size,S,Color,Navy,Style,Men's,CS50,1,5,0,0,0,0
+060f02b1-c83d-11e6-e913-f45b8f2e02fb,CS50ProudT-Shirt,10876,CS50 Proud T-Shirt,Size,M,Color,Navy,Style,Men's,CS50,1,4,0,0,0,0
+060f02b1-c83d-11e6-e913-f45b9dfc729b,CS50ProudT-Shirt,10877,CS50 Proud T-Shirt,Size,L,Color,Navy,Style,Men's,CS50,1,2,0,0,0,0
+060f02b1-c83d-11e6-e913-f45ba58208ed,CS50ProudT-Shirt,10878,CS50 Proud T-Shirt,Size,XL,Color,Navy,Style,Men's,CS50,1,2,0,0,0,0
+060f02b1-c83d-11e6-e913-f45bc2613e2e,CS50ProudT-Shirt,10879,CS50 Proud T-Shirt,Size,S,Color,Navy,Style,Women's,CS50,1,4,0,0,0,0
+060f02b1-c83d-11e6-e913-f45bcb3470e9,CS50ProudT-Shirt,10880,CS50 Proud T-Shirt,Size,M,Color,Navy,Style,Women's,CS50,1,6,0,0,0,0
+060f02b1-c83d-11e6-e913-f45bd246cea7,CS50ProudT-Shirt,10881,CS50 Proud T-Shirt,Size,L,Color,Navy,Style,Women's,CS50,1,6,0,0,0,0
+060f02b1-c83d-11e6-e913-f45bdc5d5fe5,CS50ProudT-Shirt,10882,CS50 Proud T-Shirt,Size,XL,Color,Navy,Style,Women's,CS50,1,0,0,0,0,0
+060f02b1-c83d-11e6-fcd2-802d5a0f8b1c,CS50ProudT-Shirt,10782,CS50 Proud T-Shirt,Size,M,Color,Crimson,Style,Men's,CS50,1,4,0,0,0,0
+060f02b1-c83d-11e6-fcd2-802d5a745cd5,CS50ProudT-Shirt,10783,CS50 Proud T-Shirt,Size,L,Color,Crimson,Style,Men's,CS50,1,2,0,0,0,0
+060f02b1-c83d-11e6-fcd2-802d5adcc892,CS50ProudT-Shirt,10784,CS50 Proud T-Shirt,Size,XL,Color,Crimson,Style,Men's,CS50,1,4,0,0,0,0
+060f02b1-c83d-11e6-fcd2-802d755dcb95,CS50ToteBag,10785,CS50 Tote Bag,,,,,,CS50,1,5,0,0,0,0,
+060f02b1-c83d-11e6-fcd2-802d928c22fb,CS50StressBall,10786,CS50 Stress Ball,Color,Blue,,,,,CS50,1,829,0,0,0,0
+060f02b1-c83d-11e6-e913-f4858d11df48,CS50StressBall,10883,CS50 Stress Ball,Color,Crimson,,,,,CS50,1,0,0,0,0,0
+060f02b1-c83d-11e6-fcd2-802e22826034,ddb50RubberDucks,10788,ddb50 (Rubber Duck),,,,,,CS50,1,220,0,0,0,0,
+060f02b1-c83d-11e6-fcd2-85de2b599cc3,the-h-sweater-harvard-exclusive-pre-order,10583,Premium Cotton H Sweater,Colour,Crimson,Size,XS,,,Hillflint,1,27,2,0,3,0
+060f02b1-c83d-11e6-fcd2-85de2bcb545d,the-h-sweater-harvard-exclusive-pre-order,10584,Premium Cotton H Sweater,Colour,Crimson,Size,S,,,Hillflint,1,55,0,0,0,0
+060f02b1-c83d-11e6-fcd2-85de2bf22411,the-h-sweater-harvard-exclusive-pre-order,10585,Premium Cotton H Sweater,Colour,Crimson,Size,M,,,Hillflint,1,56,0,0,4,0
+060f02b1-c83d-11e6-fcd2-85de2c195a7e,the-h-sweater-harvard-exclusive-pre-order,10586,Premium Cotton H Sweater,Colour,Crimson,Size,L,,,Hillflint,1,24,2,0,3,0
+060f02b1-c83d-11e6-fcd2-85de2c3eab86,the-h-sweater-harvard-exclusive-pre-order,10587,Premium Cotton H Sweater,Colour,Crimson,Size,XL,,,Hillflint,1,0,3,0,1,0
+060f02b1-c83d-11e6-fcd2-85de2c6683e7,the-h-sweater-harvard-exclusive-pre-order,10749,Premium Cotton H Sweater,Colour,Cream,Size,XS,,,Hillflint,1,3,0,0,1,0
+060f02b1-c83d-11e6-fcd2-85de2c8afcf7,the-h-sweater-harvard-exclusive-pre-order,10750,Premium Cotton H Sweater,Colour,Cream,Size,S,,,Hillflint,1,24,0,0,2,0
+060f02b1-c83d-11e6-fcd2-85de2cadccae,the-h-sweater-harvard-exclusive-pre-order,10751,Premium Cotton H Sweater,Colour,Cream,Size,M,,,Hillflint,1,8,1,0,4,0
+060f02b1-c83d-11e6-fcd2-85de2cd85f4a,the-h-sweater-harvard-exclusive-pre-order,10752,Premium Cotton H Sweater,Colour,Cream,Size,L,,,Hillflint,1,15,3,0,4,0
+060f02b1-c83d-11e6-fcd2-85de2d070c44,the-h-sweater-harvard-exclusive-pre-order,10753,Premium Cotton H Sweater,Colour,Cream,Size,XL,,,Hillflint,1,13,1,0,3,0
+060f02b1-c83d-11e6-fcd2-85de47ee6918,merino-wool-h-sweater,10667,Merino Wool H Sweater,Colour,Crimson,Size,XS,,,Hillflint,1,28,1,0,1,0
+060f02b1-c83d-11e6-e913-fd20646fd7d8,merino-wool-h-sweater,10894,Merino Wool H Sweater,Colour,Cream,Size,S,,,Hillflint,1,2,1,0,0,0
+060f02b1-c83d-11e6-e913-fd206ac19326,merino-wool-h-sweater,10895,Merino Wool H Sweater,Colour,Cream,Size,M,,,Hillflint,1,0,0,0,1,0
+060f02b1-c83d-11e6-e913-fd20780ccd9d,merino-wool-h-sweater,10896,Merino Wool H Sweater,Colour,Cream,Size,L,,,Hillflint,1,3,0,0,3,0
+060f02b1-c83d-11e6-fcd2-85de484ca04f,merino-wool-h-sweater,10668,Merino Wool H Sweater,Colour,Crimson,Size,S,,,Hillflint,1,41,0,0,2,0
+060f02b1-c83d-11e6-fcd2-85de4889db97,merino-wool-h-sweater,10669,Merino Wool H Sweater,Colour,Crimson,Size,M,,,Hillflint,1,41,2,0,2,0
+060f02b1-c83d-11e6-fcd2-85de48bbf937,merino-wool-h-sweater,10670,Merino Wool H Sweater,Colour,Crimson,Size,L,,,Hillflint,1,39,0,0,3,0
+060f02b1-c83d-11e6-fcd2-85de48efc8f4,merino-wool-h-sweater,10671,Merino Wool H Sweater,Colour,Crimson,Size,XL,,,Hillflint,1,19,0,0,3,0
+060f02b1-c83d-11e6-fcd2-89abf8a35a31,FreeChairLampShippingonlyselectthisifyoureorderingachairorlampotherwisewewillcancelyourorder,FreeChairLampShippingonlyselectthisifyoureorderingachairorlampotherwisewewillcancelyourorder,"Free Chair/Lamp Shipping (only select this if you're ordering a chair or lamp, otherwise we will cancel your order))",Freight,1,0,0,0,0,0,,,,,,
+060f02b1-c83d-11e6-fcd2-98ba35222529,MassachussettsLocalShipping4-6days,MassachussettsLocalShipping4-6days,Massachussetts Local Shipping (4-6 days),,,,Freight,1,0,0,0,0,0,,,
+060f02b1-c83d-11e6-fcd2-9adcd1ce63b6,MaroonHarvardMomT-shirt,10797,Harvard Mom T-shirt,Color,Crimson,Size,S,,,Quality,1,60,0,0,0,0
+060f02b1-c83d-11e6-fcd2-9adcd2281038,MaroonHarvardMomT-shirt,10798,Harvard Mom T-shirt,Color,Crimson,Size,M,,,Quality,1,0,0,0,0,0
+060f02b1-c83d-11e6-fcd2-9adcd27b7084,MaroonHarvardMomT-shirt,10799,Harvard Mom T-shirt,Color,Crimson,Size,L,,,Quality,1,9,0,0,0,0
+060f02b1-c83d-11e6-fcd2-9adcd2d7af74,MaroonHarvardMomT-shirt,10800,Harvard Mom T-shirt,Color,Crimson,Size,XL,,,Quality,1,0,0,0,0,0
+060f02b1-c83d-11e6-fcd2-9add251c3787,MaroonHarvardDadT-shirt,10801,Harvard Dad T-Shirt,Color,Crimson,Size,S,,,Quality,1,69,0,0,0,0
+060f02b1-c83d-11e6-fcd2-9add256ba996,MaroonHarvardDadT-shirt,10802,Harvard Dad T-Shirt,Color,Crimson,Size,M,,,Quality,1,72,0,0,0,0
+060f02b1-c83d-11e6-fcd2-9add25b3e908,MaroonHarvardDadT-shirt,10803,Harvard Dad T-Shirt,Color,Crimson,Size,L,,,Quality,1,22,0,0,0,0
+060f02b1-c83d-11e6-fcd2-9add26134d85,MaroonHarvardDadT-shirt,10804,Harvard Dad T-Shirt,Color,Crimson,Size,XL,,,Quality,1,32,0,0,0,0
+060f02b1-c83d-11e6-fcd2-9add2671aaf0,MaroonHarvardDadT-shirt,10805,Harvard Dad T-Shirt,Color,Crimson,Size,XXL,,,Quality,1,13,0,0,0,0
+060f02b1-c83d-11e6-fcd2-9d338b17ad7c,Pro-WeaveCrewneck,10807,Pro-Weave Crewneck,Color,Black,Size,S,,,MV Sport,1,5,4,1,2,0
+060f02b1-c83d-11e6-fcd2-9d338b6fe932,Pro-WeaveCrewneck,10808,Pro-Weave Crewneck,Color,Black,Size,M,,,MV Sport,1,25,3,4,1,0
+060f02b1-c83d-11e6-fcd2-9d338bb6c6bc,Pro-WeaveCrewneck,10809,Pro-Weave Crewneck,Color,Black,Size,L,,,MV Sport,1,9,2,0,2,0
+060f02b1-c83d-11e6-fcd2-9d338c186bfd,Pro-WeaveCrewneck,10810,Pro-Weave Crewneck,Color,Black,Size,XL,,,MV Sport,1,17,2,2,2,0
+060f02b1-c83d-11e6-fcd2-9d338c63951a,Pro-WeaveCrewneck,10811,Pro-Weave Crewneck,Color,Ivory,Size,S,,,MV Sport,1,20,2,2,2,0
+060f02b1-c83d-11e6-fcd2-9d338ce8bd5d,Pro-WeaveCrewneck,10812,Pro-Weave Crewneck,Color,Ivory,Size,M,,,MV Sport,1,38,3,2,2,0
+060f02b1-c83d-11e6-fcd2-9d338d484988,Pro-WeaveCrewneck,10813,Pro-Weave Crewneck,Color,Ivory,Size,L,,,MV Sport,1,20,2,1,2,0
+060f02b1-c83d-11e6-fcd2-9d338da93673,Pro-WeaveCrewneck,10814,Pro-Weave Crewneck,Color,Ivory,Size,XL,,,MV Sport,1,34,2,2,2,0
+060f02b1-c83d-11e6-fcd2-9d33d59e3a39,Pro-WeaveHood,10815,Pro-Weave Hood,Color,Crimson,Size,S,,,MV Sport,1,4,2,0,2,0
+060f02b1-c83d-11e6-fcd2-9d33d5eb4b09,Pro-WeaveHood,10816,Pro-Weave Hood,Color,Crimson,Size,M,,,MV Sport,1,16,2,1,2,0
+060f02b1-c83d-11e6-fcd2-9d33d630f06f,Pro-WeaveHood,10817,Pro-Weave Hood,Color,Crimson,Size,L,,,MV Sport,1,11,1,2,2,0
+060f02b1-c83d-11e6-fcd2-9d33d69407fa,Pro-WeaveHood,10818,Pro-Weave Hood,Color,Crimson,Size,XL,,,MV Sport,1,48,2,2,2,0
+060f02b1-c83d-11e6-fcd2-9d33d6e88268,Pro-WeaveHood,10819,Pro-Weave Hood,Color,Ivory,Size,S,,,MV Sport,1,51,2,3,2,0
+060f02b1-c83d-11e6-fcd2-9d33d7285b5f,Pro-WeaveHood,10820,Pro-Weave Hood,Color,Ivory,Size,M,,,MV Sport,1,28,2,2,2,0
+060f02b1-c83d-11e6-fcd2-9d33d7752cef,Pro-WeaveHood,10821,Pro-Weave Hood,Color,Ivory,Size,L,,,MV Sport,1,22,2,2,2,0
+060f02b1-c83d-11e6-fcd2-9d33d7bc2ae8,Pro-WeaveHood,10822,Pro-Weave Hood,Color,Ivory,Size,XL,,,MV Sport,1,22,3,2,2,0
+060f02b1-c83d-11e7-e913-04fc82256883,Pro-WeaveHood,10917,Pro-Weave Hood,Color,Ivory,Size,XS,,,MV Sport,1,28,2,1,2,0
+060f02b1-c83d-11e6-fcd2-ac369ba396c5,Harvard32ozSportsBottle,10836,Harvard 32oz. Sports Bottle,Color,Crimson,,,,,RFSJ,1,17,7,4,9,0
+060f02b1-c83d-11e6-fcd2-af5acd7e2172,FreeChairLampShippingyoumustselectthisifyoureorderingachairorlampotherwisewewillcancelyourorder,FreeChairLampShippingyoumustselectthisifyoureorderingachairorlampotherwisewewillcancelyourorder,"Free Chair/Lamp Shipping (you must select this if you're ordering a chair or lamp, otherwise we will cancel your order))",Freight,1,0,0,0,0,0,,,,,,
+060f02b1-c83d-11e6-fcd2-b013193df8c6,WomensBigStripeLongTee,10837,Lorelei Long Sleeve,Color,Oxford,Size,S,,,The League,1,115,1,3,2,0
+060f02b1-c83d-11e6-fcd2-b0131998cfd6,WomensBigStripeLongTee,10838,Lorelei Long Sleeve,Color,Oxford,Size,M,,,The League,1,57,2,2,2,0
+060f02b1-c83d-11e6-fcd2-b01319d6f08e,WomensBigStripeLongTee,10839,Lorelei Long Sleeve,Color,Oxford,Size,L,,,The League,1,84,2,2,2,0
+060f02b1-c83d-11e6-fcd2-b0131a8a3087,WomensBigStripeLongTee,10840,Lorelei Long Sleeve,Color,Oxford,Size,XL,,,The League,1,87,3,1,2,0
+060f02b1-c83d-11e6-fcd2-b8e0b7831b2c,FreeChairLampShippingselectthisifandonlyifyoureorderingachairorlampotherwisewewillcancelyourorder,FreeChairLampShippingselectthisifandonlyifyoureorderingachairorlampotherwisewewillcancelyourorder,"Free Chair/Lamp Shipping (select this if and only if you're ordering a chair or lamp, otherwise we will cancel your order))",Freight,1,0,0,0,0,0,,,,,,
+060f02b1-c83d-11e7-e913-0d828e0c6b4e,Harvard6-in-1GolfTool,10921,Harvard 6-in-1 Golf Tool,,,,,,Quality,1,1,0,0,0,0,
+060f02b1-c83d-11e7-e913-0e582378949f,HarvardBusinessSchoolMug,10922,Harvard Business School Mug,Color,White,,,,,RFSJ,1,216,0,8,0,0
+060f02b1-c83d-11e7-e913-0f4143c9e242,BlackHBeanie,10923,Black H Beanie,,,,,,Bay State Apparel,1,48,0,0,0,0,
+060f02b1-c83d-11e7-e913-100c587e2b44,TestFreeShippingDONOTSELECT-YOURORDERWILLBECANCELED,TestFreeShippingDONOTSELECT-YOURORDERWILLBECANCELED,Test Free Shipping: DO NOT SELECT - YOUR ORDER WILL BE CANCELED,,Freight,1,0,0,0,0,0,,,,,
+060f02b1-c83d-11e7-e913-2078db31dbbd,HarvardPocketTank,10928,Harvard Pocket Tank,Color,Crimson,Size,S,,,Quality,1,0,0,0,0,0
+060f02b1-c83d-11e7-e913-2078db7a2067,HarvardPocketTank,10929,Harvard Pocket Tank,Color,Crimson,Size,M,,,Quality,1,0,0,0,0,0
+060f02b1-c83d-11e7-e913-2078dbd340ab,HarvardPocketTank,10930,Harvard Pocket Tank,Color,Crimson,Size,L,,,Quality,1,0,0,0,0,0
+060f02b1-c83d-11e7-e913-2078dc2f133a,HarvardPocketTank,10931,Harvard Pocket Tank,Color,Crimson,Size,XL,,,Quality,1,0,0,0,0,0
+060f02b1-c83d-11e7-e913-20794f740d42,HLongSleeveVictoryTee,10932,H Long Sleeve Victory Tee,Size,S,Color,Ivory,,,Quality,1,5,1,2,2,0
+060f02b1-c83d-11e7-e913-20794fc52be6,HLongSleeveVictoryTee,10933,H Long Sleeve Victory Tee,Size,M,Color,Ivory,,,Quality,1,0,0,0,0,0
+060f02b1-c83d-11e7-e913-207950132015,HLongSleeveVictoryTee,10934,H Long Sleeve Victory Tee,Size,L,Color,Ivory,,,Quality,1,34,2,2,2,0
+060f02b1-c83d-11e7-e913-2079506cb661,HLongSleeveVictoryTee,10935,H Long Sleeve Victory Tee,Size,XL,Color,Ivory,,,Quality,1,48,2,2,2,0
+06e08a30-ee3d-11e7-f08c-3730f0c40dd4,HLongSleeveVictoryTee,11009,H Long Sleeve Victory Tee,Size,S,Color,Crimson,,,Quality,1,11,0,2,2,0
+06e08a30-ee3d-11e7-f08c-3730f79e03f5,HLongSleeveVictoryTee,11010,H Long Sleeve Victory Tee,Size,M,Color,Crimson,,,Quality,1,32,1,1,2,0
+06e08a30-ee3d-11e7-f08c-3730fc5e684a,HLongSleeveVictoryTee,11011,H Long Sleeve Victory Tee,Size,L,Color,Crimson,,,Quality,1,44,2,3,3,0
+06e08a30-ee3d-11e7-f08c-3731008eec34,HLongSleeveVictoryTee,11012,H Long Sleeve Victory Tee,Size,XL,Color,Crimson,,,Quality,1,58,2,2,2,0
+060f02b1-c83d-11e7-e913-2466fe8b29d9,HarvardToddlerPocketTee,10937,Harvard Toddler Pocket Tee,Color,Crimson,Pattern,Striped,Size,24M,Creative Knitwear,1,22,3,0,0,0
+060f02b1-c83d-11e7-e913-2466fef82425,HarvardToddlerPocketTee,10938,Harvard Toddler Pocket Tee,Color,Crimson,Pattern,Striped,Size,2T,Creative Knitwear,1,12,2,0,0,0
+060f02b1-c83d-11e7-e913-2466ff5a1a7f,HarvardToddlerPocketTee,10939,Harvard Toddler Pocket Tee,Color,Crimson,Pattern,Striped,Size,3T,Creative Knitwear,1,16,1,0,0,0
+060f02b1-c83d-11e7-e913-2466ffb4d056,HarvardToddlerPocketTee,10940,Harvard Toddler Pocket Tee,Color,Crimson,Pattern,Striped,Size,4T,Creative Knitwear,1,23,2,0,0,0
+060f02b1-c83d-11e7-e913-2467803dd40e,HarvardOveralls,10941,Harvard Overalls,Color,Crimson,Size,12M,,,Creative Knitwear,1,13,2,0,0,0
+060f02b1-c83d-11e7-e913-246780a2d0cf,HarvardOveralls,10942,Harvard Overalls,Color,Crimson,Size,18M,,,Creative Knitwear,1,19,2,0,0,0
+060f02b1-c83d-11e7-e913-246780fcecb4,HarvardOveralls,10943,Harvard Overalls,Color,Crimson,Size,24M,,,Creative Knitwear,1,12,3,0,0,0
+060f02b1-c83d-11e7-e913-24678149f219,HarvardOveralls,10944,Harvard Overalls,Color,Crimson,Size,2T,,,Creative Knitwear,1,16,2,0,0,0
+060f02b1-c83d-11e7-e913-246781c1dc2c,HarvardOveralls,10945,Harvard Overalls,Color,Crimson,Size,3T,,,Creative Knitwear,1,10,2,0,0,0
+060f02b1-c83d-11e7-e913-2467821786fa,HarvardOveralls,10946,Harvard Overalls,Color,Crimson,Size,4T,,,Creative Knitwear,1,20,1,0,0,0
+060f02b1-c83d-11e7-e913-2467cc7ce6c8,HarvardBodysuit,10947,Harvard Bodysuit,Size,0-3M,,,,,Creative Knitwear,1,17,2,2,0,0
+060f02b1-c83d-11e7-e913-2467cccb60bf,HarvardBodysuit,10948,Harvard Bodysuit,Size,3-6M,,,,,Creative Knitwear,1,31,2,0,0,0
+060f02b1-c83d-11e7-e913-2467cd2b17b1,HarvardBodysuit,10949,Harvard Bodysuit,Size,6-9M,,,,,Creative Knitwear,1,17,3,0,0,0
+060f02b1-c83d-11e7-e913-2467cdea81a1,HarvardBodysuit,10950,Harvard Bodysuit,Size,12M,,,,,Creative Knitwear,1,32,2,2,0,0
+060f02b1-c83d-11e7-e913-2467f609aa98,HarvardStripedDressBloomer,10951,Harvard Striped Dress & Bloomer,Color,Crimson,Pattern,Striped,Size,0-3M,Creative Knitwear,1,30,2,3,0,0
+060f02b1-c83d-11e7-e913-2467f66186c6,HarvardStripedDressBloomer,10952,Harvard Striped Dress & Bloomer,Color,Crimson,Pattern,Striped,Size,3-6M,Creative Knitwear,1,34,3,2,0,0
+060f02b1-c83d-11e7-e913-2467f6ad38fd,HarvardStripedDressBloomer,10953,Harvard Striped Dress & Bloomer,Color,Crimson,Pattern,Striped,Size,6-9M,Creative Knitwear,1,14,2,2,0,0
+060f02b1-c83d-11e7-e913-2467f6f44812,HarvardStripedDressBloomer,10954,Harvard Striped Dress & Bloomer,Color,Crimson,Pattern,Striped,Size,12M,Creative Knitwear,1,18,3,0,0,0
+060f02b1-c83d-11e7-e913-2926f8bc27e4,HarvardRugbyShirt,10955,Harvard Rugby Shirt,Color,Crimson,Pattern,Striped,Size,XS,Quality,1,11,2,2,2,0
+060f02b1-c83d-11e7-e913-2926f9085580,HarvardRugbyShirt,10956,Harvard Rugby Shirt,Color,Crimson,Pattern,Striped,Size,S,Quality,1,9,1,3,2,0
+060f02b1-c83d-11e7-e913-2926f952c507,HarvardRugbyShirt,10957,Harvard Rugby Shirt,Color,Crimson,Pattern,Striped,Size,M,Quality,1,19,2,2,2,0
+060f02b1-c83d-11e7-e913-2926f9aab1a9,HarvardRugbyShirt,10958,Harvard Rugby Shirt,Color,Crimson,Pattern,Striped,Size,L,Quality,1,10,2,2,2,0
+060f02b1-c83d-11e7-e913-2926f9f64e52,HarvardRugbyShirt,10959,Harvard Rugby Shirt,Color,Crimson,Pattern,Striped,Size,XL,Quality,1,9,2,2,2,0
+060f02b1-c83d-11e7-e913-2926fa4c8e2b,HarvardRugbyShirt,10960,Harvard Rugby Shirt,Color,Crimson,Pattern,Striped,Size,XXL,Quality,1,7,1,2,2,0
+060f02b1-c83d-11e7-e913-29de696b4a64,HarvardGrandmaT-Shirt,10961,Harvard Grandma T-Shirt,Color,Crimson,Size,S,,,Quality,1,1,0,0,0,0
+060f02b1-c83d-11e7-e913-29de69e7d698,HarvardGrandmaT-Shirt,10962,Harvard Grandma T-Shirt,Color,Crimson,Size,M,,,Quality,1,1,0,0,0,0
+060f02b1-c83d-11e7-e913-29de6a6d901f,HarvardGrandmaT-Shirt,10963,Harvard Grandma T-Shirt,Color,Crimson,Size,L,,,Quality,1,5,0,0,0,0
+060f02b1-c83d-11e7-e913-29de6ac0d569,HarvardGrandmaT-Shirt,10964,Harvard Grandma T-Shirt,Color,Crimson,Size,XL,,,Quality,1,0,0,0,0,0
+060f02b1-c83d-11e7-e913-29de83bde864,HarvardGrandpaT-Shirt,10965,Harvard Grandpa T-Shirt,Color,Crimson,Size,S,,,Quality,1,15,0,0,0,0
+060f02b1-c83d-11e7-e913-29de8407f13c,HarvardGrandpaT-Shirt,10966,Harvard Grandpa T-Shirt,Color,Crimson,Size,M,,,Quality,1,4,0,0,0,0
+060f02b1-c83d-11e7-e913-29de846f6f4a,HarvardGrandpaT-Shirt,10967,Harvard Grandpa T-Shirt,Color,Crimson,Size,L,,,Quality,1,0,0,0,0,0
+060f02b1-c83d-11e7-e913-29de84cdf3b4,HarvardGrandpaT-Shirt,10968,Harvard Grandpa T-Shirt,Color,Crimson,Size,XL,,,Quality,1,0,0,0,0,0
+060f02b1-c83d-11e7-e913-29dea4dc77f2,HarvardBrotherT-Shirt,10969,Harvard Brother T-Shirt,Size,S,Color,Crimson,,,Quality,1,13,0,0,0,0
+060f02b1-c83d-11e7-e913-29dea535c9da,HarvardBrotherT-Shirt,10970,Harvard Brother T-Shirt,Size,M,Color,Crimson,,,Quality,1,1,0,0,0,0
+060f02b1-c83d-11e7-e913-29dea593597d,HarvardBrotherT-Shirt,10971,Harvard Brother T-Shirt,Size,L,Color,Crimson,,,Quality,1,5,0,0,0,0
+060f02b1-c83d-11e7-e913-29dea5e7f00e,HarvardBrotherT-Shirt,10972,Harvard Brother T-Shirt,Size,XL,Color,Crimson,,,Quality,1,0,0,0,0,0
+060f02b1-c83d-11e7-e913-29debae66fac,HarvardSisterT-Shirt,10973,Harvard Sister T-Shirt,Color,Crimson,Size,S,,,Quality,1,7,0,0,0,0
+060f02b1-c83d-11e7-e913-29debb557ffe,HarvardSisterT-Shirt,10974,Harvard Sister T-Shirt,Color,Crimson,Size,M,,,Quality,1,3,0,0,0,0
+060f02b1-c83d-11e7-e913-29debbb95dd6,HarvardSisterT-Shirt,10975,Harvard Sister T-Shirt,Color,Crimson,Size,L,,,Quality,1,8,0,0,0,0
+060f02b1-c83d-11e7-e913-29debc21a83f,HarvardSisterT-Shirt,10976,Harvard Sister T-Shirt,Color,Crimson,Size,XL,,,Quality,1,2,0,0,0,0
+060f02b1-c83d-11e7-e913-30b99ce86693,HavardLadiesCrestTriBlend,10978,Harvard Ladies Crest TriBlend,Color,Oxford,Size,XS,,,Quality,1,46,2,2,2,0
+060f02b1-c83d-11e7-e913-30b99d45e4d9,HavardLadiesCrestTriBlend,10979,Harvard Ladies Crest TriBlend,Color,Oxford,Size,S,,,Quality,1,37,2,0,1,0
+060f02b1-c83d-11e7-e913-30b99d90c51e,HavardLadiesCrestTriBlend,10980,Harvard Ladies Crest TriBlend,Color,Oxford,Size,M,,,Quality,1,43,2,3,2,0
+060f02b1-c83d-11e7-e913-30b99deded70,HavardLadiesCrestTriBlend,10981,Harvard Ladies Crest TriBlend,Color,Oxford,Size,L,,,Quality,1,47,2,2,2,0
+060f02b1-c83d-11e7-e913-30b99e50c066,HavardLadiesCrestTriBlend,10982,Harvard Ladies Crest TriBlend,Color,Oxford,Size,XL,,,Quality,1,23,2,2,2,0
+06e08a30-ee3d-11e7-ec24-89abd643448d,HavardLadiesCrestTriBlend,11193,Harvard Ladies Crest TriBlend,Color,Crimson,Size,S,,,Quality,1,6,1,2,2,0
+06e08a30-ee3d-11e7-ec24-89abdbe080fd,HavardLadiesCrestTriBlend,11194,Harvard Ladies Crest TriBlend,Color,Crimson,Size,M,,,Quality,1,20,2,2,2,0
+06e08a30-ee3d-11e7-ec24-89abed41e288,HavardLadiesCrestTriBlend,11195,Harvard Ladies Crest TriBlend,Color,Crimson,Size,L,,,Quality,1,29,1,2,2,0
+06e08a30-ee3d-11e7-ec24-89abf3aa92ec,HavardLadiesCrestTriBlend,11196,Harvard Ladies Crest TriBlend,Color,Crimson,Size,XL,,,Quality,1,18,2,3,3,0
+060f02b1-c83d-11e7-e913-30ba971c5b42,HarvardLadiesBoyfriendV-Tee,10983,Harvard Ladies Designer Tee,Color,White,Size,XS,,,Quality,1,0,0,0,0,0
+060f02b1-c83d-11e7-e913-30ba97723ffe,HarvardLadiesBoyfriendV-Tee,10984,Harvard Ladies Designer Tee,Color,White,Size,S,,,Quality,1,0,0,0,0,0
+060f02b1-c83d-11e7-e913-30ba97cf4235,HarvardLadiesBoyfriendV-Tee,10985,Harvard Ladies Designer Tee,Color,White,Size,M,,,Quality,1,0,0,0,0,0
+060f02b1-c83d-11e7-e913-30ba9815e0fd,HarvardLadiesBoyfriendV-Tee,10986,Harvard Ladies Designer Tee,Color,White,Size,L,,,Quality,1,3,2,0,0,0
+060f02b1-c83d-11e7-e913-30ba985bced7,HarvardLadiesBoyfriendV-Tee,10987,Harvard Ladies Designer Tee,Color,White,Size,XL,,,Quality,1,0,0,0,0,0
+060f02b1-c83d-11e7-e913-30bb1b471cf9,HarvardMensCollegiateTee,10988,Harvard Collegiate Tee,Color,Oxford,Size,S,,,Quality,1,20,2,2,1,0
+060f02b1-c83d-11e7-e913-30bb1ba6dd55,HarvardMensCollegiateTee,10989,Harvard Collegiate Tee,Color,Oxford,Size,M,,,Quality,1,29,3,2,2,0
+060f02b1-c83d-11e7-e913-30bb1c1e51da,HarvardMensCollegiateTee,10990,Harvard Collegiate Tee,Color,Oxford,Size,L,,,Quality,1,39,2,2,2,0
+060f02b1-c83d-11e7-e913-30bb1c713468,HarvardMensCollegiateTee,10991,Harvard Collegiate Tee,Color,Oxford,Size,XL,,,Quality,1,58,2,2,2,0
+060f02b1-c83d-11e7-e913-30bb1cead469,HarvardMensCollegiateTee,10992,Harvard Collegiate Tee,Color,Oxford,Size,XS,,,Quality,1,54,2,0,2,0
+06e08a30-ee3d-11e7-ec24-80425dca94ae,HarvardMensCollegiateTee,11174,Harvard Collegiate Tee,Color,Crimson,Size,S,,,Quality,1,58,2,2,2,0
+06e08a30-ee3d-11e7-ec24-8042632044aa,HarvardMensCollegiateTee,11175,Harvard Collegiate Tee,Color,Crimson,Size,M,,,Quality,1,56,4,2,3,0
+06e08a30-ee3d-11e7-ec24-804267e185ae,HarvardMensCollegiateTee,11176,Harvard Collegiate Tee,Color,Crimson,Size,L,,,Quality,1,67,3,2,2,0
+06e08a30-ee3d-11e7-ec24-80426d997c7e,HarvardMensCollegiateTee,11177,Harvard Collegiate Tee,Color,Crimson,Size,XL,,,Quality,1,82,2,0,2,0
+06e08a30-ee3d-11e7-ec24-804287e53410,HarvardMensCollegiateTee,11178,Harvard Collegiate Tee,Color,Crimson,Size,XS,,,Quality,1,93,3,3,3,0
+060f02b1-c83d-11e7-e913-30bbc5109242,HPingPongBall6-pack,10993,H Ping Pong Ball 6-pack,Color,White,,,,,Wincraft,1,45,4,2,4,0
+060f02b1-c83d-11e7-e913-30bbf89baa59,HarvardMagnetSet,10994,Harvard Magnet Set,Color,Crimson,,,,,Wincraft,1,7,14,7,8,0
+060f02b1-c83d-11e7-e913-30bc1e27f0f9,HarvardWoodenDormSign,10995,Harvard Wooden Dorm Sign,,,,,Wincraft,1,35,5,0,1,0,,
+060f02b1-c83d-11e7-e913-30bc44432004,HarvardCrestBanner,10996,Harvard Crest Banner,Color,Crimson,,,,,Wincraft,1,20,4,4,1,0
+060f02b1-c83d-11e7-e913-30bc7984750b,HarvardHKeychain,10997,Harvard H Keychain,Color,Crimson,,,,,Wincraft,1,0,0,8,0,0
+060f02b1-c83d-11e7-e913-30bca714bf43,HarvardHSpinnerKeychain,10998,Harvard H Spinner Keychain,Color,Crimson,Color,White,,,Wincraft,1,5,25,28,19,0
+060f02b1-c83d-11e7-e913-30bcc0bde538,HarvardFeltPennantMagnet,10999,Harvard Felt Pennant Magnet,Color,Crimson,,,,,Wincraft,1,57,27,17,22,0
+060f02b1-c83d-11e7-e913-30bce1082cd0,HarvardHMagnetClip,11000,Harvard H Magnet Clip,Color,Crimson,,,,,Wincraft,1,446,12,4,10,0
+064dce89-c73d-11e5-ec2a-888f62aaa0b7,CS50WomensT-Shirt,CS50-1,CS50 Women's T-Shirt,Size,S,Color,cranberry,,,CS50,1,0,0,0,0,0
+064dce89-c73d-11e5-ec2a-888f904837ac,CS50WomensT-Shirt,CS50-2,CS50 Women's T-Shirt,Size,M,Color,cranberry,,,CS50,1,0,0,0,0,0
+064dce89-c73d-11e5-ec2a-888f9babcea9,CS50WomensT-Shirt,CS50-3,CS50 Women's T-Shirt,Size,L,Color,cranberry,,,CS50,1,0,0,0,0,0
+064dce89-c73d-11e5-ec2a-888f9e6c81eb,CS50WomensT-Shirt,CS50-4,CS50 Women's T-Shirt,Size,XL,Color,cranberry,,,CS50,1,0,0,0,0,0
+064dce89-c73d-11e5-ec2a-88903d410b5b,CS50MensT-Shirt,CS50-5,CS50 Men's T-Shirt,Size,S,Color,cranberry,,,,1,4,0,0,0,0
+064dce89-c73d-11e5-ec2a-88904b7aa411,CS50MensT-Shirt,CS50-6,CS50 Men's T-Shirt,Size,M,Color,cranberry,,,,1,0,0,0,0,0
+064dce89-c73d-11e5-ec2a-88905692afbf,CS50MensT-Shirt,CS50-7,CS50 Men's T-Shirt,Size,L,Color,cranberry,,,,1,0,0,0,0,0
+064dce89-c73d-11e5-ec2a-8890653fc8f9,CS50MensT-Shirt,CS50-8,CS50 Men's T-Shirt,Size,XL,Color,cranberry,,,,1,0,0,0,0,0
+064dce89-c73d-11e5-ec2a-8895d033acfa,CS50Pen,CS50-13,CS50 Pen,,,,,,,CS50,1,2,4,0,0,0
+064dce89-c73d-11e5-ec2a-8895e715d1a0,CS50Sunglasses,CS50-14,CS50 Sunglasses,Color,Crimson,,,,,CS50,1,303,4,0,0,0
+060f02b1-c83d-11e6-fcd2-802dc964e150,CS50Sunglasses,10787,CS50 Sunglasses,Color,Blue,,,,,CS50,1,303,1,0,0,0
+064dce89-c73d-11e5-ec2a-8e583e56b97a,HarvardCrestBib,10538,Harvard Crest Bib,Color,Crimson,Pattern,Solid,,,Creative Knitwear,1,10,6,0,1,0
+060f02b1-c83d-11e7-e913-2466af8993ac,HarvardCrestBib,10936,Harvard Crest Bib,Color,Crimson,Pattern,Striped,,,Creative Knitwear,1,1,9,0,0,0
+064dce89-c73d-11e5-ec2a-8e5887e2815a,HarvardBabyBlanket,10539,Harvard Striped Baby Blanket,Color,Crimson,Pattern,Striped,,,Creative Knitwear,1,1,5,0,3,0
+064dce89-c73d-11e5-ec2a-8e59eb16b6c1,HarvardBabyToddlerFleeceJacket,10540,Harvard Baby & Toddler Fleece Jacket,Size,12M,Color,Crimson,,,Creative Knitwear,1,18,3,2,0,0
+064dce89-c73d-11e5-ec2a-8e59f4c17c77,HarvardBabyToddlerFleeceJacket,10541,Harvard Baby & Toddler Fleece Jacket,Size,18M,Color,Crimson,,,Creative Knitwear,1,21,2,2,0,0
+064dce89-c73d-11e5-ec2a-8e59f963fa16,HarvardBabyToddlerFleeceJacket,10542,Harvard Baby & Toddler Fleece Jacket,Size,24M,Color,Crimson,,,Creative Knitwear,1,14,2,0,0,0
+064dce89-c73d-11e5-ec2a-8e5a01783a1a,HarvardBabyToddlerFleeceJacket,10543,Harvard Baby & Toddler Fleece Jacket,Size,2T,Color,Crimson,,,Creative Knitwear,1,19,2,2,0,0
+064dce89-c73d-11e5-ec2a-8e5a0606b7b7,HarvardBabyToddlerFleeceJacket,10544,Harvard Baby & Toddler Fleece Jacket,Size,3T,Color,Crimson,,,Creative Knitwear,1,20,2,0,0,0
+064dce89-c73d-11e5-ec2a-8e5a0a609bbb,HarvardBabyToddlerFleeceJacket,10545,Harvard Baby & Toddler Fleece Jacket,Size,4T,Color,Crimson,,,Creative Knitwear,1,7,2,0,0,0
+064dce89-c73d-11e5-ec2a-8e5a63e5fff9,HarvardHBooties,10546,Harvard 'H' Booties,Color,Crimson,,,,,Creative Knitwear,1,16,3,0,0,0
+064dce89-c73d-11e5-ec2a-8e5afb30bbbf,HarvardFootedRomper,10547,Harvard Footed Romper,Size,0-3M,Color,Crimson,Pattern,Solid,Creative Knitwear,1,28,2,0,0,0
+060f02b1-c83d-11e7-e913-081baa39e2b2,HarvardFootedRomper,10918,Harvard Footed Romper,Size,0-3M,Color,Crimson,Pattern,Striped,Creative Knitwear,1,25,1,0,0,0
+060f02b1-c83d-11e7-e913-081bb3cd36ed,HarvardFootedRomper,10919,Harvard Footed Romper,Size,3-6M,Color,Crimson,Pattern,Striped,Creative Knitwear,1,26,2,0,0,0
+060f02b1-c83d-11e7-e913-081bc1e6a77b,HarvardFootedRomper,10920,Harvard Footed Romper,Size,6-9M,Color,Crimson,Pattern,Striped,Creative Knitwear,1,27,1,0,0,0
+064dce89-c73d-11e5-ec2a-8e5b33df4a01,HarvardFootedRomper,10548,Harvard Footed Romper,Size,3-6M,Color,Crimson,Pattern,Solid,Creative Knitwear,1,21,2,0,0,0
+064dce89-c73d-11e5-ec2a-8e5b3b8732fe,HarvardFootedRomper,10549,Harvard Footed Romper,Size,6-9M,Color,Crimson,Pattern,Solid,Creative Knitwear,1,35,2,0,0,0
+064dce89-c73d-11e5-ec2a-8e5bd522c5dd,HarvardBodysuitDress,10550,Harvard Bodysuit Dress,Size,0-3M,Color,Crimson,,,Creative Knitwear,1,14,3,0,2,0
+064dce89-c73d-11e5-ec2a-8e5be41f4ffc,HarvardBodysuitDress,10551,Harvard Bodysuit Dress,Size,3-6M,Color,Crimson,,,Creative Knitwear,1,24,2,0,0,0
+064dce89-c73d-11e5-ec2a-8e5bed152173,HarvardBodysuitDress,10552,Harvard Bodysuit Dress,Size,6-9M,Color,Crimson,,,Creative Knitwear,1,20,2,0,0,0
+064dce89-c73d-11e5-ec2a-8e5bf24f8f37,HarvardBodysuitDress,10553,Harvard Bodysuit Dress,Size,12M,Color,Crimson,,,Creative Knitwear,1,19,2,0,0,0
+064dce89-c73d-11e5-ec2a-8e5bf7a30093,HarvardBodysuitDress,10554,Harvard Bodysuit Dress,Size,18M,Color,Crimson,,,Creative Knitwear,1,2,0,0,0,0
+064dce89-c73d-11e5-ec2a-8e5c005fefce,HarvardBodysuitDress,10555,Harvard Bodysuit Dress,Size,24M,Color,Crimson,,,Creative Knitwear,1,9,2,0,0,0
+064dce89-c73d-11e5-ec2a-8f2c2980e35f,FutureFreshmanToddlerT-shirt,10558,Future Freshman Toddler T-shirt,Size,2T,Color,Pink,,,FREEDOM,1,71,5,0,0,0
+060f02b1-c83d-11e6-fcd2-31873004f299,FutureFreshmanToddlerT-shirt,10557,Future Freshman Toddler T-shirt,Size,4T,Color,Pink,,,FREEDOM,1,74,4,0,0,0
+060f02b1-c83d-11e6-fcd2-319d4c6220ef,FutureFreshmanToddlerT-shirt,10661,Future Freshman Toddler T-shirt,Size,4T,Color,Oxford,,,FREEDOM,1,68,3,0,0,0
+064dce89-c73d-11e5-ec2a-8f2c31a5389f,FutureFreshmanToddlerT-shirt,10559,Future Freshman Toddler T-shirt,Size,2T,Color,Oxford,,,FREEDOM,1,63,4,0,0,0
+064dce89-c73d-11e5-ec2a-8f2c79736537,FutureFreshmanOnesie,10560,Future Freshman Onesie,Size,6M,Color,Pink,,,FREEDOM,1,57,3,8,5,0
+064dce89-c73d-11e5-ec2a-8f2c8288ea44,FutureFreshmanOnesie,10561,Future Freshman Onesie,Size,12M,Color,Pink,,,FREEDOM,1,66,2,2,2,0
+064dce89-c73d-11e5-ec2a-8f2c881742f9,FutureFreshmanOnesie,10562,Future Freshman Onesie,Size,18M,Color,Pink,,,FREEDOM,1,68,2,4,2,0
+064dce89-c73d-11e5-ec2a-8f2c8f6011b6,FutureFreshmanOnesie,10563,Future Freshman Onesie,Size,6M,Color,Oxford,,,FREEDOM,1,58,0,2,0,0
+064dce89-c73d-11e5-ec2a-8f2c952d3162,FutureFreshmanOnesie,10564,Future Freshman Onesie,Size,12M,Color,Oxford,,,FREEDOM,1,53,2,1,2,0
+064dce89-c73d-11e5-ec2a-8f2c9de6b39f,FutureFreshmanOnesie,10565,Future Freshman Onesie,Size,18M,Color,Oxford,,,FREEDOM,1,61,1,3,3,0
+064dce89-c73d-11e5-ec2a-a1bdb43102e5,FutureFreshmanOnesie,10578,Future Freshman Onesie,Size,24M,Color,Pink,,,FREEDOM,1,83,3,6,1,0
+064dce89-c73d-11e5-ec2a-a1bdbda34ee5,FutureFreshmanOnesie,10579,Future Freshman Onesie,Size,24M,Color,Oxford,,,FREEDOM,1,72,4,4,2,0
+064dce89-c73d-11e5-ec2a-9a902c3ab16a,CS50Socket,CS50-15,CS50 Socket,,,,,,,CS50,1,3,3,0,0,0
+064dce89-c73d-11e5-ec2a-a04c770aac50,HavardShieldDogCollar,10566,Havard Shield Dog Collar,Color,Crimson,Size,S,,,All Star Dogs,1,58,0,0,0,0
+064dce89-c73d-11e5-ec2a-a04c8326a7b4,HavardShieldDogCollar,10567,Havard Shield Dog Collar,Color,Crimson,Size,M,,,All Star Dogs,1,25,1,0,0,0
+064dce89-c73d-11e5-ec2a-a04c8647b39b,HavardShieldDogCollar,10568,Havard Shield Dog Collar,Color,Crimson,Size,L,,,All Star Dogs,1,32,0,0,0,0
+064dce89-c73d-11e5-ec2a-a04c988861b2,HavardShieldDogCollar,10569,Havard Shield Dog Collar,Color,Black,Size,S,,,All Star Dogs,1,13,1,0,0,0
+064dce89-c73d-11e5-ec2a-a04c9d30c9de,HavardShieldDogCollar,10570,Havard Shield Dog Collar,Color,Black,Size,M,,,All Star Dogs,1,0,0,0,0,0
+064dce89-c73d-11e5-ec2a-a04ca35c2d1f,HavardShieldDogCollar,10571,Havard Shield Dog Collar,Color,Black,Size,L,,,All Star Dogs,1,32,0,0,0,0
+064dce89-c73d-11e5-ec2a-a04ce9810941,HarvardShieldDogLeashes,10572,Harvard Shield Dog Leashes,Color,Crimson,Size,S,,,All Star Dogs,1,21,3,0,0,0
+064dce89-c73d-11e5-ec2a-a04d0a84a66a,HarvardShieldDogLeashes,10573,Harvard Shield Dog Leashes,Color,Crimson,Size,L,,,All Star Dogs,1,12,1,0,0,0
+064dce89-c73d-11e5-ec2a-a04d10064a21,HarvardShieldDogLeashes,10574,Harvard Shield Dog Leashes,Color,Black,Size,S,,,All Star Dogs,1,14,4,0,0,0
+064dce89-c73d-11e5-ec2a-a04d16765ff2,HarvardShieldDogLeashes,10575,Harvard Shield Dog Leashes,Color,Black,Size,L,,,All Star Dogs,1,9,1,0,0,0
+064dce89-c73d-11e5-ec2a-a5cdb7dda64e,MassachusettsLocalShipping4-6dayOverweight,MassachusettsLocalShipping4-6dayOverweight,Massachusetts Local Shipping (4-6 day) Overweight,,,,Freight,1,0,0,0,0,0,,,
+064dce89-c73d-11e5-ec2a-b3078cda8b53,HarvardPolarBear,10581,Harvard Polar Bear,Color,White,,,,,T-Shirt Bears,1,10,3,3,4,0
+064dce89-c73d-11e5-ec2a-b3080b6fcf03,HarvardDog,10582,Harvard Dog,Color,Brown,,,,,T-Shirt Bears,1,4,1,2,0,0
+064dce89-c73d-11e5-ec2a-b3e81f701956,brass-plate,BrassPlateDefaultTitle,Brass Plate,,,,,,,The Harvard Shop,1,0,0,0,0,0
+064dce89-c73d-11e5-ec2a-bee6c4c8c7bb,rush-chair-delivery,RushChairDeliDefaultTitle,Rush Chair Delivery,,,,,,The Harvard Shop,1,0,0,0,0,0,
+064dce89-c73d-11e5-ec2a-e1b69ae57c35,Postcard,10592,Postcard,Title,Dunster House,,,,Mahoney Publishing,1,0,0,0,0,0,
+064dce89-c73d-11e5-ec2a-e1b69b5bd325,Postcard,10593,Postcard,Title,Harvard Square,,,,Mahoney Publishing,1,0,0,0,0,0,
+064dce89-c73d-11e5-ec2a-e1b69bc74aef,Postcard,10594,Postcard,Title,Regatta,,,,,Mahoney Publishing,1,0,0,0,0,0
+064dce89-c73d-11e5-ec2a-e1b69c30bc55,Postcard,10595,Postcard,Title,Memorial Church,,,,Mahoney Publishing,1,0,0,0,0,0,
+064dce89-c73d-11e5-ec2a-e1b69c8d1ff1,Postcard,10596,Postcard,Title,Lampoon,,,,,Mahoney Publishing,1,0,0,0,0,0
+064dce89-c73d-11e5-ec2a-e1b69d09654d,Postcard,10597,Postcard,Title,Boathouse,,,,,Mahoney Publishing,1,0,0,0,0,0
+064dce89-c73d-11e5-ec2a-e21db9e13bb1,HarvardHockeyAppliqueSweatshirt,10598,Harvard Hockey Applique Sweatshirt,Color,Charcoal,Size,XS,,,Bay State Apparel,1,14,1,2,2,0
+060f02b1-c83d-11e6-fcd2-42c9a1ecabe1,HarvardHockeyAppliqueSweatshirt,10686,Harvard Hockey Applique Sweatshirt,Color,Oxford,Size,XS,,,Bay State Apparel,1,40,2,2,2,0
+060f02b1-c83d-11e6-fcd2-42c9b9b86851,HarvardHockeyAppliqueSweatshirt,10687,Harvard Hockey Applique Sweatshirt,Color,Oxford,Size,S,,,Bay State Apparel,1,48,0,0,0,0
+060f02b1-c83d-11e6-fcd2-42c9bdc06c8e,HarvardHockeyAppliqueSweatshirt,10688,Harvard Hockey Applique Sweatshirt,Color,Oxford,Size,M,,,Bay State Apparel,1,47,2,2,2,0
+060f02b1-c83d-11e6-fcd2-42c9c28bd791,HarvardHockeyAppliqueSweatshirt,10689,Harvard Hockey Applique Sweatshirt,Color,Oxford,Size,L,,,Bay State Apparel,1,42,2,3,2,0
+060f02b1-c83d-11e6-fcd2-42c9c87a89d8,HarvardHockeyAppliqueSweatshirt,10690,Harvard Hockey Applique Sweatshirt,Color,Oxford,Size,XL,,,Bay State Apparel,1,22,2,2,3,0
+060f02b1-c83d-11e6-fcd2-63e4fc522973,HarvardHockeyAppliqueSweatshirt,10744,Harvard Hockey Applique Sweatshirt,Color,Crimson,Size,XS,,,Bay State Apparel,1,25,2,0,2,0
+060f02b1-c83d-11e6-fcd2-63e507f12da0,HarvardHockeyAppliqueSweatshirt,10745,Harvard Hockey Applique Sweatshirt,Color,Crimson,Size,S,,,Bay State Apparel,1,57,2,0,2,0
+060f02b1-c83d-11e6-fcd2-63e50e22aedb,HarvardHockeyAppliqueSweatshirt,10746,Harvard Hockey Applique Sweatshirt,Color,Crimson,Size,M,,,Bay State Apparel,1,57,3,0,2,0
+060f02b1-c83d-11e6-fcd2-63e51297a6e7,HarvardHockeyAppliqueSweatshirt,10747,Harvard Hockey Applique Sweatshirt,Color,Crimson,Size,L,,,Bay State Apparel,1,13,1,0,2,0
+060f02b1-c83d-11e6-fcd2-63e51794352c,HarvardHockeyAppliqueSweatshirt,10748,Harvard Hockey Applique Sweatshirt,Color,Crimson,Size,XL,,,Bay State Apparel,1,28,2,0,2,0
+064dce89-c73d-11e5-ec2a-e21f214546c8,HarvardHockeyAppliqueSweatshirt,10604,Harvard Hockey Applique Sweatshirt,Color,Charcoal,Size,S,,,Bay State Apparel,1,42,2,2,2,0
+064dce89-c73d-11e5-ec2a-e21f2639a19b,HarvardHockeyAppliqueSweatshirt,10605,Harvard Hockey Applique Sweatshirt,Color,Charcoal,Size,M,,,Bay State Apparel,1,43,2,2,2,0
+064dce89-c73d-11e5-ec2a-e21f2fb5eb6c,HarvardHockeyAppliqueSweatshirt,10606,Harvard Hockey Applique Sweatshirt,Color,Charcoal,Size,L,,,Bay State Apparel,1,32,2,2,2,0
+064dce89-c73d-11e5-ec2a-e21f36198234,HarvardHockeyAppliqueSweatshirt,10607,Harvard Hockey Applique Sweatshirt,Color,Charcoal,Size,XL,,,Bay State Apparel,1,25,2,2,2,0
+064dce89-c73d-11e5-ec2a-e21ee6192e13,HarvardQuarterZipApplique,10599,Harvard Quarter Zip Applique,Color,Oxford,Size,XS,,,Bay State Apparel,1,27,2,2,3,0
+060f02b1-c83d-11e6-fcd2-b19b84a7f330,HarvardQuarterZipApplique,10841,Harvard Quarter Zip Applique,Color,Oxford,Size,XXL,,,Bay State Apparel,1,2,3,2,2,0
+064dce89-c73d-11e5-ec2a-e21ee673cd0d,HarvardQuarterZipApplique,10600,Harvard Quarter Zip Applique,Color,Oxford,Size,S,,,Bay State Apparel,1,39,1,2,2,0
+064dce89-c73d-11e5-ec2a-e21ee6d0cd4d,HarvardQuarterZipApplique,10601,Harvard Quarter Zip Applique,Color,Oxford,Size,M,,,Bay State Apparel,1,21,1,2,1,0
+064dce89-c73d-11e5-ec2a-e21ee7351cfc,HarvardQuarterZipApplique,10602,Harvard Quarter Zip Applique,Color,Oxford,Size,L,,,Bay State Apparel,1,11,2,1,3,0
+064dce89-c73d-11e5-ec2a-e21ee791c9ad,HarvardQuarterZipApplique,10603,Harvard Quarter Zip Applique,Color,Oxford,Size,XL,,,Bay State Apparel,1,32,2,1,2,0
+064dce89-c73d-11e5-ec2a-e225cd6c11b7,Harvard1636PuttyHat,10608,Harvard 1636 Putty Hat,Color,Ivory,,,,,Bay State Apparel,1,60,0,0,8,0
+064dce89-c73d-11e5-ec2a-e227424ed0e2,HarvardLongSleeveT-Shirt,10609,Harvard Long Sleeve T-Shirt,Color,Crimson,Size,S,,,Bay State Apparel,1,27,3,2,2,0
+064dce89-c73d-11e5-ec2a-e22742b5748a,HarvardLongSleeveT-Shirt,10610,Harvard Long Sleeve T-Shirt,Color,Crimson,Size,M,,,Bay State Apparel,1,33,2,2,2,0
+064dce89-c73d-11e5-ec2a-e2274321ee69,HarvardLongSleeveT-Shirt,10611,Harvard Long Sleeve T-Shirt,Color,Crimson,Size,L,,,Bay State Apparel,1,17,4,2,2,0
+064dce89-c73d-11e5-ec2a-e227437e053e,HarvardLongSleeveT-Shirt,10612,Harvard Long Sleeve T-Shirt,Color,Crimson,Size,XL,,,Bay State Apparel,1,33,0,2,2,0
+064dce89-c73d-11e5-ec2a-f1d025d4a8bf,ViewoftheColleges,10613,View of the Colleges Photo,,,,,ICONCEPT,1,2,0,1,0,0,,
+064dce89-c73d-11e5-ec2a-f1d064caf456,CollegeWomenMarchingPhoto,10614,College Women Marching Photo,,,,,ICONCEPT,1,4,0,1,0,0,,
+064dce89-c73d-11e5-ec2a-f1d09a1adf00,HarvardUniversityDrillSquadPhoto,10615,Harvard University Drill Squad Photo,,,,,ICONCEPT,1,1,0,0,0,0,,
+064dce89-c73d-11e5-ec2a-f1d0e7742a95,HelenKellerPortrait,10616,Helen Keller Portrait,,,,,,ICONCEPT,1,4,0,1,0,0,
+064dce89-c73d-11e5-ec2a-f1d1eb77b13f,CrewRacebetweenHarvardandYale,10617,Crew Race between Harvard and Yale,,,,,ICONCEPT,1,2,0,3,0,0,,
+064dce89-c73d-11e5-ec2a-f1d21ec3233f,ColorPhotoofJohnsonGate,10618,Color Photo of Johnson Gate,,,,,ICONCEPT,1,0,0,0,2,0,,
+064dce89-c73d-11e5-ec2a-f1d24554df5d,ColorPhotoofHarvardHall,10619,Color Photo of Harvard Hall,,,,,ICONCEPT,1,0,0,0,2,0,,
+064dce89-c73d-11e5-ec2a-f1d2701acc5d,ColorPhotoofMemorialHall,10620,Color Photo of Memorial Hall,,,,,ICONCEPT,1,0,0,0,0,0,,
+064dce89-c73d-11e5-ec2a-f1d29f78bf71,HarvardSquarePhoto,10621,Harvard Square Photo,,,,,,ICONCEPT,1,0,0,2,2,0,
+064dce89-c73d-11e5-ec2a-f1d2cd622a00,JohnHarvardStatue1904,10622,"John Harvard Statue, 1904",,,,,ICONCEPT,1,0,0,0,1,0,,
+064dce89-c73d-11e5-ec2a-f1d2fa570faf,HarvardAdvocateBoard,10623,Harvard Advocate Board,,,,,,ICONCEPT,1,1,0,1,0,0,
+064dce89-c73d-11e5-ec2a-f1d32db32536,HarvardVarsity8Rowers1913,10624,Harvard Varsity 8 Rowers 1913,,,,,ICONCEPT,1,2,0,1,0,0,,
+064dce89-c73d-11e5-ec2a-f80626fe6826,CheckoutBagCharge,10625,Checkout Bag Charge (25 cents),,,,,,1,0,0,0,0,0,,
+064dce89-c73d-11e5-ec2a-fb6c73d79e2d,HarvardSpiritJersey,10626,Harvard Spirit Jersey,Color,Crimson,Size,XS,,,Spirit Jersey,1,0,0,0,0,0
+064dce89-c73d-11e5-ec2a-fb6c745100d1,HarvardSpiritJersey,10627,Harvard Spirit Jersey,Color,Crimson,Size,S,,,Spirit Jersey,1,1,0,0,0,0
+064dce89-c73d-11e5-ec2a-fb6c74df95c3,HarvardSpiritJersey,10628,Harvard Spirit Jersey,Color,Crimson,Size,M,,,Spirit Jersey,1,0,1,0,0,0
+064dce89-c73d-11e5-ec2a-fb6c755bcb1b,HarvardSpiritJersey,10629,Harvard Spirit Jersey,Color,Crimson,Size,L,,,Spirit Jersey,1,0,3,1,2,0
+064dce89-c73d-11e6-ec2a-0323b9609aad,HarvardExtensionSchoolT-Shirt,10630,Harvard Extension School T-Shirt,Size,S,Color,Navy,,,Comprint,1,0,0,16,0,0
+064dce89-c73d-11e6-ec2a-032510010da3,HarvardExtensionSchoolT-Shirt,10631,Harvard Extension School T-Shirt,Size,M,Color,Navy,,,Comprint,1,0,0,4,0,0
+064dce89-c73d-11e6-ec2a-03251ac31538,HarvardExtensionSchoolT-Shirt,10632,Harvard Extension School T-Shirt,Size,L,Color,Navy,,,Comprint,1,0,0,9,0,0
+064dce89-c73d-11e6-ec2a-032524041ee3,HarvardExtensionSchoolT-Shirt,10633,Harvard Extension School T-Shirt,Size,XL,Color,Navy,,,Comprint,1,0,0,0,0,0
+064dce89-c73d-11e6-ec2a-089a36abb841,HarvardDadCrestT-shirt,10638,Harvard Dad Crest T-shirt,Size,S,,,,,MyU,1,7,0,0,0,0
+064dce89-c73d-11e6-ec2a-089a3713aabe,HarvardDadCrestT-shirt,10639,Harvard Dad Crest T-shirt,Size,M,,,,,MyU,1,0,0,0,0,0
+064dce89-c73d-11e6-ec2a-089a376e69cf,HarvardDadCrestT-shirt,10640,Harvard Dad Crest T-shirt,Size,L,,,,,MyU,1,0,0,0,0,0
+064dce89-c73d-11e6-ec2a-089a37dbb0c2,HarvardDadCrestT-shirt,10641,Harvard Dad Crest T-shirt,Size,XL,,,,,MyU,1,0,0,0,0,0
+064dce89-c73d-11e6-ec2a-0a1b211cb3f1,MassachussetsLocalShipping4-6day,MassachussetsLocalShipping4-6day,Massachussets Local Shipping (4-6 day),,,,Freight,1,0,0,0,0,0,,,
+06db3733-6c3e-11e2-b1f5-4040782fde00,HarvardCrestSticker,2738,Harvard Crest Sticker,,,,,,Quality,1,0,0,0,0,0,
+06e08a30-ee3d-11e7-ec24-39722623283a,H1636Hat,11013,H 1636 Hat,Color,Black,,,,,Quality,1,123,6,18,8,1728
+06e08a30-ee3d-11e7-ec24-397226765a8e,H1636Hat,11014,H 1636 Hat,Color,Crimson,,,,,Quality,1,100,7,11,11,1872
+06e08a30-ee3d-11e7-ec24-39724df54562,YouthTruckerHat,11015,Youth Trucker Hat,Color,Crimson,,,,,Quality,1,0,8,1,0,1008
+06e08a30-ee3d-11e7-ec24-397267b075b1,HarvardAthleticShieldHat,11016,Harvard Athletic Shield Hat,Color,Crimson,,,,,Quality,1,122,7,6,6,1728
+06e08a30-ee3d-11e7-ec24-397267fe427e,HarvardAthleticShieldHat,11017,Harvard Athletic Shield Hat,Color,Black,,,,,Quality,1,18,4,14,11,1872
+06e08a30-ee3d-11e7-ec24-397292e2f5cd,AdjustableHHat,11018,Classic H Hat,Color,Crimson,,,,,Quality,1,30,6,10,4,3456
+06e08a30-ee3d-11e7-ec24-397293281e10,AdjustableHHat,11019,Classic H Hat,Color,Ivory,,,,,Quality,1,32,14,9,9,3312
+06e08a30-ee3d-11e7-ec24-3f1484e63063,ClassicHarvardSwissArmyKnife,11020,Classic Harvard Swiss Army Knife,Color,Crimson,,,,,Victorinox,1,38,18,8,8,0
+06e08a30-ee3d-11e7-ec24-3f14a80de263,SpartanHarvardSwissArmyKnife,11021,Spartan Harvard Swiss Army Knife,Color,White,,,,,Victorinox,1,3,3,1,3,0
+06e08a30-ee3d-11e7-ec24-3f14a8637333,SpartanHarvardSwissArmyKnife,11022,Spartan Harvard Swiss Army Knife,Color,Crimson,,,,,Victorinox,1,11,8,6,3,0
+06e08a30-ee3d-11e7-ec24-3f189ab47e5f,HarvardVarsityJacket,11023,Harvard Varsity Jacket,Color,Crimson,Size,XS,,,Apparel Empire,1,110,1,1,1,0
+06e08a30-ee3d-11e7-ec24-3f189affb46f,HarvardVarsityJacket,11024,Harvard Varsity Jacket,Color,Crimson,Size,S,,,Apparel Empire,1,27,1,4,2,0
+06e08a30-ee3d-11e7-ec24-3f189b4b8a9e,HarvardVarsityJacket,11025,Harvard Varsity Jacket,Color,Crimson,Size,M,,,Apparel Empire,1,38,1,4,2,0
+06e08a30-ee3d-11e7-ec24-3f189b981e51,HarvardVarsityJacket,11026,Harvard Varsity Jacket,Color,Crimson,Size,L,,,Apparel Empire,1,55,1,1,2,0
+06e08a30-ee3d-11e7-ec24-3f189bdd38e4,HarvardVarsityJacket,11027,Harvard Varsity Jacket,Color,Crimson,Size,XL,,,Apparel Empire,1,88,2,2,2,0
+06e08a30-ee3d-11e7-ec24-3f189c2648d5,HarvardVarsityJacket,11028,Harvard Varsity Jacket,Color,Crimson,Size,XXL,,,Apparel Empire,1,47,2,2,1,0
+06e08a30-ee3d-11e7-ec24-4ad3c4dc0572,HarvardHenley,11039,Harvard Henley,Color,Ivory,Size,XS,,,Ouray,1,21,3,2,2,0
+06e08a30-ee3d-11e7-ec24-4ad3c53e294e,HarvardHenley,11040,Harvard Henley,Color,Ivory,Size,S,,,Ouray,1,0,2,2,4,0
+06e08a30-ee3d-11e7-ec24-4ad3c5967e7c,HarvardHenley,11041,Harvard Henley,Color,Ivory,Size,M,,,Ouray,1,53,1,2,2,0
+06e08a30-ee3d-11e7-ec24-4ad3c5e9a52d,HarvardHenley,11042,Harvard Henley,Color,Ivory,Size,L,,,Ouray,1,13,1,2,2,0
+06e08a30-ee3d-11e7-ec24-4ad3c6524be3,HarvardHenley,11043,Harvard Henley,Color,Ivory,Size,XL,,,Ouray,1,67,2,2,2,0
+06e08a30-ee3d-11e7-ec24-4ad489f3c9ef,ClassicCrew,11048,Ladies Classic Crew,Size,XS,Color,Oxford,,,Ouray,1,6,2,5,2,0
+06e08a30-ee3d-11e7-ec24-4ad48a51a863,ClassicCrew,11049,Ladies Classic Crew,Size,S,Color,Oxford,,,Ouray,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-4ad48aabdb2d,ClassicCrew,11050,Ladies Classic Crew,Size,M,Color,Oxford,,,Ouray,1,0,1,1,1,0
+06e08a30-ee3d-11e7-ec24-4ad48afdab57,ClassicCrew,11051,Ladies Classic Crew,Size,L,Color,Oxford,,,Ouray,1,46,2,2,2,0
+06e08a30-ee3d-11e7-ec24-4ad48b4fb849,ClassicCrew,11052,Ladies Classic Crew,Size,XL,Color,Oxford,,,Ouray,1,59,2,2,2,0
+06e08a30-ee3d-11e7-ec24-4c8d0a70c2ae,PremiumComfortT-Shirt,11073,Premium Comfort T-Shirt,Color,Oxford,Size,S,,,Ouray,1,68,2,0,2,0
+06e08a30-ee3d-11e7-ec24-4c8d0ace1d70,PremiumComfortT-Shirt,11074,Premium Comfort T-Shirt,Color,Oxford,Size,M,,,Ouray,1,73,3,0,2,0
+06e08a30-ee3d-11e7-ec24-4c8d0b1ec164,PremiumComfortT-Shirt,11075,Premium Comfort T-Shirt,Color,Oxford,Size,L,,,Ouray,1,49,2,0,3,0
+06e08a30-ee3d-11e7-ec24-4c8d0b6c9815,PremiumComfortT-Shirt,11076,Premium Comfort T-Shirt,Color,Oxford,Size,XL,,,Ouray,1,57,1,0,3,0
+06e08a30-ee3d-11e7-ec24-4c8d0bbea1b4,PremiumComfortT-Shirt,11077,Premium Comfort T-Shirt,Color,Navy,Size,S,,,Ouray,1,76,2,0,2,0
+06e08a30-ee3d-11e7-ec24-4c8d0c0e7e1e,PremiumComfortT-Shirt,11078,Premium Comfort T-Shirt,Color,Navy,Size,M,,,Ouray,1,63,1,0,3,0
+06e08a30-ee3d-11e7-ec24-4c8d0c614d1e,PremiumComfortT-Shirt,11079,Premium Comfort T-Shirt,Color,Navy,Size,L,,,Ouray,1,39,2,0,2,0
+06e08a30-ee3d-11e7-ec24-4c8d0cbf2004,PremiumComfortT-Shirt,11080,Premium Comfort T-Shirt,Color,Navy,Size,XL,,,Ouray,1,52,2,0,2,0
+06e08a30-ee3d-11e7-ec24-4c8d30bb3963,PremiumFadedT-Shirt,11081,Premium Faded T-Shirt,Color,Crimson,Size,S,,,Ouray,1,62,3,0,2,0
+06e08a30-ee3d-11e7-ec24-4c8d3111ea37,PremiumFadedT-Shirt,11082,Premium Faded T-Shirt,Color,Crimson,Size,M,,,Ouray,1,51,2,0,2,0
+06e08a30-ee3d-11e7-ec24-4c8d31621d41,PremiumFadedT-Shirt,11083,Premium Faded T-Shirt,Color,Crimson,Size,L,,,Ouray,1,32,2,0,2,0
+06e08a30-ee3d-11e7-ec24-4c8d31be5686,PremiumFadedT-Shirt,11084,Premium Faded T-Shirt,Color,Crimson,Size,XL,,,Ouray,1,36,2,0,2,0
+06e08a30-ee3d-11e7-ec24-4c8d32192e17,PremiumFadedT-Shirt,11085,Premium Faded T-Shirt,Color,Oxford,Size,S,,,Ouray,1,58,3,0,2,0
+06e08a30-ee3d-11e7-ec24-4c8d32677362,PremiumFadedT-Shirt,11086,Premium Faded T-Shirt,Color,Oxford,Size,M,,,Ouray,1,65,1,0,2,0
+06e08a30-ee3d-11e7-ec24-4c8d32bbf6a4,PremiumFadedT-Shirt,11087,Premium Faded T-Shirt,Color,Oxford,Size,L,,,Ouray,1,33,2,0,2,0
+06e08a30-ee3d-11e7-ec24-4c8d33131a04,PremiumFadedT-Shirt,11088,Premium Faded T-Shirt,Color,Oxford,Size,XL,,,Ouray,1,83,0,0,2,0
+06e08a30-ee3d-11e7-ec24-4c8d336cec45,PremiumFadedT-Shirt,11089,Premium Faded T-Shirt,Color,Navy,Size,S,,,Ouray,1,57,2,0,2,0
+06e08a30-ee3d-11e7-ec24-4c8d33c93743,PremiumFadedT-Shirt,11090,Premium Faded T-Shirt,Color,Navy,Size,M,,,Ouray,1,67,2,0,2,0
+06e08a30-ee3d-11e7-ec24-4c8d341f76d3,PremiumFadedT-Shirt,11091,Premium Faded T-Shirt,Color,Navy,Size,L,,,Ouray,1,51,2,0,2,0
+06e08a30-ee3d-11e7-ec24-4c8d3476766f,PremiumFadedT-Shirt,11092,Premium Faded T-Shirt,Color,Navy,Size,XL,,,Ouray,1,69,2,0,2,0
+06e08a30-ee3d-11e7-ec24-5c08711f0dc4,PremiumFadedT-Shirt,11134,Premium Faded T-Shirt,Color,Charcoal,Size,S,,,Ouray,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-5c0877339e45,PremiumFadedT-Shirt,11135,Premium Faded T-Shirt,Color,Charcoal,Size,M,,,Ouray,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-5c087d042245,PremiumFadedT-Shirt,11136,Premium Faded T-Shirt,Color,Charcoal,Size,L,,,Ouray,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-5c08863a85a4,PremiumFadedT-Shirt,11137,Premium Faded T-Shirt,Color,Charcoal,Size,XL,,,Ouray,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-506f20109040,HarvardEst1636Hat,11093,Harvard Est. 1636 Hat,Color,Navy,,,,,Quality,1,160,0,9,5,1728
+06e08a30-ee3d-11e7-ec24-506f20813432,HarvardEst1636Hat,11094,Harvard Est. 1636 Hat,Color,Crimson,,,,,Quality,1,-1,7,6,0,1872
+06e08a30-ee3d-11e7-ec24-5298b6c93c75,HarvardBaseballCrew,11095,Harvard Baseball Crew,Size,S,,,,,Ouray,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-5298b724dab2,HarvardBaseballCrew,11096,Harvard Baseball Crew,Size,M,,,,,Ouray,1,0,0,0,2,0
+06e08a30-ee3d-11e7-ec24-5298b780185c,HarvardBaseballCrew,11097,Harvard Baseball Crew,Size,L,,,,,Ouray,1,48,3,3,2,0
+06e08a30-ee3d-11e7-ec24-5298b7f3aa99,HarvardBaseballCrew,11098,Harvard Baseball Crew,Size,XL,,,,,Ouray,1,34,2,2,2,0
+06e08a30-ee3d-11e7-ec24-55c33419c632,HarvardTrapperBeanie,11099,Harvard Trapper Beanie,,,,,,Ouray,1,47,3,3,4,0,
+06e08a30-ee3d-11e7-ec24-55c3869e6e25,HarvardTasselBeanie,11100,Harvard Tassel Beanie,,,,,,Ouray,1,4,0,0,0,0,
+06e08a30-ee3d-11e7-ec24-57509ef6c97d,test-product,TestProductDefaultTitle,Test Product,,,,,,The Harvard Shop,1,0,0,0,0,0,
+06e08a30-ee3d-11e7-ec24-58094d781e7c,HarvardHarborHoodie,11101,"The ""Leo"" Hoodie",Size,XS,,,,,Quality,1,1,0,0,0,0
+06e08a30-ee3d-11e7-ec24-58094de47886,HarvardHarborHoodie,11102,"The ""Leo"" Hoodie",Size,S,,,,,Quality,1,1,1,2,0,0
+06e08a30-ee3d-11e7-ec24-58094e37380b,HarvardHarborHoodie,11103,"The ""Leo"" Hoodie",Size,M,,,,,Quality,1,2,2,2,2,0
+06e08a30-ee3d-11e7-ec24-58094e8595f4,HarvardHarborHoodie,11104,"The ""Leo"" Hoodie",Size,L,,,,,Quality,1,0,3,3,3,0
+06e08a30-ee3d-11e7-ec24-58094ed14e32,HarvardHarborHoodie,11105,"The ""Leo"" Hoodie",Size,XL,,,,,Quality,1,1,0,0,1,0
+06e08a30-ee3d-11e7-ec24-5c077add3a81,HarvardPremiumHood,11109,Harvard Premium Hood,Color,Navy,Size,XS,,,Ouray,1,40,2,2,1,0
+06e08a30-ee3d-11e7-ec24-5c077b39277e,HarvardPremiumHood,11110,Harvard Premium Hood,Color,Navy,Size,S,,,Ouray,1,0,1,0,1,0
+06e08a30-ee3d-11e7-ec24-5c077b957c6a,HarvardPremiumHood,11111,Harvard Premium Hood,Color,Navy,Size,M,,,Ouray,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-5c077bedcd09,HarvardPremiumHood,11112,Harvard Premium Hood,Color,Navy,Size,L,,,Ouray,1,1,1,4,0,0
+06e08a30-ee3d-11e7-ec24-5c077c43fea9,HarvardPremiumHood,11113,Harvard Premium Hood,Color,Navy,Size,XL,,,Ouray,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-5c077c9bba6f,HarvardPremiumHood,11114,Harvard Premium Hood,Color,Oxford,Size,XS,,,Ouray,1,1,0,2,0,0
+06e08a30-ee3d-11e7-ec24-5c077ceaacbc,HarvardPremiumHood,11115,Harvard Premium Hood,Color,Oxford,Size,S,,,Ouray,1,0,1,0,0,0
+06e08a30-ee3d-11e7-ec24-5c077d44e393,HarvardPremiumHood,11116,Harvard Premium Hood,Color,Oxford,Size,M,,,Ouray,1,0,1,0,0,0
+06e08a30-ee3d-11e7-ec24-5c077da32e4b,HarvardPremiumHood,11117,Harvard Premium Hood,Color,Oxford,Size,L,,,Ouray,1,3,2,2,3,0
+06e08a30-ee3d-11e7-ec24-5c077e010e43,HarvardPremiumHood,11118,Harvard Premium Hood,Color,Oxford,Size,XL,,,Ouray,1,6,2,2,2,0
+06e08a30-ee3d-11e7-ec24-5c077e563278,HarvardPremiumHood,11119,Harvard Premium Hood,Color,Charcoal,Size,XS,,,Ouray,1,0,1,3,0,0
+06e08a30-ee3d-11e7-ec24-5c077eafcdf3,HarvardPremiumHood,11120,Harvard Premium Hood,Color,Charcoal,Size,S,,,Ouray,1,1,0,0,0,0
+06e08a30-ee3d-11e7-ec24-5c077f0371f3,HarvardPremiumHood,11121,Harvard Premium Hood,Color,Charcoal,Size,M,,,Ouray,1,1,1,0,0,0
+06e08a30-ee3d-11e7-ec24-5c077f50b5d8,HarvardPremiumHood,11122,Harvard Premium Hood,Color,Charcoal,Size,L,,,Ouray,1,0,1,0,3,0
+06e08a30-ee3d-11e7-ec24-5c077fa175a0,HarvardPremiumHood,11123,Harvard Premium Hood,Color,Charcoal,Size,XL,,,Ouray,1,0,1,0,0,0
+06e08a30-ee3d-11e7-ec24-5c0816ca76a4,HarvardPremiumQuarterZip,11124,Harvard Premium Quarter Zip,Color,Navy,Size,XS,,,Ouray,1,10,2,2,3,0
+06e08a30-ee3d-11e7-ec24-5c081716255a,HarvardPremiumQuarterZip,11125,Harvard Premium Quarter Zip,Color,Navy,Size,S,,,Ouray,1,6,3,1,4,0
+06e08a30-ee3d-11e7-ec24-5c0817614c6c,HarvardPremiumQuarterZip,11126,Harvard Premium Quarter Zip,Color,Navy,Size,M,,,Ouray,1,13,2,2,2,0
+06e08a30-ee3d-11e7-ec24-5c0817bb00be,HarvardPremiumQuarterZip,11127,Harvard Premium Quarter Zip,Color,Navy,Size,L,,,Ouray,1,22,2,2,3,0
+06e08a30-ee3d-11e7-ec24-5c08181b20ee,HarvardPremiumQuarterZip,11128,Harvard Premium Quarter Zip,Color,Navy,Size,XL,,,Ouray,1,0,1,2,0,0
+06e08a30-ee3d-11e7-ec24-5c081871225b,HarvardPremiumQuarterZip,11129,Harvard Premium Quarter Zip,Color,Crimson,Size,XS,,,Ouray,1,5,2,2,1,0
+06e08a30-ee3d-11e7-ec24-5c0818c4123c,HarvardPremiumQuarterZip,11130,Harvard Premium Quarter Zip,Color,Crimson,Size,S,,,Ouray,1,13,2,3,2,0
+06e08a30-ee3d-11e7-ec24-5c081910e41d,HarvardPremiumQuarterZip,11131,Harvard Premium Quarter Zip,Color,Crimson,Size,M,,,Ouray,1,20,2,1,3,0
+06e08a30-ee3d-11e7-ec24-5c081960171e,HarvardPremiumQuarterZip,11132,Harvard Premium Quarter Zip,Color,Crimson,Size,L,,,Ouray,1,16,2,2,2,0
+06e08a30-ee3d-11e7-ec24-5c0819b321a4,HarvardPremiumQuarterZip,11133,Harvard Premium Quarter Zip,Color,Crimson,Size,XL,,,Ouray,1,2,2,2,2,0
+06e08a30-ee3d-11e7-ec24-5da80b4631d0,SEASVineyardVinesTie,11138,SEAS Vineyard Vines Tie,Color,Crimson,,,,,Vineyard Vines,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-5da80ba007d5,SEASVineyardVinesTie,11139,SEAS Vineyard Vines Tie,Color,Blue,,,,,Vineyard Vines,1,49,0,0,0,0
+06e08a30-ee3d-11e7-ec24-65835cbe6553,SATBooklet,11141,SAT Booklet,,,,,,,,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-6beaa53c6a74,ToddlerVarsityJacket,11142,Toddler Varsity Jacket,Size,0-3M,,,,,Creative Knitwear,1,8,2,2,0,0
+06e08a30-ee3d-11e7-ec24-6beaa59ba695,ToddlerVarsityJacket,11143,Toddler Varsity Jacket,Size,3-6M,,,,,Creative Knitwear,1,11,1,1,0,0
+06e08a30-ee3d-11e7-ec24-6beaa5ef42ae,ToddlerVarsityJacket,11144,Toddler Varsity Jacket,Size,6-9M,,,,,Creative Knitwear,1,16,0,2,0,0
+06e08a30-ee3d-11e7-ec24-6beaa641c505,ToddlerVarsityJacket,11145,Toddler Varsity Jacket,Size,12M,,,,,Creative Knitwear,1,4,0,2,0,0
+06e08a30-ee3d-11e7-ec24-6beaa6909eb7,ToddlerVarsityJacket,11146,Toddler Varsity Jacket,Size,18M,,,,,Creative Knitwear,1,2,0,0,0,0
+06e08a30-ee3d-11e7-ec24-6beaa6e0c847,ToddlerVarsityJacket,11147,Toddler Varsity Jacket,Size,24M,,,,,Creative Knitwear,1,12,3,1,0,0
+06e08a30-ee3d-11e7-ec24-6beaa731d904,ToddlerVarsityJacket,11148,Toddler Varsity Jacket,Size,2T,,,,,Creative Knitwear,1,18,0,0,0,0
+06e08a30-ee3d-11e7-ec24-6beaa783a279,ToddlerVarsityJacket,11149,Toddler Varsity Jacket,Size,3T,,,,,Creative Knitwear,1,15,1,0,0,0
+06e08a30-ee3d-11e7-ec24-6beaa7ce64b8,ToddlerVarsityJacket,11150,Toddler Varsity Jacket,Size,4T,,,,,Creative Knitwear,1,12,1,0,0,0
+06e08a30-ee3d-11e7-ec24-6ce7b4f10568,4,4,USPS Retail Ground,,,,,,Freight,1,0,0,0,0,0,
+06e08a30-ee3d-11e7-ec24-6cf9bef6ed02,2,2,USPS Priority Mail International,,,,,Freight,1,0,0,0,0,0,,
+06e08a30-ee3d-11e7-ec24-6e4c79ec8c46,LeatherCrestMiniPadfolio,11151,Leather Crest Mini Padfolio,Color,Crimson,,,,,LXG,1,24,5,4,3,0
+06e08a30-ee3d-11e7-ec24-6e577ed6dfa5,MITCrestMug,10108,MIT Crest Mug,Color,Black,,,,,FREEDOM,1,12,0,0,0,0
+06e08a30-ee3d-11e7-ec24-71829d2e1d65,FeltHHat,11154,Felt H Hat,Color,Black,,,,,Quality,1,59,0,0,2,2016
+06e08a30-ee3d-11e7-ec24-71829d8770c4,FeltHHat,11155,Felt H Hat,Color,Navy,,,,,Quality,1,69,3,0,6,1872
+06e08a30-ee3d-11e7-ec24-7182d59eb2da,VarsityScriptHat,11156,Varsity Script Hat,Color,White,,,,,Quality,1,98,13,23,15,2016
+06e08a30-ee3d-11e7-ec24-7182d5ed1c12,VarsityScriptHat,11157,Varsity Script Hat,Color,Navy,,,,,Quality,1,32,20,4,24,2016
+06e08a30-ee3d-11e7-ec24-7182f41fa171,HarvardGolfHat,11158,Harvard Golf Hat,Color,White,,,,,Quality,1,173,2,5,5,1872
+06e08a30-ee3d-11e7-ec24-718320254b31,1636ShieldHat,11159,1636 Shield Hat,Color,Black,,,,,Quality,1,0,12,16,21,0
+06e08a30-ee3d-11e7-ec24-71833e8b521c,HarvardHBrimHat,11160,Harvard H Brim Hat,Color,Crimson,,,,,Quality,1,42,7,9,0,1872
+06e08a30-ee3d-11e7-ec24-72d933921dc2,HarvardFootballT-shirt,11161,Harvard Football T-shirt,Size,S,,,,,,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-73c6e70c9b9e,HarvardLaxPinnie,10435,Harvard Lax Pinnie,,,,,,,1,7,0,2,0,0,
+06e08a30-ee3d-11e7-ec24-78468f68dbaf,LadiesPJShorts,11168,Ladies PJ Shorts,Color,Oxford,Pattern,Striped,Size,S,Concepts Sport,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-78468fbd9194,LadiesPJShorts,11169,Ladies PJ Shorts,Color,Oxford,Pattern,Striped,Size,M,Concepts Sport,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-7846901325d1,LadiesPJShorts,11170,Ladies PJ Shorts,Color,Oxford,Pattern,Striped,Size,L,Concepts Sport,1,3,0,0,0,0
+06e08a30-ee3d-11e7-ec24-784690653d90,LadiesPJShorts,11171,Ladies PJ Shorts,Color,Oxford,Pattern,Striped,Size,XL,Concepts Sport,1,2,1,1,0,0
+06e08a30-ee3d-11e7-ec24-78c76ee88f9e,HarvardCabanaUmbrella,11172,Harvard Cabana Umbrella,Color,Crimson,Pattern,Striped,,,STORMDUDS,1,19,8,7,5,0
+06e08a30-ee3d-11e7-ec24-7931dde4ae8b,HarvardCrestPin,11173,Harvard Crest Pin,Color,Crimson,,,,,Pin Badge Maker Company,1,1007,0,11,11,0
+06e08a30-ee3d-11e7-ec24-81e023ec3543,HarvardAdjustableStadiumSeatCushion,810001HARV-001,Harvard Adjustable Stadium Seat Cushion,Design,"""H""",,,,,Victory Corps,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-81e02444e70a,HarvardAdjustableStadiumSeatCushion,810001HARV-003,Harvard Adjustable Stadium Seat Cushion,Design,"""HARVARD""",,,,,Victory Corps,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-81e02489d9c0,HarvardAdjustableStadiumSeatCushion,810001HARV-002,Harvard Adjustable Stadium Seat Cushion,Design,"""CRIMSON""",,,,,Victory Corps,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-81e0a443f2b6,HarvardTailgatingChair,810020HARV-001,Harvard Tailgating Chair,Design,"""H""",,,,,Victory Corps,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-81e0a48c441a,HarvardTailgatingChair,810020HARV-002,Harvard Tailgating Chair,Design,"""CRIMSON""",,,,,Victory Corps,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-81e0a4d7361a,HarvardTailgatingChair,810020HARV-003,Harvard Tailgating Chair,Design,"""HARVARD""",,,,,Victory Corps,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-81e1be0d4710,HarvardTailgateFeatherFlag,810028HARV-001,Harvard Tailgate Feather Flag,Design,"""HARVARD"" & Crest",Model,Spike Base,,,Victory Corps,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-81e1be787ee7,HarvardTailgateFeatherFlag,810028HARV-002,Harvard Tailgate Feather Flag,Design,"""Crimson""",Model,Spike Base,,,Victory Corps,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-81e1bec8f206,HarvardTailgateFeatherFlag,810028HARV-003,Harvard Tailgate Feather Flag,Design,Athletic Shield,Model,Spike Base,,,Victory Corps,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-81e1bf3ff382,HarvardTailgateFeatherFlag,810029HARV-001,Harvard Tailgate Feather Flag,Design,"""HARVARD"" & Crest",Model,Cross Base,,,Victory Corps,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-81e1bf8b236e,HarvardTailgateFeatherFlag,810029HARV-002,Harvard Tailgate Feather Flag,Design,"""Crimson""",Model,Cross Base,,,Victory Corps,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-81e1bfd5d923,HarvardTailgateFeatherFlag,810029HARV-003,Harvard Tailgate Feather Flag,Design,Athletic Shield,Model,Cross Base,,,Victory Corps,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-81e1ef477f75,HarvardFlag,810002HARV-001,Harvard Flag,Design,Harvard Crest,Model,2'x3',,,Victory Corps,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-81e27ca990d8,HarvardFlag,810002HARV-002,Harvard Flag,Design,Athletic Shield,Model,2'x3',,,Victory Corps,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-81e28c5ef7fa,HarvardFlag,810002HARV-003,Harvard Flag,Design,"""H""",Model,2'x3',,,Victory Corps,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-81e2a0a3b664,HarvardFlag,810003HARV-001,Harvard Flag,Design,Harvard Crest,Model,3'x5',,,Victory Corps,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-81e2c9c43aa4,HarvardFlag,810003HARV-002,Harvard Flag,Design,Athletic Shield,Model,3'x5',,,Victory Corps,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-81e2f5ccb4a2,HarvardFlag,810003HARV-003,Harvard Flag,Design,"""H""",Model,3'x5',,,Victory Corps,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-81e41735a78e,HarvardVinylBanner,810022HARV-001,Harvard Vinyl Banner,Design,"""HARVARD""",,,,,Victory Corps,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-81e4178a642c,HarvardVinylBanner,810022HARV-002,Harvard Vinyl Banner,Design,"""Crimson""",,,,,Victory Corps,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-81e417db1fbf,HarvardVinylBanner,810022HARV-003,Harvard Vinyl Banner,Design,"""H""",,,,,Victory Corps,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-81e4c9dc9df3,HarvardCoolerTable,10024HARV-001,Harvard Cooler Table,Design,Athletic Shield,,,,Victory Corps,1,0,0,0,0,0,
+06e08a30-ee3d-11e7-ec24-81e4ca2b99fc,HarvardCoolerTable,810024HARV-002,Harvard Cooler Table,Design,"""Harvard""",,,,,Victory Corps,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-81e4ca7f8d7f,HarvardCoolerTable,810024HARV-003,Harvard Cooler Table,Design,Harvard Crest,,,,Victory Corps,1,0,0,0,0,0,
+06e08a30-ee3d-11e7-ec24-81e52b886d29,HarvardTableCover,810026HARV-001,Harvard Table Cover,Design,Athletic Shield,,,,Victory Corps,1,0,0,0,0,0,
+06e08a30-ee3d-11e7-ec24-81e52bd87889,HarvardTableCover,810026HARV-002,Harvard Table Cover,Design,"""H""",,,,,Victory Corps,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-81e52c2706ae,HarvardTableCover,810026HARV-003,Harvard Table Cover,Design,Harvard Crest,,,,Victory Corps,1,0,0,0,0,0,
+06e08a30-ee3d-11e7-ec24-8678fa975534,HarvardSilkStripedTie,11179,Harvard Silk Striped Tie,Color,Crimson,,,,,Smart Turnout,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-867939d1457f,HarvardSilkStripedBowTie,11180,Harvard Silk Striped Bow Tie,Color,Crimson,,,,,Smart Turnout,1,1,0,0,4,0
+06e08a30-ee3d-11e7-ec24-8679621f9f7e,HarvardStripedSocks,11181,Harvard Striped Socks,Color,Crimson,,,,,Smart Turnout,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-86798465950e,HarvardHeritageScarf,11182,Harvard Heritage Scarf,Color,Crimson,,,,,Smart Turnout,1,1,0,0,0,0
+06e08a30-ee3d-11e7-ec24-89ab25fc4977,HarvardLadiesRelaxedLongSleeve,11184,Harvard Ladies Relaxed Long Sleeve,Color,Crimson,Size,S,,,Quality,1,22,1,2,2,0
+06e08a30-ee3d-11e7-ec24-89ab266911ef,HarvardLadiesRelaxedLongSleeve,11185,Harvard Ladies Relaxed Long Sleeve,Color,Navy,Size,S,,,Quality,1,22,1,2,2,0
+06e08a30-ee3d-11e7-ec24-89ab26d8de8c,HarvardLadiesRelaxedLongSleeve,11186,Harvard Ladies Relaxed Long Sleeve,Color,Crimson,Size,M,,,Quality,1,26,3,3,2,0
+06e08a30-ee3d-11e7-ec24-89ab2736f6ca,HarvardLadiesRelaxedLongSleeve,11187,Harvard Ladies Relaxed Long Sleeve,Color,Navy,Size,M,,,Quality,1,13,2,1,2,0
+06e08a30-ee3d-11e7-ec24-89ab279f5d1d,HarvardLadiesRelaxedLongSleeve,11188,Harvard Ladies Relaxed Long Sleeve,Color,Crimson,Size,L,,,Quality,1,9,2,2,2,0
+06e08a30-ee3d-11e7-ec24-89ab281059a8,HarvardLadiesRelaxedLongSleeve,11189,Harvard Ladies Relaxed Long Sleeve,Color,Navy,Size,L,,,Quality,1,11,3,2,2,0
+06e08a30-ee3d-11e7-ec24-89ab2869e823,HarvardLadiesRelaxedLongSleeve,11190,Harvard Ladies Relaxed Long Sleeve,Color,Crimson,Size,XL,,,Quality,1,5,2,2,2,0
+06e08a30-ee3d-11e7-ec24-89ab28b74b75,HarvardLadiesRelaxedLongSleeve,11191,Harvard Ladies Relaxed Long Sleeve,Color,Navy,Size,XL,,,Quality,1,0,2,1,2,0
+06e08a30-ee3d-11e7-ec24-89c2751824fd,HarvardChillStickWaterBottle,10823,Harvard Chill Stick Water Bottle,Color,Crimson,,,,,Quality,1,7,5,6,3,0
+06e08a30-ee3d-11e7-ec24-89c2d88f25f1,HarvardCrestShotGlass,11198,Harvard Crest Shot Glass,Color,Crimson,,,,,Quality,1,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-89dd70a85fb6,HarvardCrestCordialShooter,11201,Harvard Crest Cordial Shooter,,,,,Quality,1,0,0,0,0,0,,
+06e08a30-ee3d-11e7-ec24-8d862539c76a,HarvardToddlerJeans,11202,Harvard Toddler Jeans,Size,0-3M,,,,,Creative Knitwear,1,9,2,0,0,0
+06e08a30-ee3d-11e7-ec24-8d8625b16c62,HarvardToddlerJeans,11203,Harvard Toddler Jeans,Size,3-6M,,,,,Creative Knitwear,1,2,1,0,2,0
+06e08a30-ee3d-11e7-ec24-8d86260e19c9,HarvardToddlerJeans,11204,Harvard Toddler Jeans,Size,6-9M,,,,,Creative Knitwear,1,5,3,0,0,0
+06e08a30-ee3d-11e7-ec24-8d862670b00e,HarvardToddlerJeans,11205,Harvard Toddler Jeans,Size,12M,,,,,Creative Knitwear,1,5,2,0,2,0
+06e08a30-ee3d-11e7-ec24-8d8626dc1505,HarvardToddlerJeans,11206,Harvard Toddler Jeans,Size,24M,,,,,Creative Knitwear,1,5,1,0,0,0
+06e08a30-ee3d-11e7-ec24-8d8627364e9e,HarvardToddlerJeans,11207,Harvard Toddler Jeans,Size,2T,,,,,Creative Knitwear,1,2,4,0,0,0
+06e08a30-ee3d-11e7-ec24-8d86278c67e6,HarvardToddlerJeans,11208,Harvard Toddler Jeans,Size,3T,,,,,Creative Knitwear,1,7,1,0,0,0
+06e08a30-ee3d-11e7-ec24-8d86280d2463,HarvardToddlerJeans,11209,Harvard Toddler Jeans,Size,4T,,,,,Creative Knitwear,1,4,2,0,0,0
+06e08a30-ee3d-11e7-ec24-8d865a6e0032,HarvardToddlerJeans,11210,Harvard Toddler Jeans,Size,18M,,,,,Creative Knitwear,1,7,2,0,0,0
+06e08a30-ee3d-11e7-ec24-8f13ef467658,HarvardCrestCanvasToteBag,11212,Harvard Crest Canvas Tote Bag,Color,Crimson,,,,,Quality,1,3,3,0,1,0
+06e08a30-ee3d-11e7-f08c-35af89870c40,HatTeeCombo,11004,Hat & Tee Combo,Size,S,,,,,Ouray,1,63,0,11,13,0
+06e08a30-ee3d-11e7-f08c-35af89d706a3,HatTeeCombo,11005,Hat & Tee Combo,Size,M,,,,,Ouray,1,23,0,7,17,0
+06e08a30-ee3d-11e7-f08c-35af8a23107d,HatTeeCombo,11006,Hat & Tee Combo,Size,L,,,,,Ouray,1,1,0,13,11,0
+06e08a30-ee3d-11e7-f08c-35af8a88266a,HatTeeCombo,11007,Hat & Tee Combo,Size,XL,,,,,Ouray,1,0,0,1,0,0
+0b1b8ed8-6c44-11e2-b1f5-4040782fde00,HarvardBachelorFrame,4031,Harvard Bachelor Frame,,,,,,University Frames,1,0,0,27,0,0,
+14c49cac-6c39-11e2-b1f5-4040782fde00,BostonPostcard,619,Boston Postcard,,,,,,Arts & Cards,1,0,0,0,0,0,
+14cd7bfa-6c35-11e2-b1f5-4040782fde00,appliquesweatshirt,274,Applique Sweatshirt,Size,XS,Color,Charcoal,,,Ouray,1,0,0,0,0,0
+28d1ea65-6c35-11e2-b1f5-4040782fde00,appliquesweatshirt,270,Applique Sweatshirt,Size,S,Color,Charcoal,,,Ouray,1,0,0,0,0,0
+39bae314-6c35-11e2-b1f5-4040782fde00,appliquesweatshirt,271,Applique Sweatshirt,Size,M,Color,Charcoal,,,Ouray,1,0,0,0,0,0
+6ac49bca-6c35-11e2-b1f5-4040782fde00,appliquesweatshirt,272,Applique Sweatshirt,Size,L,Color,Charcoal,,,Ouray,1,0,0,0,0,0
+79bc64d7-6c35-11e2-b1f5-4040782fde00,appliquesweatshirt,273,Applique Sweatshirt,Size,XL,Color,Charcoal,,,Ouray,1,9,0,0,0,0
+8628835d-b292-11e2-a415-bc764e10976c,appliquesweatshirt,10041,Applique Sweatshirt,Size,XXL,Color,Charcoal,,,Ouray,1,0,0,0,0,0
+8d12cb7e-b292-11e2-a415-bc764e10976c,appliquesweatshirt,10042,Applique Sweatshirt,Size,XXL,Color,Crimson,,,Ouray,1,0,0,0,0,0
+a2163f4a-b291-11e2-a415-bc764e10976c,appliquesweatshirt,10036,Applique Sweatshirt,Size,XS,Color,Crimson,,,Ouray,1,0,0,0,0,0
+ada203f2-b291-11e2-a415-bc764e10976c,appliquesweatshirt,10037,Applique Sweatshirt,Size,S,Color,Crimson,,,Ouray,1,0,0,0,0,0
+b22c7dde-b291-11e2-a415-bc764e10976c,appliquesweatshirt,10038,Applique Sweatshirt,Size,M,Color,Crimson,,,Ouray,1,0,0,0,0,0
+c978431f-b291-11e2-a415-bc764e10976c,appliquesweatshirt,10039,Applique Sweatshirt,Size,L,Color,Crimson,,,Ouray,1,8,0,0,0,0
+d1b6a38f-b291-11e2-a415-bc764e10976c,appliquesweatshirt,10040,Applique Sweatshirt,Size,XL,Color,Crimson,,,Ouray,1,21,0,0,0,0
+1d941c79-0f29-11e3-a415-bc764e10976c,HarvardPencil,10117,Harvard Pencil,Style,Single,Color,Crimson,,,Wincraft,1,19940,18,25,27,0
+248e038a-0f29-11e3-a415-bc764e10976c,HarvardPencil,10118,Harvard Pencil,Style,6pk Pencil Pack,Color,Crimson,,,Wincraft,1,1,0,0,0,0
+1ed60860-cf9e-11e2-a415-bc764e10976c,LeatherHarvardPadfolio,10070,Leather Harvard Padfolio,Color,Black,,,,,Gemline,1,33,0,0,0,0
+2c3a8e02-6c43-11e2-b1f5-4040782fde00,GraduateSchoolofArtsandSciencesFrame,4645,Graduate School of Arts and Sciences Frame,,,,University Frames,1,0,0,11,0,0,,,
+2e3d8f7e-9fe8-11e3-a0f5-b8ca3a64f8f4,giftcard,GiftCard2000,Online Gift Card,Amount,20,,,,,The Harvard Shop,1,0,0,0,0,0
+2e627dd8-9fe8-11e3-a0f5-b8ca3a64f8f4,giftcard,GiftCard3000,Online Gift Card,Amount,30,,,,,The Harvard Shop,1,0,0,0,0,0
+2e777f75-9fe8-11e3-a0f5-b8ca3a64f8f4,giftcard,GiftCard5000,Online Gift Card,Amount,50,,,,,The Harvard Shop,1,0,0,0,0,0
+2fdd8854-6c3c-11e2-b1f5-4040782fde00,HCarDecal,2722,"""H"" Car Decal",Color,Crimson,,,,,Quality,1,479,19,0,0,0
+36e7a881-258c-11e3-a415-bc764e10976c,Chairs,Chairs,Chairs,,,,,,,Freight,1,0,0,0,0,0
+3711220b-ffdc-11e2-a415-bc764e10976c,TourHahvahdTrademarkTour,10115,Tour Hahvahd Trademark Tour,,,,,Trademark Tour,1,0,0,0,0,0,,
+399378eb-867c-11e2-b1f5-4040782fde00,harvard-h-infant-onesie,3276,Harvard H Infant Onesie,Color,Crimson,Size,Newborn,,,Quality,1,2,0,0,0,0
+55b23bf3-867c-11e2-b1f5-4040782fde00,harvard-h-infant-onesie,3277,Harvard H Infant Onesie,Color,Crimson,Size,3-6M,,,Quality,1,0,0,0,0,0
+6118f77a-867c-11e2-b1f5-4040782fde00,harvard-h-infant-onesie,3278,Harvard H Infant Onesie,Color,Crimson,Size,9-12M,,,Quality,1,0,0,0,0,0
+6b0c40d7-867c-11e2-b1f5-4040782fde00,harvard-h-infant-onesie,3279,Harvard H Infant Onesie,Color,Crimson,Size,18M,,,Quality,1,0,0,0,0,0
+790692c7-867c-11e2-b1f5-4040782fde00,harvard-h-infant-onesie,3280,Harvard H Infant Onesie,Color,Crimson,Size,24M,,,Quality,1,1,0,0,0,0
+9531d5d6-ec0f-11e3-a0f5-b8ca3a64f8f4,harvard-h-infant-onesie,10308,Harvard H Infant Onesie,Color,Blue,Size,Newborn,,,Quality,1,176,4,12,2,0
+97b839f4-ec0f-11e3-a0f5-b8ca3a64f8f4,harvard-h-infant-onesie,10309,Harvard H Infant Onesie,Color,Blue,Size,3-6M,,,Quality,1,38,0,7,1,0
+a42ef42a-ec0f-11e3-a0f5-b8ca3a64f8f4,harvard-h-infant-onesie,10310,Harvard H Infant Onesie,Color,Blue,Size,9-12M,,,Quality,1,22,3,10,7,0
+a8a011c0-ec0f-11e3-a0f5-b8ca3a64f8f4,harvard-h-infant-onesie,10311,Harvard H Infant Onesie,Color,Blue,Size,18M,,,Quality,1,4,5,11,2,0
+ac583425-ec0f-11e3-a0f5-b8ca3a64f8f4,harvard-h-infant-onesie,10312,Harvard H Infant Onesie,Color,Blue,Size,24M,,,Quality,1,48,7,5,2,0
+39e36af4-74ca-11e2-b1f5-4040782fde00,boston-rocker,BostonRockerWithoutPersona,Boston Rocker,Title,Without Personalization,Shield,Harvard Graduate School of Public Health,Standard Chair,1,0,0,0,0,0,,
+3c472308-74ca-11e2-b1f5-4040782fde00,boston-rocker,BostonRockerWithPersonaliz,Boston Rocker,Title,With Personalization,Shield,Harvard Graduate School of Public Health,Standard Chair,1,0,0,0,0,0,,
+3a273f87-f596-11e3-a0f5-b8ca3a64f8f4,HarvardCrestStripedTie,10329,Harvard Crest Striped Tie,Color,Crimson,Pattern,Striped,,,Global Neckwear,1,0,0,0,0,0
+3cc3aee6-a3b7-11e2-a415-bc764e10976c,SmartWater,6717,Smart Water 1L,,,,,,Coke,1,0,0,0,0,0,
+3df463be-7978-11e2-b1f5-4040782fde00,harvard-business-school-t-shirt-large-shield,10087,Harvard Business School Shield T-Shirt,Size,S,Color,Crimson,,,Quality,1,6,0,82,0,0
+01e9d415-d43e-11e2-a415-bc764e10976c,harvard-business-school-t-shirt-large-shield,10084,Harvard Business School Shield T-Shirt,Size,L,Color,Gray,,,Quality,1,3,0,52,0,0
+06aa3f89-d43e-11e2-a415-bc764e10976c,harvard-business-school-t-shirt-large-shield,10085,Harvard Business School Shield T-Shirt,Size,XL,Color,Gray,,,Quality,1,1,0,42,0,0
+0cb377ee-d43e-11e2-a415-bc764e10976c,harvard-business-school-t-shirt-large-shield,10086,Harvard Business School Shield T-Shirt,Size,XXL,Color,Gray,,,Quality,1,4,0,74,0,0
+e576a2ac-d43d-11e2-a415-bc764e10976c,harvard-business-school-t-shirt-large-shield,10078,Harvard Business School Shield T-Shirt,Size,M,Color,Crimson,,,Quality,1,4,0,59,0,0
+e8643d12-d43d-11e2-a415-bc764e10976c,harvard-business-school-t-shirt-large-shield,10079,Harvard Business School Shield T-Shirt,Size,L,Color,Crimson,,,Quality,1,5,0,48,0,0
+eb94bdf7-d43d-11e2-a415-bc764e10976c,harvard-business-school-t-shirt-large-shield,10080,Harvard Business School Shield T-Shirt,Size,XL,Color,Crimson,,,Quality,1,3,0,34,0,0
+f0288e7f-d43d-11e2-a415-bc764e10976c,harvard-business-school-t-shirt-large-shield,10081,Harvard Business School Shield T-Shirt,Size,XXL,Color,Crimson,,,Quality,1,3,0,32,0,0
+f78f6c1c-d43d-11e2-a415-bc764e10976c,harvard-business-school-t-shirt-large-shield,10082,Harvard Business School Shield T-Shirt,Size,S,Color,Gray,,,Quality,1,17,0,53,0,0
+fb870ba4-d43d-11e2-a415-bc764e10976c,harvard-business-school-t-shirt-large-shield,10083,Harvard Business School Shield T-Shirt,Size,M,Color,Gray,,,Quality,1,0,0,64,0,0
+42099437-6c0c-11e2-b1f5-4040782fde00,h-tank-top,4408,H' Tank Top,Size,S,Color,Black,,,Comprint,1,0,0,0,0,0
+4294db87-6c0c-11e2-b1f5-4040782fde00,h-tank-top,4410,H' Tank Top,Size,L,Color,Black,,,Comprint,1,0,0,0,0,0
+42d205ad-6c0c-11e2-b1f5-4040782fde00,h-tank-top,4411,H' Tank Top,Size,XL,Color,Black,,,Comprint,1,28,0,0,0,0
+7ee51ade-6c0d-11e2-b1f5-4040782fde00,h-tank-top,4409,H' Tank Top,Size,M,Color,Black,,,Comprint,1,0,0,0,0,0
+4265f27b-6c0c-11e2-b1f5-4040782fde00,birds-eye-view-of-harvard-campus-vintage-photo,2990,Bird's Eye View of Harvard Campus Vintage Photo,Title,1 Photo,,,,,ICONCEPT,1,0,0,0,0,0
+45bd1587-74ca-11e2-b1f5-4040782fde00,fedex_express_saver,FEDEX_EXPRESS_SAVER,FedEx Express Saver,Title,Default,,,,,Freight,1,0,0,0,0,0
+46be6a53-6c0c-11e2-b1f5-4040782fde00,crimson-white-deluxe-harvard-umbrella,4725,Deluxe Harvard Golf Umbrella,Color,Crimson,Pattern,Striped,,,STORMDUDS,1,127,15,7,21,0
+46c2d049-6c0c-11e2-b1f5-4040782fde00,ouray-sweatshirt,4915,Crush Crew Sweater,Color,Pink,Size,S,,,Ouray,1,0,0,0,0,0
+470cd718-6c0c-11e2-b1f5-4040782fde00,ouray-sweatshirt,4916,Crush Crew Sweater,Color,Pink,Size,M,,,Ouray,1,0,0,0,0,0
+47437cea-6c0c-11e2-b1f5-4040782fde00,ouray-sweatshirt,4917,Crush Crew Sweater,Color,Pink,Size,L,,,Ouray,1,0,0,0,0,0
+47756d91-6c0c-11e2-b1f5-4040782fde00,ouray-sweatshirt,4918,Crush Crew Sweater,Color,Pink,Size,XL,,,Ouray,1,3,0,0,0,0
+47a9aae4-6c0c-11e2-b1f5-4040782fde00,ouray-sweatshirt,1741,Crush Crew Sweater,Color,Oxford,Size,S,,,Ouray,1,0,0,0,0,0
+47ec19c4-6c0c-11e2-b1f5-4040782fde00,ouray-sweatshirt,1742,Crush Crew Sweater,Color,Oxford,Size,M,,,Ouray,1,0,0,0,0,0
+482b401e-6c0c-11e2-b1f5-4040782fde00,ouray-sweatshirt,1743,Crush Crew Sweater,Color,Oxford,Size,L,,,Ouray,1,0,0,0,0,0
+48657521-6c0c-11e2-b1f5-4040782fde00,ouray-sweatshirt,1744,Crush Crew Sweater,Color,Oxford,Size,XL,,,Ouray,1,0,0,0,0,0
+e52b2846-e93d-11e5-f98b-402ed5cf434f,ouray-sweatshirt,10498,Crush Crew Sweater,Color,Pink,Size,XS,,,Ouray,1,0,0,0,0,0
+47c1176c-6c0c-11e2-b1f5-4040782fde00,fleece-zip-hoody,2575,Cozy Full Zip Hoodie,Size,S,Color,Crimson,,,Quality,1,0,0,0,0,0
+480811bf-6c0c-11e2-b1f5-4040782fde00,fleece-zip-hoody,2576,Cozy Full Zip Hoodie,Size,M,Color,Crimson,,,Quality,1,0,0,0,0,0
+483e4d1b-6c0c-11e2-b1f5-4040782fde00,fleece-zip-hoody,2577,Cozy Full Zip Hoodie,Size,L,Color,Crimson,,,Quality,1,12,3,2,2,72
+486e8dc3-6c0c-11e2-b1f5-4040782fde00,fleece-zip-hoody,2578,Cozy Full Zip Hoodie,Size,XL,Color,Crimson,,,Quality,1,0,2,0,2,0
+48c3f3c2-6c0c-11e2-b1f5-4040782fde00,fleece-zip-hoody,2579,Cozy Full Zip Hoodie,Size,S,Color,Charcoal,,,Quality,1,19,2,2,2,0
+48fba116-6c0c-11e2-b1f5-4040782fde00,fleece-zip-hoody,2580,Cozy Full Zip Hoodie,Size,M,Color,Charcoal,,,Quality,1,0,2,0,2,0
+494f5d50-6c0c-11e2-b1f5-4040782fde00,fleece-zip-hoody,2581,Cozy Full Zip Hoodie,Size,L,Color,Charcoal,,,Quality,1,50,1,2,2,48
+498ad832-6c0c-11e2-b1f5-4040782fde00,fleece-zip-hoody,2582,Cozy Full Zip Hoodie,Size,XL,Color,Charcoal,,,Quality,1,0,1,3,2,0
+48e62f41-6c0c-11e2-b1f5-4040782fde00,hahvard-t-shirt,1389,Hahvahd T-Shirt,Size,S,Color,Crimson,,,Quality,1,44,0,1,10,576
+4976b21f-6c0c-11e2-b1f5-4040782fde00,hahvard-t-shirt,1390,Hahvahd T-Shirt,Size,M,Color,Crimson,,,Quality,1,47,0,1,12,432
+49b50e94-6c0c-11e2-b1f5-4040782fde00,hahvard-t-shirt,1391,Hahvahd T-Shirt,Size,L,Color,Crimson,,,Quality,1,110,0,0,13,576
+4a054deb-6c0c-11e2-b1f5-4040782fde00,hahvard-t-shirt,1392,Hahvahd T-Shirt,Size,XL,Color,Crimson,,,Quality,1,10,0,1,7,264
+4a5740fe-6c0c-11e2-b1f5-4040782fde00,hahvard-t-shirt,1393,Hahvahd T-Shirt,Size,XXL,Color,Crimson,,,Quality,1,14,0,2,7,120
+493e4673-6c0c-11e2-b1f5-4040782fde00,hard-headed-t-shirt,4061,Hard Headed T-Shirt,Size,S,Color,Oxford,,,MyU,1,0,0,0,0,0
+1868216f-d43c-11e2-a415-bc764e10976c,hard-headed-t-shirt,10073,Hard Headed T-Shirt,Size,S,Color,Charcoal,,,MyU,1,0,0,0,0,0
+22999f04-d43c-11e2-a415-bc764e10976c,hard-headed-t-shirt,10074,Hard Headed T-Shirt,Size,M,Color,Charcoal,,,MyU,1,0,0,0,0,0
+26a86795-d43c-11e2-a415-bc764e10976c,hard-headed-t-shirt,10075,Hard Headed T-Shirt,Size,L,Color,Charcoal,,,MyU,1,0,0,0,0,0
+2d14dec7-d43c-11e2-a415-bc764e10976c,hard-headed-t-shirt,10076,Hard Headed T-Shirt,Size,XL,Color,Charcoal,,,MyU,1,0,0,0,0,0
+3219e131-d43c-11e2-a415-bc764e10976c,hard-headed-t-shirt,10077,Hard Headed T-Shirt,Size,XXL,Color,Charcoal,,,MyU,1,0,0,0,0,0
+49bd6e86-6c0c-11e2-b1f5-4040782fde00,hard-headed-t-shirt,4062,Hard Headed T-Shirt,Size,M,Color,Oxford,,,MyU,1,0,0,0,0,0
+49ff80d6-6c0c-11e2-b1f5-4040782fde00,hard-headed-t-shirt,4063,Hard Headed T-Shirt,Size,L,Color,Oxford,,,MyU,1,1,0,0,0,0
+4a4060df-6c0c-11e2-b1f5-4040782fde00,hard-headed-t-shirt,4064,Hard Headed T-Shirt,Size,XL,Color,Oxford,,,MyU,1,0,0,0,0,0
+4a7e638b-6c0c-11e2-b1f5-4040782fde00,hard-headed-t-shirt,4074,Hard Headed T-Shirt,Size,XXL,Color,Oxford,,,MyU,1,0,0,0,0,0
+4a33d6dc-6c0c-11e2-b1f5-4040782fde00,harvard-3d-crest-magnet,1514,Harvard 3D Crest Magnet,Color,White,,,,,Mahoney Publishing,1,1488,16,4,4,0
+4a96ff80-6c0c-11e2-b1f5-4040782fde00,harvard-johnston-gate-magnet,1513,Harvard 3D Johnston Gate Magnet,Harvard University,,,,Mahoney Publishing,1,1380,23,4,7,0,,
+4abce1af-7b9f-11e2-b1f5-4040782fde00,hellokittyt-shirtmissy,10005,Hello Kitty T-shirt Missy,Size,S,Color,Crimson,,,MyU,1,222,0,0,0,0
+5bcbf188-7b9f-11e2-b1f5-4040782fde00,hellokittyt-shirtmissy,10006,Hello Kitty T-shirt Missy,Size,M,Color,Crimson,,,MyU,1,0,0,0,0,0
+5faa3c05-7b9f-11e2-b1f5-4040782fde00,hellokittyt-shirtmissy,10007,Hello Kitty T-shirt Missy,Size,L,Color,Crimson,,,MyU,1,0,0,0,0,0
+64bdfd04-7b9f-11e2-b1f5-4040782fde00,hellokittyt-shirtmissy,10008,Hello Kitty T-shirt Missy,Size,XL,Color,Crimson,,,MyU,1,3,0,0,0,0
+4ac378a6-6c0c-11e2-b1f5-4040782fde00,harvard-american-apparel-womens-crest-v-neck,4396,Harvard American Apparel Women's Crest V-Neck,Size,XS,Color,Crimson,,,Comprint,1,0,0,0,0,0
+4b614b89-6c0c-11e2-b1f5-4040782fde00,harvard-american-apparel-womens-crest-v-neck,4398,Harvard American Apparel Women's Crest V-Neck,Size,M,Color,Crimson,,,Comprint,1,0,0,0,0,0
+4ba2ae25-6c0c-11e2-b1f5-4040782fde00,harvard-american-apparel-womens-crest-v-neck,4397,Harvard American Apparel Women's Crest V-Neck,Size,L,Color,Crimson,,,Comprint,1,0,0,0,0,0
+4bdb605d-6c0c-11e2-b1f5-4040782fde00,harvard-american-apparel-womens-crest-v-neck,4372,Harvard American Apparel Women's Crest V-Neck,Size,XS,Color,Gray,,,Comprint,1,0,0,0,0,0
+4c2696aa-6c0c-11e2-b1f5-4040782fde00,harvard-american-apparel-womens-crest-v-neck,4373,Harvard American Apparel Women's Crest V-Neck,Size,S,Color,Gray,,,Comprint,1,0,0,0,0,0
+4c61aceb-6c0c-11e2-b1f5-4040782fde00,harvard-american-apparel-womens-crest-v-neck,4374,Harvard American Apparel Women's Crest V-Neck,Size,M,Color,Gray,,,Comprint,1,0,0,0,0,0
+4ca1d436-6c0c-11e2-b1f5-4040782fde00,harvard-american-apparel-womens-crest-v-neck,4375,Harvard American Apparel Women's Crest V-Neck,Size,L,Color,Gray,,,Comprint,1,8,0,0,0,0
+4ce4fcbd-6c0c-11e2-b1f5-4040782fde00,harvard-american-apparel-womens-crest-v-neck,4368,Harvard American Apparel Women's Crest V-Neck,Size,XS,Color,Sky Blue,,,Comprint,1,0,0,0,0,0
+4d28e7bb-6c0c-11e2-b1f5-4040782fde00,harvard-american-apparel-womens-crest-v-neck,4369,Harvard American Apparel Women's Crest V-Neck,Size,S,Color,Sky Blue,,,Comprint,1,0,0,0,0,0
+4d71b1a6-6c0c-11e2-b1f5-4040782fde00,harvard-american-apparel-womens-crest-v-neck,4370,Harvard American Apparel Women's Crest V-Neck,Size,M,Color,Sky Blue,,,Comprint,1,0,0,0,0,0
+4db83fa7-6c0c-11e2-b1f5-4040782fde00,harvard-american-apparel-womens-crest-v-neck,4371,Harvard American Apparel Women's Crest V-Neck,Size,L,Color,Sky Blue,,,Comprint,1,0,0,0,0,0
+820d6944-6c0d-11e2-b1f5-4040782fde00,harvard-american-apparel-womens-crest-v-neck,4399,Harvard American Apparel Women's Crest V-Neck,Size,S,Color,Crimson,,,Comprint,1,0,0,0,0,0
+4af501ae-6c0c-11e2-b1f5-4040782fde00,harvard-arc-t-shirt,1200,Harvard Arc T-shirt,Size,S,Color,Crimson,,,Quality,1,81,21,18,8,576
+4b83014d-6c0c-11e2-b1f5-4040782fde00,harvard-arc-t-shirt,1201,Harvard Arc T-shirt,Size,M,Color,Crimson,,,Quality,1,41,15,20,11,504
+4bc04283-6c0c-11e2-b1f5-4040782fde00,harvard-arc-t-shirt,1119,Harvard Arc T-shirt,Size,L,Color,Crimson,,,Quality,1,80,17,17,8,360
+4c19a3a3-6c0c-11e2-b1f5-4040782fde00,harvard-arc-t-shirt,1400,Harvard Arc T-shirt,Size,XL,Color,Crimson,,,Quality,1,58,12,7,4,288
+4c645d9c-6c0c-11e2-b1f5-4040782fde00,harvard-arc-t-shirt,1202,Harvard Arc T-shirt,Size,XXL,Color,Crimson,,,Quality,1,50,0,6,4,504
+4caaab2a-6c0c-11e2-b1f5-4040782fde00,harvard-arc-t-shirt,313,Harvard Arc T-shirt,Size,S,Color,Oxford,,,Quality,1,82,21,24,9,504
+4cf17966-6c0c-11e2-b1f5-4040782fde00,harvard-arc-t-shirt,314,Harvard Arc T-shirt,Size,M,Color,Oxford,,,Quality,1,173,15,23,8,360
+4d392fca-6c0c-11e2-b1f5-4040782fde00,harvard-arc-t-shirt,315,Harvard Arc T-shirt,Size,L,Color,Oxford,,,Quality,1,57,9,12,10,360
+4d856e76-6c0c-11e2-b1f5-4040782fde00,harvard-arc-t-shirt,316,Harvard Arc T-shirt,Size,XL,Color,Oxford,,,Quality,1,65,17,10,5,360
+4dd1c193-6c0c-11e2-b1f5-4040782fde00,harvard-arc-t-shirt,317,Harvard Arc T-shirt,Size,XXL,Color,Oxford,,,Quality,1,68,0,1,7,504
+4e1184c2-6c0c-11e2-b1f5-4040782fde00,harvard-arc-t-shirt,4042,Harvard Arc T-shirt,Size,S,Color,Black,,,Quality,1,77,23,23,13,432
+4e64bdfa-6c0c-11e2-b1f5-4040782fde00,harvard-arc-t-shirt,4044,Harvard Arc T-shirt,Size,L,Color,Black,,,Quality,1,45,18,13,8,360
+4eacb4e6-6c0c-11e2-b1f5-4040782fde00,harvard-arc-t-shirt,4045,Harvard Arc T-shirt,Size,XL,Color,Black,,,Quality,1,27,11,15,6,288
+4f04c4a7-6c0c-11e2-b1f5-4040782fde00,harvard-arc-t-shirt,4076,Harvard Arc T-shirt,Size,XXL,Color,Black,,,Quality,1,74,0,0,4,504
+84c31ff5-6c0d-11e2-b1f5-4040782fde00,harvard-arc-t-shirt,4043,Harvard Arc T-shirt,Size,M,Color,Black,,,Quality,1,104,14,20,12,432
+4af64fd9-6c0c-11e2-b1f5-4040782fde00,harvard-banners-on-campus-vintage-photo,2985,Harvard Banners on Campus Vintage Photo,Title,1 Photo,,,,,ICONCEPT,1,0,0,0,0,0
+4b0dc31d-6c0c-11e2-b1f5-4040782fde00,harvard-barrel-pen,611,Harvard Barrel Pen,Color,White,,,,,Arts & Cards,1,295,7,12,21,0
+4b9fb9e7-6c0c-11e2-b1f5-4040782fde00,harvard-bottle-opener-keychain,1680,Harvard Bottle Opener Keychain,Color,Silver,,,,,LXG,1,75,0,11,9,0
+4c4dbb8c-f596-11e3-a0f5-b8ca3a64f8f4,HarvardCrestStripedBowTie,10330,Harvard Crest Striped Bow Tie,Color,Crimson,Pattern,Striped,,,Global Neckwear,1,40,0,0,6,0
+4e48e403-6c0c-11e2-b1f5-4040782fde00,harvard-campus-and-the-charles-river-vintage-photo,2989,Harvard Campus and the Charles River Vintage Photo,Title,1 Photo,,,,,ICONCEPT,1,0,0,0,0,0
+4efad606-6c0c-11e2-b1f5-4040782fde00,harvard-cinch-bag,3863,Harvard Cinch Bag,Color,Crimson,,,,,Quality,1,412,14,3,8,0
+4fa255fc-6c0c-11e2-b1f5-4040782fde00,harvard-collegiate-bowl,4317,Harvard Collegiate Bowl,Color,Crimson,,,,,RFSJ,1,2,0,0,0,0
+500d5d88-6c0c-11e2-b1f5-4040782fde00,harvard-color-filled-keychain,1644,Engraved Color Harvard Keychain,Color,Silver,,,,,LXG,1,26,17,9,12,0
+514d594b-6c0c-11e2-b1f5-4040782fde00,harvard-postcard,2992,Harvard Crest Postcard,Color,Black,,,,,Quality,1,0,0,0,0,0
+51cfbeb9-6c0c-11e2-b1f5-4040782fde00,harvard-crest-t-shirt,264,Harvard Crest T-Shirt,Size,S,Color,Crimson,,,Quality,1,35,15,15,13,720
+524aeaef-6c0c-11e2-b1f5-4040782fde00,harvard-crest-t-shirt,265,Harvard Crest T-Shirt,Size,M,Color,Crimson,,,Quality,1,12,15,19,13,648
+528a33f1-6c0c-11e2-b1f5-4040782fde00,harvard-crest-t-shirt,266,Harvard Crest T-Shirt,Size,L,Color,Crimson,,,Quality,1,77,17,11,11,360
+52d5e500-6c0c-11e2-b1f5-4040782fde00,harvard-crest-t-shirt,267,Harvard Crest T-Shirt,Size,XL,Color,Crimson,,,Quality,1,68,11,8,9,360
+5325c5e5-6c0c-11e2-b1f5-4040782fde00,harvard-crest-t-shirt,268,Harvard Crest T-Shirt,Size,XXL,Color,Crimson,,,Quality,1,44,0,5,6,288
+53653b25-6c0c-11e2-b1f5-4040782fde00,harvard-crest-t-shirt,259,Harvard Crest T-Shirt,Size,S,Color,Oxford,,,Quality,1,163,15,19,12,504
+53ae146c-6c0c-11e2-b1f5-4040782fde00,harvard-crest-t-shirt,260,Harvard Crest T-Shirt,Size,M,Color,Oxford,,,Quality,1,108,19,16,14,504
+53f4d252-6c0c-11e2-b1f5-4040782fde00,harvard-crest-t-shirt,261,Harvard Crest T-Shirt,Size,L,Color,Oxford,,,Quality,1,35,17,13,9,360
+543e9bf8-6c0c-11e2-b1f5-4040782fde00,harvard-crest-t-shirt,262,Harvard Crest T-Shirt,Size,XL,Color,Oxford,,,Quality,1,78,11,9,8,360
+547e10b9-6c0c-11e2-b1f5-4040782fde00,harvard-crest-t-shirt,263,Harvard Crest T-Shirt,Size,XXL,Color,Oxford,,,Quality,1,79,0,4,9,504
+54b920e0-6c0c-11e2-b1f5-4040782fde00,harvard-crest-t-shirt,3941,Harvard Crest T-Shirt,Size,S,Color,Navy,,,Quality,1,66,17,20,11,648
+551cf059-6c0c-11e2-b1f5-4040782fde00,harvard-crest-t-shirt,3943,Harvard Crest T-Shirt,Size,L,Color,Navy,,,Quality,1,82,20,17,9,432
+556e822e-6c0c-11e2-b1f5-4040782fde00,harvard-crest-t-shirt,3944,Harvard Crest T-Shirt,Size,XL,Color,Navy,,,Quality,1,56,12,9,7,360
+55bdfbd1-6c0c-11e2-b1f5-4040782fde00,harvard-crest-t-shirt,3973,Harvard Crest T-Shirt,Size,XXL,Color,Navy,,,Quality,1,73,0,4,4,504
+8f78ffed-6c0d-11e2-b1f5-4040782fde00,harvard-crest-t-shirt,3942,Harvard Crest T-Shirt,Size,M,Color,Navy,,,Quality,1,20,21,16,13,648
+53607d91-6c0c-11e2-b1f5-4040782fde00,harvard-crop-top,4191,Harvard Crop Top,Color,Oxford,Size,S,,,Quality,1,0,0,0,0,0
+53bf5072-6c0c-11e2-b1f5-4040782fde00,harvard-crop-top,4192,Harvard Crop Top,Color,Oxford,Size,M,,,Quality,1,2,0,0,0,0
+53f90a60-6c0c-11e2-b1f5-4040782fde00,harvard-crop-top,4193,Harvard Crop Top,Color,Oxford,Size,L,,,Quality,1,6,0,0,0,0
+c426871b-bc2c-11e3-a0f5-b8ca3a64f8f4,harvard-crop-top,10848,Harvard Crop Top,Color,Oxford,Size,XL,,,Quality,1,0,0,0,0,0
+5377814a-6c0c-11e2-b1f5-4040782fde00,harvard-dad-t-shirt,3722,Harvard Dad Tee,Size,S,Color,Crimson,,,Comprint,1,51,0,0,0,0
+5401016e-6c0c-11e2-b1f5-4040782fde00,harvard-dad-t-shirt,3723,Harvard Dad Tee,Size,M,Color,Crimson,,,Comprint,1,2,0,0,0,0
+544aebe1-6c0c-11e2-b1f5-4040782fde00,harvard-dad-t-shirt,3724,Harvard Dad Tee,Size,L,Color,Crimson,,,Comprint,1,0,0,0,0,0
+549a3267-6c0c-11e2-b1f5-4040782fde00,harvard-dad-t-shirt,3725,Harvard Dad Tee,Size,XL,Color,Crimson,,,Comprint,1,0,0,0,0,0
+54d71e89-6c0c-11e2-b1f5-4040782fde00,harvard-dad-t-shirt,3726,Harvard Dad Tee,Size,XXL,Color,Crimson,,,Comprint,1,1,0,0,0,0
+5546a105-6c0c-11e2-b1f5-4040782fde00,harvard-dad-t-shirt,366,Harvard Dad Tee,Size,S,Color,Oxford,,,Comprint,1,25,0,0,0,0
+55adf18e-6c0c-11e2-b1f5-4040782fde00,harvard-dad-t-shirt,367,Harvard Dad Tee,Size,M,Color,Oxford,,,Comprint,1,0,0,0,0,0
+55f6cf75-6c0c-11e2-b1f5-4040782fde00,harvard-dad-t-shirt,368,Harvard Dad Tee,Size,L,Color,Oxford,,,Comprint,1,0,0,0,0,0
+5666c4b6-6c0c-11e2-b1f5-4040782fde00,harvard-dad-t-shirt,369,Harvard Dad Tee,Size,XL,Color,Oxford,,,Comprint,1,16,0,0,0,0
+56af05e3-6c0c-11e2-b1f5-4040782fde00,harvard-dad-t-shirt,370,Harvard Dad Tee,Size,XXL,Color,Oxford,,,Comprint,1,0,0,0,0,0
+550d25fc-f095-11e2-a415-bc764e10976c,TowerShieldKeychain,10113,Tower Shield Keychain,Color,Silver,,,,,LXG,1,9,24,24,10,0
+553fa88d-6c0c-11e2-b1f5-4040782fde00,harvard-etched-shot-glass,776,Harvard Etched Crest Shot Glass,Title,Etched Crest,,,,NORDIC,1,179,15,8,14,0,
+563f5281-6c0c-11e2-b1f5-4040782fde00,harvard-fleece-crew,4997,Harvard Fleece Crew,Size,S,Color,Crimson,,,Ouray,1,0,0,0,0,0
+0c6b263e-b296-11e2-a415-bc764e10976c,harvard-fleece-crew,10046,Harvard Fleece Crew,Size,M,Color,Gray,,,Ouray,1,0,0,0,0,0
+23690f8f-b295-11e2-a415-bc764e10976c,harvard-fleece-crew,10043,Harvard Fleece Crew,Size,XS,Color,Crimson,,,Ouray,1,0,0,0,0,0
+2a147f5a-b295-11e2-a415-bc764e10976c,harvard-fleece-crew,10044,Harvard Fleece Crew,Size,XS,Color,Gray,,,Ouray,1,0,0,0,0,0
+56d1d6a9-6c0c-11e2-b1f5-4040782fde00,harvard-fleece-crew,4998,Harvard Fleece Crew,Size,M,Color,Crimson,,,Ouray,1,0,0,0,0,0
+57117f4a-6c0c-11e2-b1f5-4040782fde00,harvard-fleece-crew,386,Harvard Fleece Crew,Size,L,Color,Crimson,,,Ouray,1,0,0,0,0,0
+575b85bc-6c0c-11e2-b1f5-4040782fde00,harvard-fleece-crew,5000,Harvard Fleece Crew,Size,XL,Color,Crimson,,,Ouray,1,1,0,0,0,0
+57ad3eba-6c0c-11e2-b1f5-4040782fde00,harvard-fleece-crew,387,Harvard Fleece Crew,Size,XXL,Color,Crimson,,,Ouray,1,0,0,0,0,0
+65fe9523-b295-11e2-a415-bc764e10976c,harvard-fleece-crew,10045,Harvard Fleece Crew,Size,S,Color,Gray,,,Ouray,1,0,0,0,0,0
+9ec06f6a-b295-11e2-a415-bc764e10976c,harvard-fleece-crew,10047,Harvard Fleece Crew,Size,L,Color,Gray,,,Ouray,1,0,0,0,0,0
+b9a373df-b295-11e2-a415-bc764e10976c,harvard-fleece-crew,10048,Harvard Fleece Crew,Size,XL,Color,Gray,,,Ouray,1,0,0,0,0,0
+d9af18a2-b295-11e2-a415-bc764e10976c,harvard-fleece-crew,10049,Harvard Fleece Crew,Size,XXL,Color,Gray,,,Ouray,1,0,0,0,0,0
+573c655f-6c0c-11e2-b1f5-4040782fde00,harvard-folder,3839,Harvard Folder,Color,Crimson,,,,,Roaring Springs,1,310,24,21,12,0
+022894d1-fd3d-11e7-e6e7-b9a63548eee5,harvard-folder,11254,Harvard Folder,Color,Silver,,,,,Roaring Springs,1,0,0,0,0,0
+e0a7f460-b752-11e2-a415-bc764e10976c,harvard-folder,10051,Harvard Folder,Color,Black,,,,,Roaring Springs,1,128,22,71,7,0
+57dbc089-6c0c-11e2-b1f5-4040782fde00,harvard-future-freshman-shirt,655,Harvard Future Freshman Shirt,Color,Oxford,Size,YXS,,,FREEDOM,1,71,2,3,5,0
+5858327d-6c0c-11e2-b1f5-4040782fde00,harvard-future-freshman-shirt,656,Harvard Future Freshman Shirt,Color,Oxford,Size,YS,,,FREEDOM,1,49,3,9,0,0
+58994057-6c0c-11e2-b1f5-4040782fde00,harvard-future-freshman-shirt,657,Harvard Future Freshman Shirt,Color,Oxford,Size,YM,,,FREEDOM,1,32,2,1,10,0
+58dc2137-6c0c-11e2-b1f5-4040782fde00,harvard-future-freshman-shirt,658,Harvard Future Freshman Shirt,Color,Oxford,Size,YL,,,FREEDOM,1,81,2,5,4,0
+59105c60-6c0c-11e2-b1f5-4040782fde00,harvard-future-freshman-shirt,663,Harvard Future Freshman Shirt,Color,Pink,Size,YXS,,,FREEDOM,1,66,2,5,5,0
+5946cdb0-6c0c-11e2-b1f5-4040782fde00,harvard-future-freshman-shirt,664,Harvard Future Freshman Shirt,Color,Pink,Size,YS,,,FREEDOM,1,65,2,1,0,0
+5994d511-6c0c-11e2-b1f5-4040782fde00,harvard-future-freshman-shirt,665,Harvard Future Freshman Shirt,Color,Pink,Size,YM,,,FREEDOM,1,62,2,5,9,0
+59cad029-6c0c-11e2-b1f5-4040782fde00,harvard-future-freshman-shirt,666,Harvard Future Freshman Shirt,Color,Pink,Size,YL,,,FREEDOM,1,62,2,6,6,0
+5863d286-6c47-11e2-b1f5-4040782fde00,HarvardWhitePostcard,2997,Harvard White Postcard,,,,,,Quality,1,0,0,0,0,0,
+589c5631-6c0c-11e2-b1f5-4040782fde00,harvard-graduate-school-of-education-hooded-sweatshirt,3890,Harvard Graduate School of Education Hooded Sweatshirt,Color,Crimson,Size,S,,,Quality,1,4,0,38,0,0
+5903be33-6c0c-11e2-b1f5-4040782fde00,harvard-graduate-school-of-education-hooded-sweatshirt,3891,Harvard Graduate School of Education Hooded Sweatshirt,Color,Crimson,Size,M,,,Quality,1,0,0,50,0,0
+594a4951-6c0c-11e2-b1f5-4040782fde00,harvard-graduate-school-of-education-hooded-sweatshirt,3892,Harvard Graduate School of Education Hooded Sweatshirt,Color,Crimson,Size,L,,,Quality,1,0,0,33,0,0
+598cc8ed-6c0c-11e2-b1f5-4040782fde00,harvard-graduate-school-of-education-hooded-sweatshirt,3893,Harvard Graduate School of Education Hooded Sweatshirt,Color,Crimson,Size,XL,,,Quality,1,0,0,37,0,0
+59c4e989-6c0c-11e2-b1f5-4040782fde00,harvard-graduate-school-of-education-hooded-sweatshirt,4071,Harvard Graduate School of Education Hooded Sweatshirt,Color,Crimson,Size,XXL,,,Quality,1,4,0,23,0,0
+58b74693-6c0c-11e2-b1f5-4040782fde00,graduate-school-of-education-mug,4054,Harvard Graduate School of Education Mug,Color,White,,,,,RFSJ,1,126,0,6,0,0
+5c6da826-6c0c-11e2-b1f5-4040782fde00,harvard-hooded-arc-sweatshirt,2147,Harvard Hooded Arc Sweatshirt,Color,Crimson,Size,S,,,Quality,1,1,0,0,0,216
+5ccdd665-6c0c-11e2-b1f5-4040782fde00,harvard-hooded-arc-sweatshirt,599,Harvard Hooded Arc Sweatshirt,Color,Crimson,Size,M,,,Quality,1,57,4,2,4,192
+5d1ad4b4-6c0c-11e2-b1f5-4040782fde00,harvard-hooded-arc-sweatshirt,600,Harvard Hooded Arc Sweatshirt,Color,Crimson,Size,L,,,Quality,1,32,5,2,2,168
+5d5abd21-6c0c-11e2-b1f5-4040782fde00,harvard-hooded-arc-sweatshirt,601,Harvard Hooded Arc Sweatshirt,Color,Crimson,Size,XL,,,Quality,1,54,3,2,2,144
+5da89027-6c0c-11e2-b1f5-4040782fde00,harvard-hooded-arc-sweatshirt,602,Harvard Hooded Arc Sweatshirt,Color,Crimson,Size,XXL,,,Quality,1,9,2,1,1,120
+5df6dbb0-6c0c-11e2-b1f5-4040782fde00,harvard-hooded-arc-sweatshirt,1950,Harvard Hooded Arc Sweatshirt,Color,Oxford,Size,S,,,Quality,1,3,3,3,2,192
+5e465473-6c0c-11e2-b1f5-4040782fde00,harvard-hooded-arc-sweatshirt,595,Harvard Hooded Arc Sweatshirt,Color,Oxford,Size,M,,,Quality,1,34,3,4,2,168
+5e8a4bb1-6c0c-11e2-b1f5-4040782fde00,harvard-hooded-arc-sweatshirt,596,Harvard Hooded Arc Sweatshirt,Color,Oxford,Size,L,,,Quality,1,53,3,3,3,168
+5ec415a9-6c0c-11e2-b1f5-4040782fde00,harvard-hooded-arc-sweatshirt,597,Harvard Hooded Arc Sweatshirt,Color,Oxford,Size,XL,,,Quality,1,39,4,2,3,144
+5f14a88f-6c0c-11e2-b1f5-4040782fde00,harvard-hooded-arc-sweatshirt,598,Harvard Hooded Arc Sweatshirt,Color,Oxford,Size,XXL,,,Quality,1,5,2,2,1,120
+5d2b186b-6c0c-11e2-b1f5-4040782fde00,harvard-hooded-crest-sweatshirt,3697,Harvard Hooded Crest Sweatshirt,Color,Crimson,Size,S,,,Quality,1,87,1,0,2,0
+5da8539c-6c0c-11e2-b1f5-4040782fde00,harvard-hooded-crest-sweatshirt,3698,Harvard Hooded Crest Sweatshirt,Color,Crimson,Size,M,,,Quality,1,38,3,0,2,48
+5df7e80d-6c0c-11e2-b1f5-4040782fde00,harvard-hooded-crest-sweatshirt,3699,Harvard Hooded Crest Sweatshirt,Color,Crimson,Size,L,,,Quality,1,1,0,0,0,168
+5e4ea324-6c0c-11e2-b1f5-4040782fde00,harvard-hooded-crest-sweatshirt,3700,Harvard Hooded Crest Sweatshirt,Color,Crimson,Size,XL,,,Quality,1,7,2,0,2,96
+5e8fa4e3-6c0c-11e2-b1f5-4040782fde00,harvard-hooded-crest-sweatshirt,3701,Harvard Hooded Crest Sweatshirt,Color,Crimson,Size,XXL,,,Quality,1,1,4,2,2,96
+5ec7a030-6c0c-11e2-b1f5-4040782fde00,harvard-hooded-crest-sweatshirt,3692,Harvard Hooded Crest Sweatshirt,Color,Oxford,Size,S,,,Quality,1,12,2,3,2,216
+5f237b59-6c0c-11e2-b1f5-4040782fde00,harvard-hooded-crest-sweatshirt,3693,Harvard Hooded Crest Sweatshirt,Color,Oxford,Size,M,,,Quality,1,55,3,2,2,72
+5f8b32b5-6c0c-11e2-b1f5-4040782fde00,harvard-hooded-crest-sweatshirt,3694,Harvard Hooded Crest Sweatshirt,Color,Oxford,Size,L,,,Quality,1,52,4,3,3,192
+5fe4860a-6c0c-11e2-b1f5-4040782fde00,harvard-hooded-crest-sweatshirt,3695,Harvard Hooded Crest Sweatshirt,Color,Oxford,Size,XL,,,Quality,1,25,4,2,2,144
+6043d6c4-6c0c-11e2-b1f5-4040782fde00,harvard-hooded-crest-sweatshirt,3696,Harvard Hooded Crest Sweatshirt,Color,Oxford,Size,XXL,,,Quality,1,0,1,2,2,144
+608591b7-6c0c-11e2-b1f5-4040782fde00,harvard-hooded-crest-sweatshirt,4046,Harvard Hooded Crest Sweatshirt,Color,Navy,Size,S,,,Quality,1,17,2,3,3,216
+60e985ac-6c0c-11e2-b1f5-4040782fde00,harvard-hooded-crest-sweatshirt,4047,Harvard Hooded Crest Sweatshirt,Color,Navy,Size,M,,,Quality,1,0,1,1,2,216
+614dbe9e-6c0c-11e2-b1f5-4040782fde00,harvard-hooded-crest-sweatshirt,4048,Harvard Hooded Crest Sweatshirt,Color,Navy,Size,L,,,Quality,1,17,2,2,2,144
+61b6b8fa-6c0c-11e2-b1f5-4040782fde00,harvard-hooded-crest-sweatshirt,4049,Harvard Hooded Crest Sweatshirt,Color,Navy,Size,XL,,,Quality,1,17,2,2,2,144
+62112ddc-6c0c-11e2-b1f5-4040782fde00,harvard-hooded-crest-sweatshirt,4056,Harvard Hooded Crest Sweatshirt,Color,Navy,Size,XXL,,,Quality,1,20,2,1,1,120
+5e8d4304-6c0c-11e2-b1f5-4040782fde00,harvard-crest-infant-onesie,2247,Harvard Crest Infant Onesie,Size,Newborn,Color,White,,,Comprint,1,15,4,3,1,0
+5f6b7019-6c0c-11e2-b1f5-4040782fde00,harvard-crest-infant-onesie,1091,Harvard Crest Infant Onesie,Size,6M,Color,White,,,Comprint,1,4,4,9,0,0
+6023b469-6c0c-11e2-b1f5-4040782fde00,harvard-crest-infant-onesie,559,Harvard Crest Infant Onesie,Size,12M,Color,White,,,Comprint,1,5,1,5,2,0
+60f6b492-6c0c-11e2-b1f5-4040782fde00,harvard-crest-infant-onesie,560,Harvard Crest Infant Onesie,Size,18M,Color,White,,,Comprint,1,18,3,8,4,0
+61fdd98d-6c0c-11e2-b1f5-4040782fde00,harvard-crest-infant-onesie,561,Harvard Crest Infant Onesie,Size,24M,Color,White,,,Comprint,1,11,1,5,3,0
+60670e0e-6c0c-11e2-b1f5-4040782fde00,harvard-kennedy-school-of-government-barrel-pen,612,Harvard Kennedy School Of Government Barrel Pen,Title,KSG,,,,,Arts & Cards,1,397,0,17,0,0
+60b50a94-6c0c-11e2-b1f5-4040782fde00,harvard-kennedy-school-of-government-cordial-shooter,644,Harvard Kennedy School of Government Cordial Shooter,Title,JFK Shield,,,,,NORDIC,1,236,0,11,0,0
+616baf61-6c0c-11e2-b1f5-4040782fde00,harvard-kennedy-school-of-government-mug,3552,Harvard Kennedy School of Government Mug,Color,White,,,,,RFSJ,1,81,0,0,0,0
+627d716a-8cdc-11e2-b1f5-4040782fde00,standard-chair,StandardChairWithoutPersona,Standard Chair,Title,Without Personalization,Shield,Harvard Law School,,Standard Chair,1,0,0,0,0,0,
+648e9747-8cdc-11e2-b1f5-4040782fde00,standard-chair,StandardChairWithPersonaliz,Standard Chair,Title,With Personalization,Shield,Harvard Law School,,Standard Chair,1,0,0,0,0,0,
+62a9b3d8-6c0c-11e2-b1f5-4040782fde00,harvard-lanyard,847,Harvard Lanyard,Color,Crimson,,,,,Quality,1,572,10,21,32,0
+62baf4fe-6c0c-11e2-b1f5-4040782fde00,harvard-law-school-barrel-pen,614,Harvard Law School Barrel Pen,Color,White,,,,,Arts & Cards,1,271,3,10,0,0
+63723a5b-6c0c-11e2-b1f5-4040782fde00,harvard-law-school-t-shirt,2612,Harvard Law School T-Shirt,Size,S,Color,Crimson,,,Comprint,1,9,0,66,0,0
+647d7349-6c0c-11e2-b1f5-4040782fde00,harvard-law-school-t-shirt,2613,Harvard Law School T-Shirt,Size,M,Color,Crimson,,,Comprint,1,5,0,64,0,0
+6520f657-6c0c-11e2-b1f5-4040782fde00,harvard-law-school-t-shirt,2614,Harvard Law School T-Shirt,Size,L,Color,Crimson,,,Comprint,1,2,0,55,0,0
+65c3ae84-6c0c-11e2-b1f5-4040782fde00,harvard-law-school-t-shirt,2615,Harvard Law School T-Shirt,Size,XL,Color,Crimson,,,Comprint,1,6,0,32,0,0
+66863c3b-6c0c-11e2-b1f5-4040782fde00,harvard-law-school-t-shirt,2616,Harvard Law School T-Shirt,Size,XXL,Color,Crimson,,,Comprint,1,2,0,32,0,0
+672533cc-6c0c-11e2-b1f5-4040782fde00,harvard-law-school-t-shirt,935,Harvard Law School T-Shirt,Size,S,Color,Oxford,,,Comprint,1,4,0,71,0,0
+67dd6b0b-6c0c-11e2-b1f5-4040782fde00,harvard-law-school-t-shirt,936,Harvard Law School T-Shirt,Size,M,Color,Oxford,,,Comprint,1,0,0,72,0,0
+68ae4683-6c0c-11e2-b1f5-4040782fde00,harvard-law-school-t-shirt,937,Harvard Law School T-Shirt,Size,L,Color,Oxford,,,Comprint,1,4,0,54,0,0
+6975f12a-6c0c-11e2-b1f5-4040782fde00,harvard-law-school-t-shirt,938,Harvard Law School T-Shirt,Size,XL,Color,Oxford,,,Comprint,1,5,0,32,0,0
+6a1a5fdc-6c0c-11e2-b1f5-4040782fde00,harvard-law-school-t-shirt,940,Harvard Law School T-Shirt,Size,XXL,Color,Oxford,,,Comprint,1,0,0,32,0,0
+63b581f4-6c0c-11e2-b1f5-4040782fde00,harvard-leather-keychain,1688,Harvard Leather Keychain,Color,Brown,,,,,LXG,1,26,16,9,12,0
+64ba7141-6c0c-11e2-b1f5-4040782fde00,harvard-medical-school-t-shirt-2,8,Harvard Medical School T-Shirt,Size,S,Color,Crimson,,,Quality,1,-1,0,71,0,0
+6573b4ce-6c0c-11e2-b1f5-4040782fde00,harvard-medical-school-t-shirt-2,9,Harvard Medical School T-Shirt,Size,M,Color,Crimson,,,Quality,1,1,0,72,0,0
+66113e05-6c0c-11e2-b1f5-4040782fde00,harvard-medical-school-t-shirt-2,10,Harvard Medical School T-Shirt,Size,L,Color,Crimson,,,Quality,1,4,0,60,0,0
+66c317ef-6c0c-11e2-b1f5-4040782fde00,harvard-medical-school-t-shirt-2,11,Harvard Medical School T-Shirt,Size,XL,Color,Crimson,,,Quality,1,5,0,45,0,0
+6758753a-6c0c-11e2-b1f5-4040782fde00,harvard-medical-school-t-shirt-2,12,Harvard Medical School T-Shirt,Size,XXL,Color,Crimson,,,Quality,1,2,0,38,0,0
+6672e3a9-6c44-11e2-b1f5-4040782fde00,SilverRectangularKeychain,1642,Silver Rectangular Keychain,Color,Silver,,,,,LXG,1,3,0,8,9,0
+68002298-6c0c-11e2-b1f5-4040782fde00,harvard-mug,829,Harvard Mug,Color,White,,,,,RFSJ,1,0,0,0,0,0
+68284058-6c0c-11e2-b1f5-4040782fde00,harvard-mom-t-shirt,374,Harvard Mom Tee,Size,S,Color,Crimson,,,Comprint,1,10,0,0,0,0
+690d5354-6c0c-11e2-b1f5-4040782fde00,harvard-mom-t-shirt,379,Harvard Mom Tee,Size,M,Color,Crimson,,,Comprint,1,0,0,0,0,0
+69b2781d-6c0c-11e2-b1f5-4040782fde00,harvard-mom-t-shirt,380,Harvard Mom Tee,Size,L,Color,Crimson,,,Comprint,1,0,0,0,0,0
+6a672029-6c0c-11e2-b1f5-4040782fde00,harvard-mom-t-shirt,383,Harvard Mom Tee,Size,XL,Color,Crimson,,,Comprint,1,0,0,0,0,0
+6b065787-6c0c-11e2-b1f5-4040782fde00,harvard-mom-t-shirt,384,Harvard Mom Tee,Size,XXL,Color,Crimson,,,Comprint,1,7,0,0,0,0
+6bac1fbc-6c0c-11e2-b1f5-4040782fde00,harvard-mom-t-shirt,371,Harvard Mom Tee,Size,S,Color,Oxford,,,Comprint,1,0,0,0,0,0
+6c50726d-6c0c-11e2-b1f5-4040782fde00,harvard-mom-t-shirt,2427,Harvard Mom Tee,Size,M,Color,Oxford,,,Comprint,1,0,0,0,0,0
+6cf1f3aa-6c0c-11e2-b1f5-4040782fde00,harvard-mom-t-shirt,2428,Harvard Mom Tee,Size,L,Color,Oxford,,,Comprint,1,0,0,0,0,0
+6da21e55-6c0c-11e2-b1f5-4040782fde00,harvard-mom-t-shirt,381,Harvard Mom Tee,Size,XL,Color,Oxford,,,Comprint,1,23,0,0,0,0
+6e63bdc6-6c0c-11e2-b1f5-4040782fde00,harvard-mom-t-shirt,382,Harvard Mom Tee,Size,XXL,Color,Oxford,,,Comprint,1,36,0,0,0,0
+6893efff-6c0c-11e2-b1f5-4040782fde00,harvard-notebook,3841,Harvard Notebook,Color,Crimson,,,,,Roaring Springs,1,1,5,0,3,0
+695501a5-6c0c-11e2-b1f5-4040782fde00,harvard-magnet-clip,3778,Harvard Pewter Magnet Clip,Color,Silver,,,,,Arts & Cards,1,1,0,0,0,0
+6aee21ab-6c0c-11e2-b1f5-4040782fde00,harvard-pocket-umbrella,1438,Harvard Pocket Umbrella,Color,Crimson,,,,,STORMDUDS,1,91,8,8,11,0
+6b5bc853-6c0c-11e2-b1f5-4040782fde00,harvard-pocket-umbrella,4352,Harvard Pocket Umbrella,Color,Black,,,,,STORMDUDS,1,92,9,18,14,0
+6f5360b4-6c0c-11e2-b1f5-4040782fde00,harvard-running-shorts,4418,Harvard Running Shorts,Size,S,Color,Crimson,,,Comprint,1,0,0,0,0,0
+702de357-6c0c-11e2-b1f5-4040782fde00,harvard-running-shorts,4419,Harvard Running Shorts,Size,M,Color,Crimson,,,Comprint,1,0,0,0,0,0
+70c8bb82-6c0c-11e2-b1f5-4040782fde00,harvard-running-shorts,4420,Harvard Running Shorts,Size,L,Color,Crimson,,,Comprint,1,0,0,0,0,0
+7175f7f5-6c0c-11e2-b1f5-4040782fde00,harvard-running-shorts,4421,Harvard Running Shorts,Size,XL,Color,Crimson,,,Comprint,1,4,0,0,1,0
+724315ad-6c0c-11e2-b1f5-4040782fde00,harvard-silver-steel-water-bottle,2718,Harvard Silver Steel Water Bottle,Color,Silver,,,,,Quality,1,175,6,8,10,0
+72a67a49-6c0c-11e2-b1f5-4040782fde00,harvard-steel-water-bottle,4996,Harvard Steel Water Bottle,Color,Crimson,,,,,Quality,1,93,3,9,11,0
+7300eefd-6c0c-11e2-b1f5-4040782fde00,harvard-stein,840,Harvard Stein Glass,Title,Glass Stein,,,,,NORDIC,1,7,4,6,3,0
+744005c6-6c0c-11e2-b1f5-4040782fde00,harvard-summer-school-t-shirt-1,3270,Harvard Summer School T-Shirt (Vintage),Color,White,Size,S,,,Quality,1,0,0,0,0,0
+753dc62e-6c0c-11e2-b1f5-4040782fde00,harvard-summer-school-t-shirt-1,3271,Harvard Summer School T-Shirt (Vintage),Color,White,Size,M,,,Quality,1,0,0,0,0,0
+75f569c4-6c0c-11e2-b1f5-4040782fde00,harvard-summer-school-t-shirt-1,3272,Harvard Summer School T-Shirt (Vintage),Color,White,Size,L,,,Quality,1,0,0,0,0,0
+76b0c0f7-6c0c-11e2-b1f5-4040782fde00,harvard-summer-school-t-shirt-1,3273,Harvard Summer School T-Shirt (Vintage),Color,White,Size,XL,,,Quality,1,0,0,0,0,0
+7759c516-6c0c-11e2-b1f5-4040782fde00,harvard-summer-school-t-shirt-1,3274,Harvard Summer School T-Shirt (Vintage),Color,White,Size,XXL,,,Quality,1,0,0,0,0,0
+74664742-6c0c-11e2-b1f5-4040782fde00,the-harvard-t-shirt-keychain,784,Harvard T-Shirt Keychain,Color,Crimson,,,,,FREEDOM,1,108,27,8,11,0
+7496d333-6c0c-11e2-b1f5-4040782fde00,harvard-sweatpants,3114,Harvard Sweatpants,Color,Crimson,Size,S,,,Quality,1,41,2,1,1,144
+756892cb-6c0c-11e2-b1f5-4040782fde00,harvard-sweatpants,3115,Harvard Sweatpants,Color,Crimson,Size,M,,,Quality,1,8,2,0,3,252
+7615a3eb-6c0c-11e2-b1f5-4040782fde00,harvard-sweatpants,3116,Harvard Sweatpants,Color,Crimson,Size,L,,,Quality,1,47,2,2,3,108
+76c6c39e-6c0c-11e2-b1f5-4040782fde00,harvard-sweatpants,3117,Harvard Sweatpants,Color,Crimson,Size,XL,,,Quality,1,0,0,2,1,144
+777104fa-6c0c-11e2-b1f5-4040782fde00,harvard-sweatpants,3150,Harvard Sweatpants,Color,Ivory,Size,S,,,Quality,1,7,2,0,2,252
+780c2ce2-6c0c-11e2-b1f5-4040782fde00,harvard-sweatpants,3151,Harvard Sweatpants,Color,Ivory,Size,M,,,Quality,1,43,2,3,0,180
+78bf1340-6c0c-11e2-b1f5-4040782fde00,harvard-sweatpants,3152,Harvard Sweatpants,Color,Ivory,Size,L,,,Quality,1,25,2,2,3,180
+7969a9d5-6c0c-11e2-b1f5-4040782fde00,harvard-sweatpants,10416,Harvard Sweatpants,Color,Ivory,Size,XL,,,Quality,1,61,2,2,8,144
+74ed4a39-6c0c-11e2-b1f5-4040782fde00,harvard-varsity-8-vintage-photo,2991,Harvard Varsity 8 Vintage Photo,Title,1 Photo,,,,,ICONCEPT,1,0,0,0,0,0
+7536bd5c-cf9f-11e2-a415-bc764e10976c,harvardkeyfob,10071,Harvard Key Fob,Color,Crimson,,,,,Smathers and Branson,1,0,0,0,5,0
+758e7eaf-6c0c-11e2-b1f5-4040782fde00,harvard-classic-tote,3959,Harvard Vineyard Vines Classic Tote,Color,Crimson,,,,,Vineyard Vines,1,38,3,2,2,0
+a0ae8e7f-845f-11e3-a0f5-b8ca3a64f8f4,harvard-classic-tote,10262,Harvard Vineyard Vines Classic Tote,Color,Navy,,,,,Vineyard Vines,1,54,4,1,2,0
+75c5a9a9-6c0c-11e2-b1f5-4040782fde00,harvard-shot-glass,838,Harvard Crest Whiskey Shot Glass,Title,Harvard Crest,,,,NORDIC,1,49,3,8,13,0,
+75d2d1ca-09df-11e3-a415-bc764e10976c,BlackWhitePhoto,2993,Black & White Photo,,,,,,ICONCEPT,1,0,0,0,0,0,
+77343c50-6c3a-11e2-b1f5-4040782fde00,HarvardKennedySchoolPolo,732,Harvard Kennedy School Polo,Size,S,Color,Crimson,,,Velocity,1,0,0,0,0,0
+0dd3ad14-6c3b-11e2-b1f5-4040782fde00,HarvardKennedySchoolPolo,3042,Harvard Kennedy School Polo,Size,XXL,Color,Black,,,Velocity,1,0,0,0,0,0
+38d9f655-6c3b-11e2-b1f5-4040782fde00,HarvardKennedySchoolPolo,2644,Harvard Kennedy School Polo,Size,S,Color,Black,,,Velocity,1,0,0,0,0,0
+5104ee09-6c3b-11e2-b1f5-4040782fde00,HarvardKennedySchoolPolo,2646,Harvard Kennedy School Polo,Size,L,Color,Black,,,Velocity,1,3,0,0,0,0
+755d8697-6c3f-11e2-b1f5-4040782fde00,HarvardKennedySchoolPolo,733,Harvard Kennedy School Polo,Size,M,Color,Crimson,,,Velocity,1,0,0,0,0,0
+8ccfe1b7-6c3b-11e2-b1f5-4040782fde00,HarvardKennedySchoolPolo,2645,Harvard Kennedy School Polo,Size,M,Color,Black,,,Velocity,1,0,0,0,0,0
+9e2636af-6c3a-11e2-b1f5-4040782fde00,HarvardKennedySchoolPolo,734,Harvard Kennedy School Polo,Size,L,Color,Crimson,,,Velocity,1,0,0,0,0,0
+b93b4ede-6c3a-11e2-b1f5-4040782fde00,HarvardKennedySchoolPolo,735,Harvard Kennedy School Polo,Size,XL,Color,Crimson,,,Velocity,1,0,0,0,0,0
+de61c7f1-6c3a-11e2-b1f5-4040782fde00,HarvardKennedySchoolPolo,2647,Harvard Kennedy School Polo,Size,XL,Color,Black,,,Velocity,1,1,0,0,0,0
+fcdfef6b-6c3a-11e2-b1f5-4040782fde00,HarvardKennedySchoolPolo,736,Harvard Kennedy School Polo,Size,XXL,Color,Crimson,,,Velocity,1,9,0,0,0,0
+7746b9df-6c0c-11e2-b1f5-4040782fde00,harvard-wristband,41,Harvard Wristband,Color,Crimson,,,,,Quality,1,396,16,15,26,0
+783f9591-6c0c-11e2-b1f5-4040782fde00,harvard-youth-crest-t-shirt,3098,Harvard Youth Crest T-Shirt,Color,Crimson,Size,YXS,,,Quality,1,13,1,4,5,360
+790b9243-6c0c-11e2-b1f5-4040782fde00,harvard-youth-crest-t-shirt,3099,Harvard Youth Crest T-Shirt,Color,Crimson,Size,YS,,,Quality,1,13,2,8,5,288
+79a30f87-6c0c-11e2-b1f5-4040782fde00,harvard-youth-crest-t-shirt,3100,Harvard Youth Crest T-Shirt,Color,Crimson,Size,YM,,,Quality,1,20,2,9,5,288
+7a450eb4-6c0c-11e2-b1f5-4040782fde00,harvard-youth-crest-t-shirt,3101,Harvard Youth Crest T-Shirt,Color,Crimson,Size,YL,,,Quality,1,43,2,3,6,288
+7adeabbc-6c0c-11e2-b1f5-4040782fde00,harvard-youth-crest-t-shirt,3094,Harvard Youth Crest T-Shirt,Color,Oxford,Size,YXS,,,Quality,1,48,2,7,5,288
+7b8799cb-6c0c-11e2-b1f5-4040782fde00,harvard-youth-crest-t-shirt,3095,Harvard Youth Crest T-Shirt,Color,Oxford,Size,YS,,,Quality,1,27,3,5,6,288
+7c29e775-6c0c-11e2-b1f5-4040782fde00,harvard-youth-crest-t-shirt,3096,Harvard Youth Crest T-Shirt,Color,Oxford,Size,YM,,,Quality,1,24,2,10,6,504
+7cbe20c0-6c0c-11e2-b1f5-4040782fde00,harvard-youth-crest-t-shirt,3097,Harvard Youth Crest T-Shirt,Color,Oxford,Size,YL,,,Quality,1,15,2,7,5,288
+7d4dff3d-6c0c-11e2-b1f5-4040782fde00,harvard-youth-crest-t-shirt,3383,Harvard Youth Crest T-Shirt,Color,Pink,Size,YXS,,,Quality,1,10,1,5,4,288
+7de74fd6-6c0c-11e2-b1f5-4040782fde00,harvard-youth-crest-t-shirt,3384,Harvard Youth Crest T-Shirt,Color,Pink,Size,YS,,,Quality,1,39,2,8,5,288
+7e83a429-6c0c-11e2-b1f5-4040782fde00,harvard-youth-crest-t-shirt,3385,Harvard Youth Crest T-Shirt,Color,Pink,Size,YM,,,Quality,1,64,2,11,8,360
+7f31b0a2-6c0c-11e2-b1f5-4040782fde00,harvard-youth-crest-t-shirt,3386,Harvard Youth Crest T-Shirt,Color,Pink,Size,YL,,,Quality,1,37,2,15,5,504
+784504db-6c0c-11e2-b1f5-4040782fde00,harvard-youth-arc-t-shirt,3683,Harvard Youth Arc T-Shirt,Color,Crimson,Size,YXS,,,Quality,1,62,2,5,6,432
+7920933c-6c0c-11e2-b1f5-4040782fde00,harvard-youth-arc-t-shirt,3684,Harvard Youth Arc T-Shirt,Color,Crimson,Size,YS,,,Quality,1,86,2,4,4,288
+79c61c78-6c0c-11e2-b1f5-4040782fde00,harvard-youth-arc-t-shirt,3685,Harvard Youth Arc T-Shirt,Color,Crimson,Size,YM,,,Quality,1,98,2,6,6,504
+7a6e669c-6c0c-11e2-b1f5-4040782fde00,harvard-youth-arc-t-shirt,3686,Harvard Youth Arc T-Shirt,Color,Crimson,Size,YL,,,Quality,1,82,2,4,8,288
+7b0b7e6e-6c0c-11e2-b1f5-4040782fde00,harvard-youth-arc-t-shirt,659,Harvard Youth Arc T-Shirt,Color,Oxford,Size,YXS,,,Quality,1,58,2,7,4,504
+7bb6dde7-6c0c-11e2-b1f5-4040782fde00,harvard-youth-arc-t-shirt,660,Harvard Youth Arc T-Shirt,Color,Oxford,Size,YS,,,Quality,1,44,2,8,4,432
+7c626266-6c0c-11e2-b1f5-4040782fde00,harvard-youth-arc-t-shirt,661,Harvard Youth Arc T-Shirt,Color,Oxford,Size,YM,,,Quality,1,41,1,7,4,288
+7cff2396-6c0c-11e2-b1f5-4040782fde00,harvard-youth-arc-t-shirt,662,Harvard Youth Arc T-Shirt,Color,Oxford,Size,YL,,,Quality,1,52,2,6,10,360
+7a0ba7d4-6c0c-11e2-b1f5-4040782fde00,harvard-yale-track-meet-vintage-photo,2986,Harvard-Yale Track Meet Vintage Photo,Title,1 Photo,,,,,ICONCEPT,1,0,0,0,0,0
+7c7a3044-6c0c-11e2-b1f5-4040782fde00,i-3-harvard-keychain,1102,I Love Harvard Keychain,Color,White,,,,,FREEDOM,1,170,76,36,28,0
+7d05dcca-6c0c-11e2-b1f5-4040782fde00,inside-harvard,4999,Inside Harvard,Edition,1st Edition,,,,,HSA Publications,1,0,0,0,0,0
+712af4a7-f9f9-11e2-a415-bc764e10976c,inside-harvard,10114,Inside Harvard,Edition,2nd Edition,,,,,HSA Publications,1,0,0,0,0,0
+7d4386de-c941-11e2-a415-bc764e10976c,HarvardGraduateSchoolofEducationFrame,10064,Harvard Graduate School of Education Frame,,,,University Frames,1,0,0,0,0,0,,,
+7de75f00-9683-11e3-a0f5-b8ca3a64f8f4,HarvardPremiumKeychain,10272,Harvard Premium Keychain,Style,Athletic H,,,,,"GloDesign, Inc.",1,0,0,0,0,0
+b8ca3a65-013d-11e4-fbb5-7f5a7236ac3b,HarvardPremiumKeychain,10379,Harvard Premium Keychain,Style,Crest red,,,,,"GloDesign, Inc.",1,0,0,0,0,0
+b8ca3a65-013d-11e4-fbb5-7f5a7c550026,HarvardPremiumKeychain,10380,Harvard Premium Keychain,Style,Crest gold,,,,,"GloDesign, Inc.",1,0,0,0,0,0
+b8ca3a65-013d-11e4-fbb5-7f5a83741d80,HarvardPremiumKeychain,10381,Harvard Premium Keychain,Style,HBS,,,,,"GloDesign, Inc.",1,0,0,0,0,0
+b8ca3a65-013d-11e4-fbb5-7f5a872afcfc,HarvardPremiumKeychain,10382,Harvard Premium Keychain,Style,HLS,,,,,"GloDesign, Inc.",1,0,0,0,0,0
+81eb527e-6c0c-11e2-b1f5-4040782fde00,john-harvard-statue-vintage-photo,2984,John Harvard Statue (1930) Vintage Photo,Title,1 Photo,,,,,ICONCEPT,1,0,0,0,0,0
+828131c9-6c0c-11e2-b1f5-4040782fde00,johnston-gate-vintage-photo,2987,Johnston Gate Vintage Photo,Title,1 Photo,,,,,ICONCEPT,1,0,0,0,0,0
+83095576-6c0c-11e2-b1f5-4040782fde00,large-harvard-pennant,939,Large Harvard Pennant,Color,Crimson,,,,,Collegiate Pacific,1,151,13,10,6,0
+831169fe-6c0c-11e2-b1f5-4040782fde00,memorial-hall-vintage-photo,853,Memorial Hall Vintage Photo,Title,1 Photo,,,,,ICONCEPT,1,0,0,0,0,0
+84968057-fb6d-9c4d-61b3-5de314f7fe0e,TheAlejandraHoodie,11262,"The ""Alejandra"" Youth Hoodie",Colour,Ivory,Size,XS,,,Apparel Empire,1,14,2,2,2,0
+08374f8b-3861-77a1-3141-608ee3562297,TheAlejandraHoodie,11263,"The ""Alejandra"" Youth Hoodie",Colour,Ivory,Size,S,,,Apparel Empire,1,29,2,2,2,0
+0c84a3e8-bbb9-1372-190c-00e5fde2aadc,TheAlejandraHoodie,11266,"The ""Alejandra"" Youth Hoodie",Colour,Ivory,Size,XL,,,Apparel Empire,1,10,0,2,2,0
+d71c3693-2be5-a902-f6fc-43735b7b889c,TheAlejandraHoodie,11264,"The ""Alejandra"" Youth Hoodie",Colour,Ivory,Size,M,,,Apparel Empire,1,33,2,2,3,0
+e0bebdd6-13ec-d37e-c7fe-53981e6c26fd,TheAlejandraHoodie,11265,"The ""Alejandra"" Youth Hoodie",Colour,Ivory,Size,L,,,Apparel Empire,1,25,2,2,2,0
+84ad3c85-6c34-11e2-b1f5-4040782fde00,harvard-kennedy-school-of-government-t-shirt,1,Harvard Kennedy School of Government T-Shirt,Size,S,Color,Crimson,,,Comprint,1,1,0,0,0,0
+622f8b80-6c0c-11e2-b1f5-4040782fde00,harvard-kennedy-school-of-government-t-shirt,527,Harvard Kennedy School of Government T-Shirt,Size,S,Color,Crimson,,,Comprint,1,19,0,105,0,0
+632bcdd6-6c0c-11e2-b1f5-4040782fde00,harvard-kennedy-school-of-government-t-shirt,528,Harvard Kennedy School of Government T-Shirt,Size,M,Color,Crimson,,,Comprint,1,11,0,66,0,0
+63c281ce-6c0c-11e2-b1f5-4040782fde00,harvard-kennedy-school-of-government-t-shirt,529,Harvard Kennedy School of Government T-Shirt,Size,L,Color,Crimson,,,Comprint,1,14,0,53,0,0
+6464a843-6c0c-11e2-b1f5-4040782fde00,harvard-kennedy-school-of-government-t-shirt,530,Harvard Kennedy School of Government T-Shirt,Size,XL,Color,Crimson,,,Comprint,1,10,0,48,0,0
+64fa43b9-6c0c-11e2-b1f5-4040782fde00,harvard-kennedy-school-of-government-t-shirt,531,Harvard Kennedy School of Government T-Shirt,Size,XXL,Color,Crimson,,,Comprint,1,8,0,48,0,0
+65875a3d-6c0c-11e2-b1f5-4040782fde00,harvard-kennedy-school-of-government-t-shirt,539,Harvard Kennedy School of Government T-Shirt,Size,S,Color,Oxford,,,Comprint,1,17,0,84,0,0
+661ea9b3-6c0c-11e2-b1f5-4040782fde00,harvard-kennedy-school-of-government-t-shirt,540,Harvard Kennedy School of Government T-Shirt,Size,M,Color,Oxford,,,Comprint,1,25,0,45,0,0
+66c93f64-6c0c-11e2-b1f5-4040782fde00,harvard-kennedy-school-of-government-t-shirt,541,Harvard Kennedy School of Government T-Shirt,Size,L,Color,Oxford,,,Comprint,1,3,0,44,0,0
+6769d39a-6c0c-11e2-b1f5-4040782fde00,harvard-kennedy-school-of-government-t-shirt,542,Harvard Kennedy School of Government T-Shirt,Size,XL,Color,Oxford,,,Comprint,1,4,0,40,0,0
+681d301b-6c0c-11e2-b1f5-4040782fde00,harvard-kennedy-school-of-government-t-shirt,543,Harvard Kennedy School of Government T-Shirt,Size,XXL,Color,Oxford,,,Comprint,1,7,0,52,0,0
+863063ca-6c0c-11e2-b1f5-4040782fde00,blue-harvard-shot-glass,4027,Metallic Crest Shot Glass,Color,Blue,,,,,Quality,1,0,0,0,0,0
+86b8fa65-6c0c-11e2-b1f5-4040782fde00,blue-harvard-shot-glass,4028,Metallic Crest Shot Glass,Color,Crimson,,,,,Quality,1,0,0,0,0,0
+8690d7ec-6c0c-11e2-b1f5-4040782fde00,shep-shirt,2377,Vineyard Vines Shep Shirt,Color,Navy,Size,S,,,Vineyard Vines,1,33,0,3,2,0
+876bd27a-6c0c-11e2-b1f5-4040782fde00,shep-shirt,2378,Vineyard Vines Shep Shirt,Color,Navy,Size,M,,,Vineyard Vines,1,13,0,3,2,0
+8813c01c-6c0c-11e2-b1f5-4040782fde00,shep-shirt,2379,Vineyard Vines Shep Shirt,Color,Navy,Size,L,,,Vineyard Vines,1,22,0,2,2,0
+88b582f8-6c0c-11e2-b1f5-4040782fde00,shep-shirt,2380,Vineyard Vines Shep Shirt,Color,Navy,Size,XL,,,Vineyard Vines,1,18,0,0,2,0
+88658331-6c0c-11e2-b1f5-4040782fde00,plaid-flannel-pjs,4937,Harvard Plaid Flannel PJ's,Size,S,,,,,Boxercraft,1,0,0,0,0,0
+89378c87-6c0c-11e2-b1f5-4040782fde00,plaid-flannel-pjs,4938,Harvard Plaid Flannel PJ's,Size,M,,,,,Boxercraft,1,0,0,0,0,0
+89e382e4-6c0c-11e2-b1f5-4040782fde00,plaid-flannel-pjs,4939,Harvard Plaid Flannel PJ's,Size,L,,,,,Boxercraft,1,0,0,0,0,0
+8a790ae4-6c0c-11e2-b1f5-4040782fde00,plaid-flannel-pjs,4940,Harvard Plaid Flannel PJ's,Size,XL,,,,,Boxercraft,1,2,1,0,0,0
+889d76ea-7b9f-11e2-b1f5-4040782fde00,hellokittyt-shirtsyouth,10009,Hello Kitty T-shirts Youth,Size,S (ages 6-7),,,,,MyU,1,0,0,0,0,0
+97860cd2-7b9f-11e2-b1f5-4040782fde00,hellokittyt-shirtsyouth,10010,Hello Kitty T-shirts Youth,Size,M (age 8),,,,,MyU,1,0,0,0,0,0
+9b749d5c-7b9f-11e2-b1f5-4040782fde00,hellokittyt-shirtsyouth,10011,Hello Kitty T-shirts Youth,Size,L (age 10),,,,,MyU,1,0,0,0,0,0
+ab4f79d1-ec01-11e3-a0f5-b8ca3a64f8f4,hellokittyt-shirtsyouth,10302,Hello Kitty T-shirts Youth,Size,XL (age 12),,,,,MyU,1,0,0,0,0,0
+8938188b-6c0c-11e2-b1f5-4040782fde00,rectangular-harvard-pennant,627,Rectangular Harvard Pennant,Color,Crimson,,,,,Collegiate Pacific,1,249,8,9,2,0
+8a77be43-6c0c-11e2-b1f5-4040782fde00,red-harvard-pen,2720,Red Harvard Pen,Color,Crimson,,,,,Quality,1,54,6,8,29,0
+8c18b781-6c0c-11e2-b1f5-4040782fde00,small-harvard-pennant,867,Small Harvard Pennant,Color,Crimson,,,,,Collegiate Pacific,1,281,17,15,17,0
+8cf7f89a-6c0c-11e2-b1f5-4040782fde00,spinner-keychain,2870,Spinner Keychain,Title,Spinner,,,,,FREEDOM,1,131,19,12,0,0
+8d64b5f5-9c94-11e2-b1f5-4040782fde00,youth-rocker,YouthRockerWithoutPersona,Youth Rocker,Title,Without Personalization,Shield,Harvard Graduate School of Public Health,Standard Chair,1,0,0,0,0,0,,
+922b0cdd-9c94-11e2-b1f5-4040782fde00,youth-rocker,YouthRockerWithPersonaliz,Youth Rocker,Title,With Personalization,Shield,Harvard Graduate School of Public Health,Standard Chair,1,0,0,0,0,0,,
+9b8e326c-6c0c-11e2-b1f5-4040782fde00,the-red-harvard-mug,2719,The Red Harvard Mug,Color,Crimson,,,,,Quality,1,0,0,0,0,0
+a0369f1f-903d-11e4-f68e-bf944ffd0884,harvard-graduate-school-of-education-crest-t-shirt-2,3729,HGSE Crest T-Shirt,Color,Red,Size,M,,,Quality,1,7,0,103,0,0
+060f02b1-c83d-11e6-e913-e26fdf1df2df,harvard-graduate-school-of-education-crest-t-shirt-2,10842,HGSE Crest T-Shirt,Color,Crimson,Size,XS,,,Quality,1,0,0,0,0,0
+060f02b1-c83d-11e6-e913-e26fe6f19291,harvard-graduate-school-of-education-crest-t-shirt-2,10843,HGSE Crest T-Shirt,Color,Crimson,Size,S,,,Quality,1,0,0,78,0,0
+060f02b1-c83d-11e6-e913-e26feabd269c,harvard-graduate-school-of-education-crest-t-shirt-2,10844,HGSE Crest T-Shirt,Color,Crimson,Size,M,,,Quality,1,4,0,33,0,0
+060f02b1-c83d-11e6-e913-e26ff9d51e19,harvard-graduate-school-of-education-crest-t-shirt-2,10845,HGSE Crest T-Shirt,Color,Crimson,Size,L,,,Quality,1,0,0,47,0,0
+060f02b1-c83d-11e6-e913-e26ffe4d9a4b,harvard-graduate-school-of-education-crest-t-shirt-2,10846,HGSE Crest T-Shirt,Color,Crimson,Size,XL,,,Quality,1,0,0,20,0,0
+060f02b1-c83d-11e6-e913-e270028ad895,harvard-graduate-school-of-education-crest-t-shirt-2,10847,HGSE Crest T-Shirt,Color,Crimson,Size,XXL,,,Quality,1,-1,0,9,0,0
+a0369f1f-903d-11e4-f68e-bf94502e98fe,harvard-graduate-school-of-education-crest-t-shirt-2,3730,HGSE Crest T-Shirt,Color,Red,Size,L,,,Quality,1,5,0,74,0,0
+a0369f1f-903d-11e4-f68e-bf9450545264,harvard-graduate-school-of-education-crest-t-shirt-2,3731,HGSE Crest T-Shirt,Color,Red,Size,XL,,,Quality,1,3,0,74,0,0
+a0369f1f-903d-11e4-f68e-bf9450785c51,harvard-graduate-school-of-education-crest-t-shirt-2,4070,HGSE Crest T-Shirt,Color,Red,Size,XXL,,,Quality,1,3,0,15,0,0
+a0369f1f-903d-11e4-f68e-bf945099c373,harvard-graduate-school-of-education-crest-t-shirt-2,3732,HGSE Crest T-Shirt,Color,Navy,Size,S,,,Quality,1,1,0,59,0,0
+a0369f1f-903d-11e4-f68e-bf9450bce436,harvard-graduate-school-of-education-crest-t-shirt-2,3733,HGSE Crest T-Shirt,Color,Navy,Size,M,,,Quality,1,3,0,65,0,0
+a0369f1f-903d-11e4-f68e-bf9450e0436c,harvard-graduate-school-of-education-crest-t-shirt-2,3782,HGSE Crest T-Shirt,Color,Navy,Size,L,,,Quality,1,3,0,56,0,0
+a0369f1f-903d-11e4-f68e-bf945109626b,harvard-graduate-school-of-education-crest-t-shirt-2,3889,HGSE Crest T-Shirt,Color,Navy,Size,XL,,,Quality,1,4,0,48,0,0
+a0369f1f-903d-11e4-f68e-bf945124e5ea,harvard-graduate-school-of-education-crest-t-shirt-2,4107,HGSE Crest T-Shirt,Color,Navy,Size,XXL,,,Quality,1,2,0,20,0,0
+a0369f1f-903d-11e4-f68e-bf945176646b,harvard-graduate-school-of-education-crest-t-shirt-2,3728,HGSE Crest T-Shirt,Color,Red,Size,S,,,Quality,1,3,0,86,0,0
+a0369f1f-903d-11e4-f68e-c2b03f5ef7fc,ToddlerHarvardCrestT-shirt,10418,Toddler Harvard Crest T-shirt,Color,Oxford,Size,2T,,,Quality,1,19,4,0,0,0
+a0369f1f-903d-11e4-f68e-c2b15cf20a80,ToddlerHarvardCrestT-shirt,10420,Toddler Harvard Crest T-shirt,Color,Oxford,Size,3T,,,Quality,1,31,0,0,0,0
+a0369f1f-903d-11e4-f68e-c2b169da5ca5,ToddlerHarvardCrestT-shirt,10421,Toddler Harvard Crest T-shirt,Color,Oxford,Size,4T,,,Quality,1,6,8,0,0,0
+a0369f1f-903d-11e4-f68e-c2b16e5aee96,ToddlerHarvardCrestT-shirt,10422,Toddler Harvard Crest T-shirt,Color,Oxford,Size,5T,,,Quality,1,15,3,0,0,0
+a0369f1f-903d-11e4-f68e-c2b1769da7a2,ToddlerHarvardCrestT-shirt,10423,Toddler Harvard Crest T-shirt,Color,Pink,Size,2T,,,Quality,1,16,4,0,0,0
+a0369f1f-903d-11e4-f68e-c2b17ea74d44,ToddlerHarvardCrestT-shirt,10424,Toddler Harvard Crest T-shirt,Color,Pink,Size,3T,,,Quality,1,2,0,0,0,0
+a0369f1f-903d-11e4-f68e-c2b185283e26,ToddlerHarvardCrestT-shirt,10425,Toddler Harvard Crest T-shirt,Color,Pink,Size,4T,,,Quality,1,2,0,0,0,0
+a0369f1f-903d-11e4-f68e-c2b18c6d2d5d,ToddlerHarvardCrestT-shirt,10426,Toddler Harvard Crest T-shirt,Color,Pink,Size,5T,,,Quality,1,2,0,0,0,0
+a0369f1f-903d-11e4-f68e-c9b7cf587593,HLongSleeveT-shirt,10436,H Long Sleeve T-shirt,Color,Crimson,Size,S,,,Comprint,1,44,3,3,2,0
+a0369f1f-903d-11e4-f68e-c9b7e88e6864,HLongSleeveT-shirt,10437,H Long Sleeve T-shirt,Color,Crimson,Size,M,,,Comprint,1,34,2,2,1,0
+a0369f1f-903d-11e4-f68e-c9b7ee01124f,HLongSleeveT-shirt,10438,H Long Sleeve T-shirt,Color,Crimson,Size,L,,,Comprint,1,42,4,2,2,0
+a0369f1f-903d-11e4-f68e-c9b7f9e950a2,HLongSleeveT-shirt,10439,H Long Sleeve T-shirt,Color,Crimson,Size,XL,,,Comprint,1,49,2,2,4,0
+a0369f1f-903d-11e4-f68e-c9bc2a8f2d17,CapriFitYogaPants,10440,Capri Fit Yoga Pants,Size,S,Color,Black,,,Comprint,1,0,0,0,0,0
+a0369f1f-903d-11e4-f68e-c9bc2e19c5e7,CapriFitYogaPants,10441,Capri Fit Yoga Pants,Size,M,Color,Black,,,Comprint,1,0,0,0,0,0
+a0369f1f-903d-11e4-f68e-c9bc314ca1ee,CapriFitYogaPants,10442,Capri Fit Yoga Pants,Size,L,Color,Black,,,Comprint,1,1,0,0,0,0
+a0369f1f-903d-11e4-f68e-c9bc347623b7,CapriFitYogaPants,10443,Capri Fit Yoga Pants,Size,XL,Color,Black,,,Comprint,1,11,0,0,2,0
+a0369f1f-903d-11e4-f68e-d3ef45215092,VeritasTShirt,10444,Veritas T-Shirt,Size,S,Color,Red,,,Comprint,1,24,0,0,0,0
+a0369f1f-903d-11e4-f68e-d3ef4bf56f0e,VeritasTShirt,10445,Veritas T-Shirt,Size,M,Color,Red,,,Comprint,1,0,0,0,0,0
+a0369f1f-903d-11e4-f68e-d3ef4f61a264,VeritasTShirt,10446,Veritas T-Shirt,Size,L,Color,Red,,,Comprint,1,0,0,0,0,0
+a0369f1f-903d-11e4-f68e-d3ef53a05823,VeritasTShirt,10447,Veritas T-Shirt,Size,XL,Color,Red,,,Comprint,1,0,6,0,0,0
+a0369f1f-903d-11e4-f68e-d3ef57d7015a,VeritasTShirt,10448,Veritas T-Shirt,Size,S,Color,Black,,,Comprint,1,30,0,0,0,0
+a0369f1f-903d-11e4-f68e-d3ef5c4aa078,VeritasTShirt,10449,Veritas T-Shirt,Size,M,Color,Black,,,Comprint,1,0,0,0,0,0
+a0369f1f-903d-11e4-f68e-d3ef9a66ea16,VeritasTShirt,10450,Veritas T-Shirt,Size,L,Color,Black,,,Comprint,1,0,0,0,0,0
+a0369f1f-903d-11e4-f68e-d3ef9f167b45,VeritasTShirt,10451,Veritas T-Shirt,Size,XL,Color,Black,,,Comprint,1,0,0,0,0,0
+a0369f1f-903d-11e4-f68e-d715e1780bd6,VeritasRacerbackTank,10452,Veritas Racerback Tank,Color,Charcoal,Size,Small,,,Comprint,1,0,0,0,0,0
+a0369f1f-903d-11e4-f68e-d715e54e91e7,VeritasRacerbackTank,10453,Veritas Racerback Tank,Color,Charcoal,Size,Medium,,,Comprint,1,0,0,0,0,0
+a0369f1f-903d-11e4-f68e-d715e8aa076b,VeritasRacerbackTank,10454,Veritas Racerback Tank,Color,Charcoal,Size,Large,,,Comprint,1,0,0,0,0,0
+a0369f1f-903d-11e4-f68e-d715ec4fd79e,VeritasRacerbackTank,10455,Veritas Racerback Tank,Color,Charcoal,Size,X-Large,,,Comprint,1,4,0,0,0,0
+a0369f1f-903d-11e4-f68e-d7c18262aa2e,harvard-graduate-school-of-education-t-shirt-1,4492,Harvard Graduate School of Education T-Shirt,Color,Oxford,Size,S,,,Comprint,1,9,0,32,0,0
+a0369f1f-903d-11e4-f68e-d7c182b272aa,harvard-graduate-school-of-education-t-shirt-1,4493,Harvard Graduate School of Education T-Shirt,Color,Oxford,Size,M,,,Comprint,1,0,0,2,0,0
+a0369f1f-903d-11e4-f68e-d7c182de557f,harvard-graduate-school-of-education-t-shirt-1,4494,Harvard Graduate School of Education T-Shirt,Color,Oxford,Size,L,,,Comprint,1,0,0,3,0,0
+a0369f1f-903d-11e4-f68e-d7c1830e3081,harvard-graduate-school-of-education-t-shirt-1,4495,Harvard Graduate School of Education T-Shirt,Color,Oxford,Size,XL,,,Comprint,1,2,0,13,0,0
+a0369f1f-903d-11e4-f68e-d7c1833d0436,harvard-graduate-school-of-education-t-shirt-1,4484,Harvard Graduate School of Education T-Shirt,Color,Crimson,Size,S,,,Comprint,1,4,0,9,0,0
+a0369f1f-903d-11e4-f68e-d7c1836442c2,harvard-graduate-school-of-education-t-shirt-1,4485,Harvard Graduate School of Education T-Shirt,Color,Crimson,Size,M,,,Comprint,1,0,0,0,0,0
+a0369f1f-903d-11e4-f68e-d7c1838eccde,harvard-graduate-school-of-education-t-shirt-1,4486,Harvard Graduate School of Education T-Shirt,Color,Crimson,Size,L,,,Comprint,1,0,0,1,0,0
+a0369f1f-903d-11e4-f68e-d7c183b31d71,harvard-graduate-school-of-education-t-shirt-1,4487,Harvard Graduate School of Education T-Shirt,Color,Crimson,Size,XL,,,Comprint,1,0,0,0,0,0
+a1f4ce62-c440-b61f-e6a1-f77476b3e7a1,LadiesLongSleeveCrestTriblend,11267,Ladies Long Sleeve Crest Triblend,Colour,Crimson,Size,XS,,,Apparel Empire,1,10,1,0,2,0
+684878fe-3aa9-01ac-b67e-4ffd5b2f7a83,LadiesLongSleeveCrestTriblend,11270,Ladies Long Sleeve Crest Triblend,Colour,Crimson,Size,L,,,Apparel Empire,1,16,2,0,2,0
+7e9adca5-35b2-aa54-8c74-068440903e9b,LadiesLongSleeveCrestTriblend,11271,Ladies Long Sleeve Crest Triblend,Colour,Crimson,Size,XL,,,Apparel Empire,1,11,2,0,2,0
+a155a9ca-3e9d-bb9a-4286-425e91fc9ac5,LadiesLongSleeveCrestTriblend,11269,Ladies Long Sleeve Crest Triblend,Colour,Crimson,Size,M,,,Apparel Empire,1,17,0,0,2,0
+a67f3710-8a73-8139-6a47-5185182f84c7,LadiesLongSleeveCrestTriblend,11268,Ladies Long Sleeve Crest Triblend,Colour,Crimson,Size,S,,,Apparel Empire,1,6,1,0,2,0
+a7a05ef8-6c0c-11e2-b1f5-4040782fde00,vineyard-vines-harvard-belt,3216,Vineyard Vines Harvard Belt,Color,Navy,Size,30,,,Vineyard Vines,1,27,0,0,2,0
+a814c00f-6c0c-11e2-b1f5-4040782fde00,vineyard-vines-harvard-belt,2413,Vineyard Vines Harvard Belt,Color,Navy,Size,32,,,Vineyard Vines,1,17,0,0,2,0
+a84ad3f3-6c0c-11e2-b1f5-4040782fde00,vineyard-vines-harvard-belt,2414,Vineyard Vines Harvard Belt,Color,Navy,Size,34,,,Vineyard Vines,1,11,0,0,3,0
+a88a54f4-6c0c-11e2-b1f5-4040782fde00,vineyard-vines-harvard-belt,2415,Vineyard Vines Harvard Belt,Color,Navy,Size,36,,,Vineyard Vines,1,12,0,0,4,0
+a8c4365f-6c0c-11e2-b1f5-4040782fde00,vineyard-vines-harvard-belt,2416,Vineyard Vines Harvard Belt,Color,Navy,Size,38,,,Vineyard Vines,1,7,0,0,2,0
+a8fd1046-6c0c-11e2-b1f5-4040782fde00,vineyard-vines-harvard-belt,2417,Vineyard Vines Harvard Belt,Color,Navy,Size,40,,,Vineyard Vines,1,24,0,10,3,0
+a934c7e4-6c0c-11e2-b1f5-4040782fde00,vineyard-vines-harvard-belt,2418,Vineyard Vines Harvard Belt,Color,Navy,Size,42,,,Vineyard Vines,1,34,0,0,2,0
+a96ff873-6c0c-11e2-b1f5-4040782fde00,vineyard-vines-harvard-belt,2419,Vineyard Vines Harvard Belt,Color,Navy,Size,44,,,Vineyard Vines,1,15,0,5,2,0
+a7b3537e-6c0c-11e2-b1f5-4040782fde00,vineyard-vines-bowtie,3204,Vineyard Vines Harvard Bow Tie,Color,Crimson,Pattern,Vine & Ivy,,,Vineyard Vines,1,39,0,0,7,0
+a84fbe27-6c0c-11e2-b1f5-4040782fde00,vineyard-vines-harvard-tie,3206,Vineyard Vines Harvard Tie,Color,Crimson,Pattern,Vine and Ivy,,,Vineyard Vines,1,0,0,0,0,0
+bc6a1b39-f23c-11e3-a0f5-b8ca3a64f8f4,vineyard-vines-harvard-tie,10323,Vineyard Vines Harvard Tie,Color,Light Blue,Pattern,Vine and Ivy,,,Vineyard Vines,1,16,0,0,4,0
+a9642ede-6c0c-11e2-b1f5-4040782fde00,vintage-crew-sweatshirt,3167,Vintage Crew Sweatshirt,Color,Oxford,Size,S,,,Quality,1,49,2,1,2,120
+81d205c4-d387-11e2-a415-bc764e10976c,vintage-crew-sweatshirt,10072,Vintage Crew Sweatshirt,Color,Oxford,Size,XXL,,,Quality,1,0,2,0,3,84
+a9f23cec-6c0c-11e2-b1f5-4040782fde00,vintage-crew-sweatshirt,3168,Vintage Crew Sweatshirt,Color,Oxford,Size,M,,,Quality,1,32,2,2,1,120
+aa42c5e3-6c0c-11e2-b1f5-4040782fde00,vintage-crew-sweatshirt,3169,Vintage Crew Sweatshirt,Color,Oxford,Size,L,,,Quality,1,27,2,2,2,96
+aa91755f-6c0c-11e2-b1f5-4040782fde00,vintage-crew-sweatshirt,3170,Vintage Crew Sweatshirt,Color,Oxford,Size,XL,,,Quality,1,13,2,2,2,96
+ad3bc380-9683-11e3-a0f5-b8ca3a64f8f4,HarvardLuggageTag,10273,Harvard Luggage Tag,Color,Crest red,,,,,"GloDesign, Inc.",1,0,0,0,0,0
+b553cf8f-9683-11e3-a0f5-b8ca3a64f8f4,HarvardLuggageTag,10274,Harvard Luggage Tag,Color,Crest gold,,,,,"GloDesign, Inc.",1,0,0,0,0,0
+b8ca3a65-013d-11e4-fbb5-7f5997f44a76,HarvardLuggageTag,10376,Harvard Luggage Tag,Color,Athletic H,,,,,"GloDesign, Inc.",1,0,0,0,0,0
+b8ca3a65-013d-11e4-fbb5-7f5a12f4995e,HarvardLuggageTag,10377,Harvard Luggage Tag,Color,HBS,,,,,"GloDesign, Inc.",1,0,0,0,0,0
+b8ca3a65-013d-11e4-fbb5-7f5a179c376d,HarvardLuggageTag,10378,Harvard Luggage Tag,Color,HLS,,,,,"GloDesign, Inc.",1,0,0,0,0,0
+b9a2dc6d-9683-11e3-a0f5-b8ca3a64f8f4,HarvardLuggageTag,10275,Harvard Luggage Tag,Color,Black,,,,,"GloDesign, Inc.",1,0,0,0,0,0
+b15461e8-6c0c-11e2-b1f5-4040782fde00,white-harvard-pen,2742,White Harvard Pen,Color,White,,,,,Quality,1,205,7,21,28,0
+b251536f-6c0c-11e2-b1f5-4040782fde00,womens-harvard-crest-tee,3773,Harvard Ladies Crest T-Shirt,Color,Oxford,Size,S,,,Quality,1,13,1,3,2,204
+b357b233-6c0c-11e2-b1f5-4040782fde00,womens-harvard-crest-tee,3774,Harvard Ladies Crest T-Shirt,Color,Oxford,Size,M,,,Quality,1,14,2,2,2,204
+b3fadd71-6c0c-11e2-b1f5-4040782fde00,womens-harvard-crest-tee,3775,Harvard Ladies Crest T-Shirt,Color,Oxford,Size,L,,,Quality,1,14,1,2,2,216
+b4ac0405-6c0c-11e2-b1f5-4040782fde00,womens-harvard-crest-tee,3776,Harvard Ladies Crest T-Shirt,Color,Oxford,Size,XL,,,Quality,1,25,3,2,2,144
+b54fd45c-6c0c-11e2-b1f5-4040782fde00,womens-harvard-crest-tee,3140,Harvard Ladies Crest T-Shirt,Color,Crimson,Size,S,,,Quality,1,65,3,2,3,324
+b6269ae9-6c0c-11e2-b1f5-4040782fde00,womens-harvard-crest-tee,3141,Harvard Ladies Crest T-Shirt,Color,Crimson,Size,M,,,Quality,1,35,3,2,4,324
+b6d8b8c2-6c0c-11e2-b1f5-4040782fde00,womens-harvard-crest-tee,3142,Harvard Ladies Crest T-Shirt,Color,Crimson,Size,L,,,Quality,1,91,3,2,2,264
+b781f22e-6c0c-11e2-b1f5-4040782fde00,womens-harvard-crest-tee,3337,Harvard Ladies Crest T-Shirt,Color,Crimson,Size,XL,,,Quality,1,-1,0,0,2,288
+b827899f-6c0c-11e2-b1f5-4040782fde00,womens-harvard-crest-tee,3769,Harvard Ladies Crest T-Shirt,Color,Pink,Size,S,,,Quality,1,17,2,2,2,0
+b8ca10f6-6c0c-11e2-b1f5-4040782fde00,womens-harvard-crest-tee,3770,Harvard Ladies Crest T-Shirt,Color,Pink,Size,M,,,Quality,1,33,3,2,2,0
+b979165d-6c0c-11e2-b1f5-4040782fde00,womens-harvard-crest-tee,3771,Harvard Ladies Crest T-Shirt,Color,Pink,Size,L,,,Quality,1,48,1,3,2,0
+ba1c2c87-6c0c-11e2-b1f5-4040782fde00,womens-harvard-crest-tee,3772,Harvard Ladies Crest T-Shirt,Color,Pink,Size,XL,,,Quality,1,38,2,2,2,0
+b56d83d6-6c0c-11e2-b1f5-4040782fde00,vineyard-vines-shep-shirt,3211,Ladies Vineyard Vines Shep Shirt,Color,Navy,Size,XS,,,Vineyard Vines,1,24,0,3,2,0
+b5f053f6-6c0c-11e2-b1f5-4040782fde00,vineyard-vines-shep-shirt,3212,Ladies Vineyard Vines Shep Shirt,Color,Navy,Size,S,,,Vineyard Vines,1,23,0,1,1,0
+b635d7fa-6c0c-11e2-b1f5-4040782fde00,vineyard-vines-shep-shirt,3213,Ladies Vineyard Vines Shep Shirt,Color,Navy,Size,M,,,Vineyard Vines,1,25,0,2,2,0
+b678a5f6-6c0c-11e2-b1f5-4040782fde00,vineyard-vines-shep-shirt,3214,Ladies Vineyard Vines Shep Shirt,Color,Navy,Size,L,,,Vineyard Vines,1,21,0,2,2,0
+b6af2066-6c0c-11e2-b1f5-4040782fde00,vineyard-vines-shep-shirt,3215,Ladies Vineyard Vines Shep Shirt,Color,Navy,Size,XL,,,Vineyard Vines,1,27,0,2,2,0
+b6bb5f23-6c0c-11e2-b1f5-4040782fde00,youth-harvard-crest-hooded-sweatshirt,3175,Youth Harvard Crest Hooded Sweatshirt,Color,Crimson,Size,YS,,,Quality,1,32,2,0,2,0
+5ed4a72c-b747-11e2-a415-bc764e10976c,youth-harvard-crest-hooded-sweatshirt,10101,Youth Harvard Crest Hooded Sweatshirt,Color,Oxford,Size,YS,,,Quality,1,47,2,2,3,48
+6dbfb06a-b747-11e2-a415-bc764e10976c,youth-harvard-crest-hooded-sweatshirt,10102,Youth Harvard Crest Hooded Sweatshirt,Color,Oxford,Size,YM,,,Quality,1,46,2,2,1,72
+7c01ccdb-b747-11e2-a415-bc764e10976c,youth-harvard-crest-hooded-sweatshirt,10103,Youth Harvard Crest Hooded Sweatshirt,Color,Oxford,Size,YL,,,Quality,1,47,2,0,2,168
+8a193954-b747-11e2-a415-bc764e10976c,youth-harvard-crest-hooded-sweatshirt,10104,Youth Harvard Crest Hooded Sweatshirt,Color,Oxford,Size,YXL,,,Quality,1,15,2,1,1,48
+b7a1dcad-6c0c-11e2-b1f5-4040782fde00,youth-harvard-crest-hooded-sweatshirt,3176,Youth Harvard Crest Hooded Sweatshirt,Color,Crimson,Size,YM,,,Quality,1,43,2,1,3,192
+b866e35f-6c0c-11e2-b1f5-4040782fde00,youth-harvard-crest-hooded-sweatshirt,3177,Youth Harvard Crest Hooded Sweatshirt,Color,Crimson,Size,YL,,,Quality,1,0,0,1,0,216
+b91424bc-6c0c-11e2-b1f5-4040782fde00,youth-harvard-crest-hooded-sweatshirt,3178,Youth Harvard Crest Hooded Sweatshirt,Color,Crimson,Size,YXL,,,Quality,1,6,2,1,2,72
+b7419761-e8c6-1af1-8a24-1eb604e29716,HarvardBottleOpener,11273,Harvard Bottle Opener,Colour,Crimson,,,,,Pin Badge Maker Company,1,945,15,17,10,0
+b8ca3a65-013d-11e4-fbb5-48e21cb56377,WomensArcT-Shirt,10358,Ladies Arc T-Shirt,Color,Crimson,Size,S,,,Quality,1,9,2,2,3,0
+060f02b1-c83d-11e6-fcd2-4cf5b38b7d55,WomensArcT-Shirt,10717,Ladies Arc T-Shirt,Color,Blue,Size,S,,,Quality,1,0,0,0,0,0
+060f02b1-c83d-11e6-fcd2-4cf5b8e986de,WomensArcT-Shirt,10718,Ladies Arc T-Shirt,Color,Blue,Size,M,,,Quality,1,0,0,0,0,0
+060f02b1-c83d-11e6-fcd2-4cf5bcdb0ab7,WomensArcT-Shirt,10719,Ladies Arc T-Shirt,Color,Blue,Size,L,,,Quality,1,4,1,0,0,0
+060f02b1-c83d-11e6-fcd2-4cf5c1ce9bdd,WomensArcT-Shirt,10720,Ladies Arc T-Shirt,Color,Blue,Size,XL,,,Quality,1,0,0,0,0,0
+b8ca3a65-013d-11e4-fbb5-48e22250fd5c,WomensArcT-Shirt,10359,Ladies Arc T-Shirt,Color,Oxford,Size,L,,,Quality,1,0,0,0,0,0
+b8ca3a65-013d-11e4-fbb5-48e22542870d,WomensArcT-Shirt,10360,Ladies Arc T-Shirt,Color,Ivory,Size,S,,,Quality,1,21,2,3,3,0
+b8ca3a65-013d-11e4-fbb5-48e23745b208,WomensArcT-Shirt,10361,Ladies Arc T-Shirt,Color,Crimson,Size,M,,,Quality,1,5,2,4,2,0
+b8ca3a65-013d-11e4-fbb5-48e23c81c792,WomensArcT-Shirt,10362,Ladies Arc T-Shirt,Color,Crimson,Size,L,,,Quality,1,11,3,2,2,0
+b8ca3a65-013d-11e4-fbb5-48e241af2c98,WomensArcT-Shirt,10363,Ladies Arc T-Shirt,Color,Crimson,Size,XL,,,Quality,1,31,3,2,2,0
+b8ca3a65-013d-11e4-fbb5-48e252f81847,WomensArcT-Shirt,10364,Ladies Arc T-Shirt,Color,Oxford,Size,XL,,,Quality,1,10,1,0,2,0
+b8ca3a65-013d-11e4-fbb5-48e2554dc297,WomensArcT-Shirt,10365,Ladies Arc T-Shirt,Color,Ivory,Size,M,,,Quality,1,34,2,2,4,0
+b8ca3a65-013d-11e4-fbb5-48e260cf4360,WomensArcT-Shirt,10366,Ladies Arc T-Shirt,Color,Ivory,Size,L,,,Quality,1,79,2,2,1,0
+b8ca3a65-013d-11e4-fbb5-48e2644a45e8,WomensArcT-Shirt,10367,Ladies Arc T-Shirt,Color,Ivory,Size,XL,,,Quality,1,40,3,2,3,0
+b8ca3a65-013d-11e4-fbb5-48e274266ba3,WomensArcT-Shirt,10368,Ladies Arc T-Shirt,Color,Oxford,Size,S,,,Quality,1,0,0,0,0,0
+b8ca3a65-013d-11e4-fbb5-48e2787b05fd,WomensArcT-Shirt,10369,Ladies Arc T-Shirt,Color,Oxford,Size,M,,,Quality,1,0,0,0,0,0
+b8ca3a65-013d-11e4-fbb5-5a22cd1bfabb,6,6,USPS Media Mail Parcel,,,,,,Freight,1,0,0,0,0,0,
+b8ca3a65-013d-11e4-fbb5-6ea1f1c29355,PleasepickthisforChairOrders,PleasepickthisforChairOrders,Please pick this for Chair Orders,,,,,Freight,1,0,0,0,0,0,,
+b8ca3a65-013d-11e4-fbb5-847fed7644d8,LifeinCrimson,10407,Life in Crimson,,,,,,HSA Publications,1,82,32,5,10,0,
+b8ca3a65-013d-11e4-fbb5-ae2306c86d48,HarvardAlumniatStadiumVintagePhoto,10408,Harvard Alumni at Stadium Vintage Photo,,,,ICONCEPT,1,0,0,0,0,0,,,
+b8ca3a65-013d-11e4-fbb5-ae23217211c6,ViewofHarvardStadiumVintagePhoto,10409,View of Harvard Stadium Vintage Photo,,,,ICONCEPT,1,0,0,0,0,0,,,
+b8ca3a65-013d-11e4-fbb5-ae2337ee1eea,ProtestAgainstVietnamWarVintagePhoto,10410,Protest Against Vietnam War Vintage Photo,,,,ICONCEPT,1,0,0,3,0,0,,,
+b8ca3a65-013d-11e4-fbb5-ae234ed948fa,HarvardBandonOpeningDayVintagePhoto,10411,Harvard Band on Opening Day Vintage Photo,,,,ICONCEPT,1,0,0,0,1,0,,,
+b8ca3a65-013d-11e4-fbb5-ae2374eaf642,JohnHarvardStatue1924VintagePhoto,10412,John Harvard Statue (1924) Vintage Photo,,,,ICONCEPT,1,0,0,0,0,0,,,
+b8ca3a65-013d-11e4-fbb5-ae239753f9a8,ActionDuringHarvard-YaleGameVintagePhoto,10413,Action During Harvard-Yale Game Vintage Photo,,,,ICONCEPT,1,0,0,0,0,0,,,
+bc305bf6-613d-11e4-f15a-166b9ace3b59,VintageCrewT-Shirt,10344,Vintage Crew T-Shirt,Color,Oxford,Size,S,,,Quality,1,80,1,1,2,504
+bc305bf6-613d-11e4-f15a-166ba100be39,VintageCrewT-Shirt,10345,Vintage Crew T-Shirt,Color,Oxford,Size,M,,,Quality,1,50,1,3,2,504
+bc305bf6-613d-11e4-f15a-166ba2d7c30a,VintageCrewT-Shirt,10346,Vintage Crew T-Shirt,Color,Oxford,Size,L,,,Quality,1,17,1,0,2,360
+bc305bf6-613d-11e4-f15a-166ba53e094c,VintageCrewT-Shirt,10347,Vintage Crew T-Shirt,Color,Oxford,Size,XL,,,Quality,1,38,2,1,2,288
+bc305bf6-613d-11e4-f15a-173f45235555,WineBottleKeychain,10348,Wine Bottle Keychain,Color,Crimson,,,,,LXG,1,0,1,0,0,0
+c0521c9e-6c3d-11e2-b1f5-4040782fde00,HBSBarrelPen,613,Harvard Business School Barrel Pen,Color,White,,,,,Arts & Cards,1,17,0,0,0,0
+c66e2667-9962-11e2-b1f5-4040782fde00,swivel-chair,SwivelChairWithoutPersona,Swivel Chair,Title,Without Personalization,Shield,Harvard Graduate School of Public Health,Standard Chair,1,0,0,0,0,0,,
+c8bafaf1-9962-11e2-b1f5-4040782fde00,swivel-chair,SwivelChairWithPersonaliz,Swivel Chair,Title,With Personalization,Shield,Harvard Graduate School of Public Health,Standard Chair,1,0,0,0,0,0,,
+c7d824aa-2c35-11e3-a415-bc764e10976c,HarvardEnamelCufflinks,10139,Harvard Enamel Cufflinks,Style,T-Bar,,,,,Smart Turnout,1,5,0,0,0,0
+d10507ba-2c35-11e3-a415-bc764e10976c,HarvardEnamelCufflinks,10140,Harvard Enamel Cufflinks,Style,Chain,,,,,Smart Turnout,1,26,0,0,0,0
+d41c2f53-9962-11e2-b1f5-4040782fde00,side-chair,SideChairWithoutPersona,Side Chair,Title,Without Personalization,Shield,Harvard Graduate School of Public Health,Standard Chair,1,0,0,0,0,0,,
+d77775dd-9962-11e2-b1f5-4040782fde00,side-chair,SideChairWithPersonaliz,Side Chair,Title,With Personalization,Shield,Harvard Graduate School of Public Health,Standard Chair,1,0,0,0,0,0,,
+d82df742-6c43-11e2-b1f5-4040782fde00,KSGFrameEx-EdFrame,2311,KSG Frame Ex-Ed Frame,,,,,,University Frames,1,0,0,15,0,0,
+df8a08c6-6c3f-11e2-b1f5-4040782fde00,WatercolorPostcard,632,Watercolor Postcard,,,,,,Quality,1,1777,0,107,45,0,
+e200ec19-6c3d-11e2-b1f5-4040782fde00,PewterKeychain,3779,Pewter Keychain,Color,Silver,,,,,Arts & Cards,1,218,46,47,30,0
+e52b2846-e93d-11e4-f98b-f4d9599bf843,HarvardSpeckledMug,10464,Harvard Speckled Mug,Color,Crimson,,,,,LXG,1,6,0,3,0,0
+e52b2846-e93d-11e4-f98b-f4d965c245ac,HarvardSpeckledMug,10465,Harvard Speckled Mug,Color,Green,,,,,LXG,1,3,0,0,0,0
+e52b2846-e93d-11e4-f98b-f8d8c69c536f,HarvardTumbler,10466,Harvard Tumbler,Color,Crimson,,,,,LXG,1,-1,3,5,0,0
+e52b2846-e93d-11e5-f98b-19ad70a60380,HarvardTumbler,10479,Harvard Tumbler,Color,Pink,,,,,LXG,1,0,4,5,3,0
+e52b2846-e93d-11e4-f98b-f8d90f161c74,HarvardChargePack,10467,Harvard Charge Pack,Color,Crimson,,,,,LXG,1,5,6,7,2,0
+e52b2846-e93d-11e5-f98b-15c1b8d00ffe,HarvardPerformanceT-shirt,10473,Harvard Performance T-shirt,Size,S,Color,Charcoal,,,Comprint,1,5,0,0,2,0
+e52b2846-e93d-11e5-f98b-15c1f0029d22,HarvardPerformanceT-shirt,10474,Harvard Performance T-shirt,Size,M,Color,Charcoal,,,Comprint,1,32,0,0,0,0
+e52b2846-e93d-11e5-f98b-15c1f40d7ad1,HarvardPerformanceT-shirt,10475,Harvard Performance T-shirt,Size,L,Color,Charcoal,,,Comprint,1,5,0,0,0,0
+e52b2846-e93d-11e5-f98b-15c1f7ab664d,HarvardPerformanceT-shirt,10476,Harvard Performance T-shirt,Size,XL,Color,Charcoal,,,Comprint,1,34,0,0,0,0
+e52b2846-e93d-11e5-f98b-15c415043368,HarvardTeddyBear,10477,Harvard Teddy Bear,Color,Chocolate,,,,,T-Shirt Bears,1,13,14,7,4,0
+060f02b1-c83d-11e6-fcd2-28dca226f540,HarvardTeddyBear,10653,Harvard Teddy Bear,Color,Brown,,,,,T-Shirt Bears,1,14,6,3,0,0
+e52b2846-e93d-11e5-f98b-15c435053d40,HarvardPandaBear,10478,Harvard Panda Bear,Color,,,,,,T-Shirt Bears,1,24,5,1,1,0
+e52b2846-e93d-11e5-f98b-17d3044efe18,university-frame,UniversityFramDefaultTitle,University Frame,,,,,,University Frames,1,0,0,0,0,0,
+e52b2846-e93d-11e5-f98b-20bd717a67dc,LogofitStrawHat,10480,Harvard Straw Hat,Color,Crimson,,,,,Logofit,1,3,0,0,0,0
+e52b2846-e93d-11e5-f98b-20e25845cc35,HarvardAthleticPolo,10485,Harvard Athletic Polo,Color,Black,Size,S,,,Charles River,1,21,0,0,2,0
+e52b2846-e93d-11e5-f98b-20e2a67f4b55,HarvardAthleticPolo,10486,Harvard Athletic Polo,Color,Black,Size,M,,,Charles River,1,0,0,0,0,0
+e52b2846-e93d-11e5-f98b-20e2a9752046,HarvardAthleticPolo,10487,Harvard Athletic Polo,Color,Black,Size,L,,,Charles River,1,0,0,0,0,0
+e52b2846-e93d-11e5-f98b-20e2b2bfe307,HarvardAthleticPolo,10488,Harvard Athletic Polo,Color,Black,Size,XL,,,Charles River,1,0,0,0,1,0
+e52b2846-e93d-11e5-f98b-24b56aadcc64,HarvardAthleticShorts,10489,Harvard Athletic Shorts,Color,Black,Size,S,,,Quality,1,2,0,0,0,0
+e52b2846-e93d-11e5-f98b-24b5804c6228,HarvardAthleticShorts,10490,Harvard Athletic Shorts,Color,Black,Size,M,,,Quality,1,0,0,0,0,0
+e52b2846-e93d-11e5-f98b-24b583c4d31f,HarvardAthleticShorts,10491,Harvard Athletic Shorts,Color,Black,Size,L,,,Quality,1,0,0,0,0,0
+e52b2846-e93d-11e5-f98b-24b588a8a63d,HarvardAthleticShorts,10492,Harvard Athletic Shorts,Color,Black,Size,XL,,,Quality,1,0,0,0,0,0
+e52b2846-e93d-11e5-f98b-24be9952e3e3,HarvardWomensAthleticShorts,10493,Harvard Ladies Athletic Shorts,Color,Maroon,Size,S,,,Quality,1,70,1,1,2,0
+e52b2846-e93d-11e5-f98b-24be9f2464a1,HarvardWomensAthleticShorts,10494,Harvard Ladies Athletic Shorts,Color,Maroon,Size,M,,,Quality,1,79,2,2,2,0
+e52b2846-e93d-11e5-f98b-24bea34cdd4e,HarvardWomensAthleticShorts,10495,Harvard Ladies Athletic Shorts,Color,Maroon,Size,L,,,Quality,1,35,2,2,2,0
+e52b2846-e93d-11e5-f98b-24bea83800ce,HarvardWomensAthleticShorts,10496,Harvard Ladies Athletic Shorts,Color,Maroon,Size,XL,,,Quality,1,26,2,2,1,0
+e52b2846-e93d-11e5-f98b-428e399275bb,HarvardFleeceQuarterZip,10499,Harvard Fleece Quarter Zip,Color,Navy,Size,XS,,,Ouray,1,28,0,0,1,0
+e52b2846-e93d-11e5-f98b-428e6a0eb50c,HarvardFleeceQuarterZip,10500,Harvard Fleece Quarter Zip,Color,Navy,Size,S,,,Ouray,1,58,0,0,2,0
+e52b2846-e93d-11e5-f98b-428e6d24b588,HarvardFleeceQuarterZip,10501,Harvard Fleece Quarter Zip,Color,Navy,Size,M,,,Ouray,1,4,0,0,1,0
+e52b2846-e93d-11e5-f98b-428e715c6dea,HarvardFleeceQuarterZip,10502,Harvard Fleece Quarter Zip,Color,Navy,Size,L,,,Ouray,1,7,0,0,1,0
+e52b2846-e93d-11e5-f98b-428e740e8446,HarvardFleeceQuarterZip,10503,Harvard Fleece Quarter Zip,Color,Navy,Size,XL,,,Ouray,1,17,0,0,1,0
+e52b2846-e93d-11e5-f98b-4ec97f851887,MassachusettsLocalShipping4-6day,MassachusettsLocalShipping4-6day,Massachusetts Local Shipping (4-6 day),,,,,Freight,1,0,0,0,0,0,,
+e52b2846-e93d-11e5-f98b-61943f2b97ab,StudentPick-UpMusthaveanHUID,StudentPick-UpMusthaveanHUID,Student Pick-Up (Must have an HUID),,,,,Freight,1,0,0,0,0,0,,
+e52b2846-e93d-11e5-f98b-79ba55e3e6fc,InsideHarvardThirdEdition,10509,Inside Harvard Third Edition,,,,,HSA Publications,1,363,7,4,0,0,,
+e52b2846-e93d-11e5-f98b-849e757a872f,ShieldT-shirt,10510,Harvard Athletic Shield T-shirt,Size,S,,,,,Comprint,1,5,0,0,0,0
+064dce89-c73d-11e5-ec2a-8a23e5c96c6d,ShieldT-shirt,10532,Harvard Athletic Shield T-shirt,Size,M,,,,,Comprint,1,2,0,0,0,0
+064dce89-c73d-11e5-ec2a-8a23e8f55227,ShieldT-shirt,10533,Harvard Athletic Shield T-shirt,Size,L,,,,,Comprint,1,2,0,0,0,0
+064dce89-c73d-11e5-ec2a-8a23ecb5691b,ShieldT-shirt,10534,Harvard Athletic Shield T-shirt,Size,XL,,,,,Comprint,1,1,0,0,0,0
+e52b2846-e93d-11e5-f98b-84a0f63f270d,LacrosseT-shirt,10512,Harvard Lacrosse T-shirt,Size,S,Color,Oxford,,,Comprint,1,0,0,0,0,0
+064dce89-c73d-11e5-ec2a-8a238683c60e,LacrosseT-shirt,10529,Harvard Lacrosse T-shirt,Size,M,Color,Oxford,,,Comprint,1,0,0,0,0,0
+064dce89-c73d-11e5-ec2a-8a238a18aa05,LacrosseT-shirt,10530,Harvard Lacrosse T-shirt,Size,L,Color,Oxford,,,Comprint,1,0,0,0,0,0
+064dce89-c73d-11e5-ec2a-8a238df040e2,LacrosseT-shirt,10531,Harvard Lacrosse T-shirt,Size,XL,Color,Oxford,,,Comprint,1,3,0,0,0,0
+e52b2846-e93d-11e5-f98b-84a2dd3f31be,BasketballT-shirt,10514,Harvard Basketball T-shirt,Size,S,Color,Oxford,,,Comprint,1,0,0,0,0,0
+064dce89-c73d-11e5-ec2a-8a21be96648c,BasketballT-shirt,10520,Harvard Basketball T-shirt,Size,M,Color,Oxford,,,Comprint,1,0,0,0,0,0
+064dce89-c73d-11e5-ec2a-8a21c4de788d,BasketballT-shirt,10521,Harvard Basketball T-shirt,Size,L,Color,Oxford,,,Comprint,1,0,0,0,0,0
+064dce89-c73d-11e5-ec2a-8a21c93e7410,BasketballT-shirt,10850,Harvard Basketball T-shirt,Size,XL,Color,Oxford,,,Comprint,1,0,0,0,0,0
+e52b2846-e93d-11e5-f98b-84a46338a6db,ShieldSweatshirt,10515,Athletic Shield Sweatshirt,Size,S,,,,,Comprint,1,0,0,0,0,0
+064dce89-c73d-11e5-ec2a-8a24501bbb86,ShieldSweatshirt,10535,Athletic Shield Sweatshirt,Size,M,,,,,Comprint,1,0,0,0,0,0
+064dce89-c73d-11e5-ec2a-8a2453943d28,ShieldSweatshirt,10536,Athletic Shield Sweatshirt,Size,L,,,,,Comprint,1,1,0,0,0,0
+064dce89-c73d-11e5-ec2a-8a245825789c,ShieldSweatshirt,10537,Athletic Shield Sweatshirt,Size,XL,,,,,Comprint,1,5,0,0,0,0
+e602752b-1377-a3cd-3b99-0d86f43c0e94,QuiltedCrew1,11035a,Quilted Crew,Colour,Ivory,Size,XS,,,Apparel Empire,1,46,0,0,0,0
+45b2104a-c46e-d854-e073-6128786c1120,QuiltedCrew1,11035,Quilted Crew,Colour,Ivory,Size,S,,,Apparel Empire,1,82,2,2,1,0
+9b735623-22b7-e9cd-864a-9b5ed5472c88,QuiltedCrew1,11038,Quilted Crew,Colour,Ivory,Size,XL,,,Apparel Empire,1,132,2,2,2,0
+d3338659-11ac-d66e-43df-38708816ea6c,QuiltedCrew1,11036,Quilted Crew,Colour,Ivory,Size,M,,,Apparel Empire,1,58,3,2,2,0
+f6dbea18-3eca-b766-8076-a56e162f3c9f,QuiltedCrew1,11037,Quilted Crew,Colour,Ivory,Size,L,,,Apparel Empire,1,181,2,2,3,0
+e9c40bbf-9683-11e3-a0f5-b8ca3a64f8f4,HarvardLaptopDecal,10277,Harvard Laptop Decal,Shield,Crest,,,,,"GloDesign, Inc.",1,0,0,0,0,0
+b8ca3a65-013d-11e4-fbb5-7f5aa9cb80b2,HarvardLaptopDecal,10383,Harvard Laptop Decal,Shield,HLS,,,,,"GloDesign, Inc.",1,0,0,0,0,0
+b8ca3a65-013d-11e4-fbb5-7f5ab7a14156,HarvardLaptopDecal,10384,Harvard Laptop Decal,Shield,HBS,,,,,"GloDesign, Inc.",1,0,0,0,0,0
+fbdf3f53-9683-11e3-a0f5-b8ca3a64f8f4,HarvardLaptopDecal,10278,Harvard Laptop Decal,Shield,Athletic H,,,,,"GloDesign, Inc.",1,0,0,0,0,0
+ef85308c-7bb4-11e2-b1f5-4040782fde00,the-harvard-shop-heritage-lamp,TheHarvardShoWithoutPersona,The Harvard Shop Heritage Lamp,Title,Without Personalization,Shield,Harvard Graduate School of Public Health,Standard Chair,1,0,0,0,0,0,,
+f2af88c2-7bb4-11e2-b1f5-4040782fde00,the-harvard-shop-heritage-lamp,TheHarvardShoWithPersonaliz,The Harvard Shop Heritage Lamp,Title,With Personalization,Shield,Harvard Graduate School of Public Health,Standard Chair,1,0,0,0,0,0,,
+f142bd28-c65e-b998-41fb-6a0cda22c0c9,HarvardStripedScarf1,11272,Harvard Striped Scarf,Colour,Crimson,,,,,Apparel Empire,1,2,5,3,7,0
+f300088f-850f-11e2-b1f5-4040782fde00,windflowumbrellas,10015,Windflow Umbrellas,Title,Default,,,,,STORMDUDS,1,0,0,0,0,0
+f3d16dea-6c42-11e2-b1f5-4040782fde00,HarvardGraduateSchoolofEducationShotGlass,4030,Harvard Graduate School of Education Shot Glass,,,,Quality,1,0,0,0,0,0,,,
+f55181df-6c3e-11e2-b1f5-4040782fde00,HarvardGenericGradSchoolFrame,2730,Harvard Generic Grad School Frame,,,,,University Frames,1,0,0,0,0,0,,
+fe5dfbca-c7a8-11e2-a415-bc764e10976c,DomesticShipping,10061,Domestic Shipping,,,,,,Freight,1,0,0,0,0,0,
+0274a24e-fd3d-11e6-f3f1-1a2e5e6a8b38,,10643,,,,,,,,,,44,3,2,2,0
+0274a24e-fd3d-11e6-f3f1-1a2e5ecb1a20,,10644,,,,,,,,,,48,1,2,1,0
+0274a24e-fd3d-11e6-f3f1-1a2e5f4d168e,,10645,,,,,,,,,,42,2,2,2,0
+0274a24e-fd3d-11e6-f3f1-1a2e5fc73394,,10646,,,,,,,,,,27,2,2,2,0
+0274a24e-fd3d-11e6-f3f1-1a2e5fc73394,,10068,,,,,,,,,,4,0,0,0,0
+4e3f2d87-6c0c-11e2-b1f5-4040782fde00,,2717,,,,,,,,,,0,0,0,0,0
+06e08a30-ee3d-11e7-ec24-8e4b903ee4ec,,11211,,,,,,,,,,0,0,0,0,144
+69536905-6c43-11e2-b1f5-4040782fde00,,2716,,,,,,,,,,0,0,0,0,0
+22256132-6b77-5972-131b-ce456bd17b0f,,11274,,,,,,,,,,0,0,0,0,151
+022894d1-fd3d-11e7-e6e7-9c7cbe38a55d,,11227,,,,,,,,,,0,0,0,0,148
+06e08a30-ee3d-11e7-ec24-89c32f883dca,,11199,,,,,,,,,,0,0,0,0,144
+022894d1-fd3d-11e7-e6e7-9c7c60d640fb,,11226,,,,,,,,,,0,0,0,0,144
+06e08a30-ee3d-11e7-ec24-89c3985304d7,,11200,,,,,,,,,,0,0,0,0,0
+4ea5009c-6c0c-11e2-b1f5-4040782fde00,,499,,,,,,,,,,0,0,0,0,0
+502b2e03-6c0c-11e2-b1f5-4040782fde00,,516,,,,,,,,,,0,0,0,0,0
+4e65a05c-6c0c-11e2-b1f5-4040782fde00,,498,,,,,,,,,,0,0,0,0,0
+4fd29812-6c0c-11e2-b1f5-4040782fde00,,513,,,,,,,,,,0,0,0,0,0
+4e02306f-6c0c-11e2-b1f5-4040782fde00,,497,,,,,,,,,,0,0,0,0,0
+4f8d54e4-6c0c-11e2-b1f5-4040782fde00,,509,,,,,,,,,,0,0,0,0,0
+4ef008ea-6c0c-11e2-b1f5-4040782fde00,,500,,,,,,,,,,0,0,0,0,0
+50610b1d-6c0c-11e2-b1f5-4040782fde00,,537,,,,,,,,,,0,0,0,0,0
+695501a5-6c0c-11e2-b1f5-4040782fde00,,501,,,,,,,,,,0,0,0,0,0
+50ab50a9-6c0c-11e2-b1f5-4040782fde00,,538,,,,,,,,,,0,0,0,0,0

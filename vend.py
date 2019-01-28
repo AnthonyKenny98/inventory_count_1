@@ -33,7 +33,7 @@ class Vend:
 		self.progress_consignments = []
 
 		url = "https://{}.vendhq.com/api/2.0/consignments".format(self.domain_prefix)
-		
+
 		payload = {
 			"type" 		: "STOCKTAKE",
 			"status"	: "STOCKTAKE_SCHEDULED"
@@ -42,6 +42,9 @@ class Vend:
 
 		payload["status"] = "STOCKTAKE_IN_PROGRESS"
 		self.progress_consignments = requests.get(url, headers = self.headers, params = payload).json()["data"]
+		payload["status"] = "STOCKTAKE_IN_PROGRESS_PROCESSED"
+		self.progress_consignments += requests.get(url, headers = self.headers, params = payload).json()["data"]
+
 
 	def create_inventory_count(self, outlet, name):
 
@@ -99,3 +102,13 @@ class Vend:
 
 		return requests.post(url, headers = self.headers, data = payload)
 		
+	def get_sales(self):
+
+		url = "https://{}.vendhq.com/api/register_sales".format(self.domain_prefix)
+
+		payload = {
+			"outlet_id" : outlets["Basement"],
+			"page_size"	: 50
+		}
+
+		return requests.get(url, headers = self.headers, params = payload).text

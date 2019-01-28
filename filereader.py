@@ -7,7 +7,7 @@ def load_db(filepath):
 
 	# set up file and csv readers
 	try:
-		file = open(filepath, 'rb')
+		file = open(filepath, 'r')
 		rows = csv.reader(file, delimiter = ',', quotechar = '|')
 		csv_len = len(file.readlines())
 	except:
@@ -19,7 +19,7 @@ def load_db(filepath):
 	bar.start()
 	
 	file.seek(0)
-	rows.next()
+	next(rows)
 	for row in rows:
 
 		product = {
