@@ -1,4 +1,4 @@
-# inventory_count_1
+# THS_Inventory_Count
 
 Before Launch, navigate to program directory and make sure to install requirements:
 $ pip install -r requirements.txt
